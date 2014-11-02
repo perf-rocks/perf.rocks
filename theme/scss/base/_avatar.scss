@@ -1,0 +1,11 @@
+// -----------------------------------------------------------------------------
+// Avatar
+// -----------------------------------------------------------------------------
+
+.avatar {
+    border-radius: 50%;
+    background-color: get-color(brand, primary);
+    background-blend-mode: luminosity;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}

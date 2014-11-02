@@ -1,0 +1,110 @@
+// -----------------------------------------------------------------------------
+// Settings
+//
+// Table of contents:
+// 1. Colors
+// 2. Breakpoints
+// 3. Typography
+// 4. Spacing
+// 5. Sizes
+//
+// -----------------------------------------------------------------------------
+
+// -----------------------------------------------------------------------------
+// 1. Colors
+// -----------------------------------------------------------------------------
+
+$colors: (
+    'brand': (
+        'primary':      #4299FF,
+        'secondary':    green
+    ),
+    'base': (
+        'white':        #fff,
+        'gray-lighter': #dedede,
+        'gray-light':   #a3a3a4,
+        'gray':         #808081,
+        'gray-dark':    #5f5f5f,
+        'gray-darker':  #39373c,
+        'black':        #000,
+        'red':          #9d261d,
+        'green':        #4fda8a,
+        'blue':         #36c,
+        'yellow':       #fffbe4,
+        'orange':       #f89406,
+        'pink':         #d40072,
+        'purple':       #7a43b6
+    ),
+    'text': (
+        'base':         #3B4C60,
+        'light':        #515E6E,
+        'weak':         #788AA0,
+        'brand':        #4299FF,
+    ),
+    'links': (
+        'base':         #4299FF,
+        'hover':        #4299FF,
+        'active':       #4299FF,
+        'visited':      #4299FF
+    )
+);
+
+// -----------------------------------------------------------------------------
+// 2. Breakpoints
+// -----------------------------------------------------------------------------
+
+$breakpoints: (
+    'small': (
+        'size':         320px,
+        'class-prefix': 's',
+    ),
+    'medium': (
+        'size':         760px,
+        'class-prefix': 'm',
+    ),
+    'large': (
+        'size':         940px,
+        'class-prefix': 'l',
+    ),
+);
+
+// -----------------------------------------------------------------------------
+// 3. Typography
+// -----------------------------------------------------------------------------
+
+$base-font-size:        16px;
+$base-line-height:      24px;
+
+$base-font-family:      'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+$alternate-font-family: Georgia, 'Times New Roman', serif;
+$brand-face:            $base-font-family;
+
+$typographic-scale: (
+    'giga':             90px,
+    'mega':             72px,
+    'kilo':             60px,
+    'alpha':            46px,
+    'beta':             36px,
+    'gamma':            24px,
+    'delta':            21px,
+    'epsilon':          18px,
+    'zeta':             16px,
+    'milli':            14px,
+    'micro':            12px,
+    'nano':             11px,
+);
+
+// -----------------------------------------------------------------------------
+// 4. Spacing
+// -----------------------------------------------------------------------------
+
+$base-spacing-unit:      22px;
+$half-spacing-unit:      round($base-spacing-unit / 2);
+$quarter-spacing-unit:   round($base-spacing-unit / 4);
+
+// -----------------------------------------------------------------------------
+// 5. Sizes
+// -----------------------------------------------------------------------------
+
+$site-wrapper-width:     1260px;
+

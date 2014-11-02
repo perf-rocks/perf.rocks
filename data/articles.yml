@@ -1,0 +1,137 @@
+-
+    title: Setting a Performance Budget
+    author: Tim Kadlec
+    category: Performance budgeting
+    url: http://timkadlec.com/2013/01/setting-a-performance-budget/
+    tags: [budget]
+-
+    title: 'DevTools: Visually Re-engineering CSS For Faster Paint Times'
+    author: Addy Osmani
+    category: CSS
+    url: http://addyosmani.com/blog/devtools-visually-re-engineering-css-for-faster-paint-times/
+    tags: [rendering, tooling, paint, fps]
+-
+    title: 'Fixing Layout thrashing in the real world'
+    author: Matt Andrews
+    category: CSS
+    url: https://mattandre.ws/2014/05/really-fixing-layout-thrashing/
+    tags: [rendering, layout, dom]
+-
+    title: 'CSS Triggers'
+    author: Paul Lewis
+    category: CSS
+    url: http://aerotwist.com/blog/css-triggers/
+    tags: [rendering, layout, paint]
+-
+    title: 'Everything You Need to Know About the CSS will-change Property'
+    author: Sara Soueidan
+    category: CSS
+    url: https://dev.opera.com/articles/css-will-change-property/
+    tags: [rendering, layout, paint]
+-
+    title: 'One Step Ahead: Improving Performance with Prebrowsing'
+    author: Santiago Valderrama
+    category: Other
+    url: http://alistapart.com/article/one-step-ahead-improving-performance-with-prebrowsing
+    tags: [prefetching, prerendering, prebrowsing]
+-
+    title: 'CSS at Lonely Planet'
+    author: Ian Feather
+    category: CSS
+    url: http://www.ianfeather.co.uk/css-at-lonely-planet/
+    tags: [css, styleguide, design]
+-
+    title: 'Resource Timing practical tips'
+    author: Steve Souders
+    category: Analysis
+    url: http://www.stevesouders.com/blog/2014/08/21/resource-timing-practical-tips/
+    tags: [timing, javascript, measure]
+-
+    title: 'Loading webfonts with high performance on responsive websites'
+    author: Adam Beres-Deak
+    category: Webfonts
+    url: http://bdadam.com/blog/loading-webfonts-with-high-performance.html
+    tags: [webfonts]
+-
+    title: 'How we make RWD sites load fast as heck'
+    author: Scott Jehl
+    category: General
+    url: http://www.filamentgroup.com/lab/performance-rwd.html
+    tags: [rwd]
+-
+    title: 'The Principles of Performance by Design'
+    author: Eric W. Mobley
+    category: Design
+    url: http://www.filamentgroup.com/lab/performance-rwd.html
+    tags: [design, principles]
+-
+    title: "A Beginner's Guide to Perceived Performance: 4 Ways to Make Your Mobile Site Feel Like a Native App"
+    author: Kyle Peatt
+    category: Design
+    url: http://www.mobify.com/blog/beginners-guide-to-perceived-performance/
+    tags: [design, principles]
+-
+    title: "Optimizing the Critical Rendering Path"
+    author: Stephan Max
+    category: Critical Rendering Path
+    url: http://www.sitepoint.com/optimizing-critical-rendering-path/
+    tags: ['critical rendering path', 'page load', 'rendering']
+-
+    title: "RWD Bloat"
+    author: Dave Rupert
+    category: General
+    url: http://daverupert.com/2014/07/rwd-bloat/
+    tags: ['critical rendering path', 'page load', 'rendering']
+-
+    title: "RWD Bloat Part II"
+    author: Dave Rupert
+    category: General
+    url: http://daverupert.com/2014/07/rwd-bloat-part-ii/
+    tags: ['critical rendering path', 'page load', 'rendering']
+-
+    title: "Responsive Images in Practice"
+    author: Eric Portis
+    category: Images
+    url: http://alistapart.com/article/responsive-images-in-practice?utm_content=buffer13dd4
+    tags: ['images', 'rwd']
+-
+    title: "Improving UX Through Front-End Performance"
+    author: Lara Hogan
+    category: UX
+    url: http://alistapart.com/article/improving-ux-through-front-end-performance
+    tags: ['ux']
+-
+    title: "Performance Matters"
+    category: General
+    url: http://alistapart.com/column/performance-matters
+    tags: ['ux']
+-
+    title: "Improving Smashing Magazine’s Performance: A Case Study"
+    author: Vitaly Friedman
+    category: General
+    url: http://www.smashingmagazine.com/2014/09/08/improving-smashing-magazine-performance-case-study/
+    tags: ['css', 'rwd', 'critical rendering path']
+-
+    title: '"RWD Is Bad for Performance" Is Good for Performance'
+    author: Tim Kadlec
+    category: RWD
+    url: http://timkadlec.com/2014/07/rwd-is-bad-for-performance-is-good-for-performance/
+    tags: ['rwd']
+-
+    title: Fast Enough
+    author: Tim Kadlec
+    category: General
+    url: http://timkadlec.com/2014/01/fast-enough/
+    tags: ['metrics', 'ux']
+-
+    title: Performance Budgeting With Grunt
+    author: Tim Kadlec
+    category: Performance budgeting
+    url: http://timkadlec.com/2014/05/performance-budgeting-with-grunt/
+    tags: ['metrics', 'ux']
+-
+    title: Deferring Images
+    author: Patrick Sexton
+    category: Images
+    url: http://www.feedthebot.com/pagespeed/defer-images.html
+    tags: ['images']

@@ -1,0 +1,74 @@
+// -----------------------------------------------------------------------------
+// Cards
+// -----------------------------------------------------------------------------
+
+$base-card-list-columns: 1;
+$medium-card-list-columns: 3;
+$large-card-list-columns: 4;
+$card-list-columns-spacing: 1%;
+
+.card-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+
+    &__item {
+        @extend %p;
+        @extend %mb--large;
+
+        @include bk(medium) {
+            width: (100% / $medium-card-list-columns - $card-list-columns-spacing * 2);
+            margin-left: $card-list-columns-spacing;
+            margin-right: $card-list-columns-spacing;
+        }
+        @include bk(large) {
+            width: (100% / $large-card-list-columns - $card-list-columns-spacing * 2);
+            margin-left: $card-list-columns-spacing;
+            margin-right: $card-list-columns-spacing;
+        }
+
+
+        position: relative;
+        max-width: 300px;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 4px;
+        border: solid 2px rgba(get-color(brand, primary), .05);
+
+        &--large {
+            @include bk(medium) {
+                max-width: 600px;
+                width: 48%;
+            }
+
+            @include bk(large) {
+                max-width: 600px;
+                width: 48%;
+            }
+        }
+
+        &--faded {
+            opacity: .5;
+        }
+    }
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+    align-items: stretch;
+    flex: 1;
+    min-height: 360px;
+
+    &__content {
+        flex: 1;
+    }
+}
+
+    .card__footer {
+        align-self: flex-end;
+    }

@@ -1,0 +1,25 @@
+// -----------------------------------------------------------------------------
+// Buttons
+// -----------------------------------------------------------------------------
+
+.btn {
+    display: inline-block;
+    padding: .65em 1em;
+    text-align: center;
+    border: solid 2px get-color(brand, primary);
+    border-radius: 4px;
+    transition: all .15s cubic-bezier(0.4, 0, 0.2, 1);
+
+    &:hover,
+    &:active {
+        background-color: get-color(brand, primary);
+        color: get-color(base, 'white');
+    }
+
+    &--tiny {
+        @extend %nano;
+        padding: .3em .5em;
+        border-width: 1px;
+    }
+}
+

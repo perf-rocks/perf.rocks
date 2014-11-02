@@ -1,0 +1,5 @@
+_gh_pages
+tmp
+vendor
+node_modules
+npm-debug.log

@@ -1,0 +1,23 @@
+// -----------------------------------------------------------------------------
+// Background image
+// -----------------------------------------------------------------------------
+
+.bg {
+    background-repeat: no-repeat;
+    background-size: 175vh;
+    background-position: 100% 0;
+    background-image: image-url('header-bg-1.svg');
+
+    @include bk(small) {
+        background-position: 100% -100px;
+    }
+
+    @include bk(medium) {
+        background-size: 150vh;
+        background-position: 25% -100px;
+    }
+
+    @media screen and(min-height: 900px) {
+        background-size: 150vh;
+    }
+}

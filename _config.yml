@@ -1,0 +1,56 @@
+# ------------------------------------------------------------------------------
+# Build config
+# ------------------------------------------------------------------------------
+
+# Templates
+templates:        templates
+partials:         <%= site.templates %>/partials/**/*.swig
+helpers:          <%= site.templates %>/helpers
+layouts:          <%= site.templates %>/layouts
+pages:            <%= site.templates %>/pages
+layout:           default.swig
+
+# Data
+data:             data
+
+# Destination
+dest:             _gh_pages
+assets:           /assets
+css:              <%= site.assets %>/css
+img:              <%= site.assets %>/img
+js:               <%= site.assets %>/js
+
+# Theme
+theme:            theme
+sass:             <%= site.theme %>/scss
+theme_img:        <%= site.theme %>/img
+
+# Dist
+dist_css:        <%= site.dest %>/<%= site.css %>
+dist_img:        <%= site.dest %>/<%= site.img %>
+dist_js:         <%= site.dest %>/<%= site.js %>
+
+# Extensions
+plugins:
+  - assemble-contrib-anchors
+  - assemble-contrib-wordcount
+  - assemble-contrib-toc
+
+# ------------------------------------------------------------------------------
+# Project metadata
+# ------------------------------------------------------------------------------
+
+author:
+  name:           Daniel Guillan
+  twitter:        danielguillan
+  url:            http://www.danielguillan.com
+ga:               UA-56631505-1
+
+title:            'Perf Rocks'
+description:      'Find resources that help you build lightning fast websites'
+keywords:         'performance, front-end, budgeting, monitoring, grunt, fast websites, speed'
+
+url:              http://www.perf.rocks
+github:
+    repo:         https://github.com/danielguillan/perf.rocks
+    issues:       https://github.com/danielguillan/perf.rocks/issues

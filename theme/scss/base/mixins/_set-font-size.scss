@@ -1,0 +1,26 @@
+// -----------------------------------------------------------------------------
+// Set font
+//
+// Sets base html font-size and line-height. Font size is converted into
+// percentage and line-height into a unit-less value. Use within media queries
+// for responsive typography.
+//
+// @usage
+//  // Base
+//   @include set-font-size(24px, 36px);
+//  // Responsive design
+//  @media only screen and (min-width: 30em) {
+//      @include set-font-size(18px, 24px);
+//  }
+//
+// -----------------------------------------------------------------------------
+
+@mixin set-font-size($font-size: 16px, $base-line: 21px ) {
+    $fs: (($font-size / 1px ) / 16) * 100;
+    $bl: ($base-line / $font-size);
+
+    html {
+        font-size: $fs * 1%;
+        line-height: $bl;
+    }
+}

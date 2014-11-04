@@ -1,0 +1,7 @@
+{
+  "name": "Perf.Rocks",
+  "version": "0.1.0",
+  "main": [
+    "tasks/replacements.js"
+  ]
+}

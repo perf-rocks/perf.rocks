@@ -12,7 +12,7 @@ slug: index
 
 <div class="wrapper">
     <ul class="article-list">
-        {% for talk in talks %}
+        {% for talk in talks|invert %}
             <li class="article-list__item | mb">
                 <h2 class="m0"><a class="unlink" href="{% if talk.talk_url %}{{ talk.talk_url }}{% else %}{{ talk.slides_url }}{% endif %}">{{ talk.title }}</a></h2>
                 <p class="micro | weak-text-color | m0">by <a href="/people/{{ talk.author|slug }}/">{{ talk.author }}</a></p>

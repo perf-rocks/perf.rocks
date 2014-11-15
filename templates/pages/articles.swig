@@ -13,7 +13,7 @@ slug: index
 <div class="wrapper">
 
     <ul class="article-list">
-        {% for article in articles %}
+        {% for article in articles|invert %}
             <li class="article-list__item">
                 <h2 class="m0"><a class="unlink" href="{{ article.url }}">{{ article.title }}</a></h2>
                 {% if article.author %}

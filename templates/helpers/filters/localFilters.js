@@ -113,6 +113,10 @@ filters.length = function (obj) {
   return obj.length;
 }
 
+filters.invert = function (obj) {
+  return obj.reverse();
+}
+
 module.exports.register = function (swig, opts) {
   opts = opts || {};
 

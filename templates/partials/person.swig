@@ -33,6 +33,10 @@ base_url: "../"
                     {% for talk in person_talks %}
                         <li class="article-list__item">
                             <p class="m0"><a class="unlink" href="{% if talk.talk_url %}{{ talk.talk_url }}{% else %}{{ talk.slides_url }}{% endif %}">{{ talk.title }}</a></p>
+                            <p>
+                                {% if talk.talk_url %}<a class="btn btn--tiny | mb--tiny" href="{{ talk.talk_url }}">video</a>{% endif %}
+                                {% if talk.slides_url %}<a class="btn btn--tiny | mb--tiny" href="{{ talk.slides_url }}">slides</a>{% endif %}
+                            </p>
                         </li>
                     {% endfor %}
                 </ul>

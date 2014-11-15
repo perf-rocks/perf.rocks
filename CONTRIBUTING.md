@@ -1,1 +1,1 @@
-Please see the [Contributing to Assemble](http://assemble.io/contributing) guide for information on contributing to this project.
+More info coming soon. In the meantime submit your ressources by opening a new issue.

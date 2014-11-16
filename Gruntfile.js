@@ -165,7 +165,14 @@ module.exports = function(grunt) {
                     htmlroot: '_gh_pages',
                 },
                 files: {
-                    '<%= site.dist_css %>/style.css': ['_gh_pages/index.html', '_gh_pages/people/index.html', '_gh_pages/articles/index.html', '_gh_pages/tools/index.html', '_gh_pages/talks-and-slides/index.html']
+                    '<%= site.dist_css %>/style.css': [
+                        '_gh_pages/index.html',
+                        '_gh_pages/people/index.html',
+                        '_gh_pages/articles/index.html',
+                        '_gh_pages/tools/index.html',
+                        '_gh_pages/talks-and-slides/index.html',
+                        '_gh_pages/people/addy-osmani/index.html'
+                    ]
                 }
             }
         },

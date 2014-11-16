@@ -163,3 +163,33 @@
     grunt_plugin: https://github.com/andismith/grunt-responsive-images
     categories: ['Images']
     tags: ['images', 'rwd']
+-
+    name: csscss
+    description: 'A CSS redundancy analyzer that analyzes redundancy. csscss will parse any CSS files you give it and let you know which rulesets have duplicated declarations.'
+    node_module: https://github.com/zmoazeni/csscss
+    grunt_plugin: https://github.com/peterkeating/grunt-csscss
+    gulp_plugin: https://github.com/morishitter/gulp-csscss
+    categories: ['CSS']
+    tags: ['css', 'duplicates']
+-
+    name: cwebp
+    description: 'Convert images to WebP'
+    node_module: https://github.com/imagemin/cwebp-bin
+    grunt_plugin: https://github.com/somerandomdude/grunt-webp
+    gulp_plugin: https://github.com/sindresorhus/gulp-webp
+    categories: ['Images']
+    tags: ['images', 'webp']
+-
+    name: DareBoost
+    description: 'DareBoost offers performance analysis and monitoring (real browsers). It integrates Google Page Speed, YSlow, W3C validators and its own best practices, with tailor-made tips on specific technologies like jQuery, WordPress, etc'
+    website: https://www.dareboost.com/
+    categories: ['Performance metrics']
+    tags: ['metrics', 'analysis']
+-
+    name: HTMLMinifier
+    description: 'HTMLMinifier is a highly configurable, well-tested, Javascript-based HTML minifier, with lint-like capabilities.'
+    node_module: https://github.com/kangax/html-minifier
+    grunt_plugin: https://github.com/gruntjs/grunt-contrib-htmlmin
+    gulp_plugin: https://github.com/jonschlinkert/gulp-htmlmin
+    categories: ['HTML']
+    tags: ['html', 'minifier']

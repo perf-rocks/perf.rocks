@@ -1,6 +1,7 @@
 ---
 layout: default.swig
 title: People
+description: 'Performance evangelists. People that make the web a better –almost instant– place.'
 base_url: "../"
 section: people
 slug: index
@@ -15,7 +16,7 @@ slug: index
             {% set person_articles = person.name|author_related(articles) %}
 
             <li class="people-list__item | text--center">
-                <a class="unlink" href="/people/{{ person.name|slug }}">
+                <a class="unlink" href="/people/{{ person.name|slug }}" title="{{ person.name }} profile on Perf.Rocks">
                     <img class="avatar | mb" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="background-image: url('{{ site.img }}/{{ person.name|slug }}.jpg')" width="128" height="128" alt="{{ person.name }}">
                     <h3 class="m0">{{ person.name }}</h3>
                 </a>

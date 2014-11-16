@@ -1,6 +1,7 @@
 ---
 layout: default.swig
 title: Tools
+description: 'Performance analysis, optimization and monitoring tools including Grunt, Gulp and Brocoli plugins.'
 base_url: "../"
 section: tools
 slug: index
@@ -20,7 +21,7 @@ slug: index
                         <h2 Class="line-heading">{{ tool.name }}</h2>
                     </header>
                     <div class="card__content">
-                        <p class="weak-text-color | m0">{{ tool.description }}</p>
+                        <p class="weak-text-color | m0">{{ tool.description|truncate(200) }}</p>
                     </div>
                     <footer class="card__footer">
                         {% if tool.website %}

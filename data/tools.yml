@@ -145,3 +145,21 @@
     categories: ['CSS']
     related: []
     tags: ['colors', 'metrics']
+-
+    name: CSS Colorguard
+    description: 'A tool for measuring browser performance metrics (like frame rates, expensive layouts, paints, styles, etc.). For Web pages, Cordova/Phonegap and other Hybrid applications. Metrics are measured while mimicking real user interactions - clicking buttons, typing content, etc. Tool collects the metrics from sources like about:tracing, Chrome Devtools timeline, IE UI Responsiveness tab, Xperf, etc. Monitor this information regularly by integrating the tool with continuous integration systems.'
+    node_module: https://github.com/axemclion/browser-perf
+    categories: ['Performance metrics']
+    tags: ['layout', 'paint', 'fps', 'metrics']
+-
+    name: Calibre
+    description: 'Performance, covered. Calibre tracks how long your pages take to load, how big or small your pages are becoming as well as browser scroll performance. Janky page? You’ll know about it straight away.'
+    website: https://calibreapp.com/
+    categories: ['Performance metrics']
+    tags: ['telemetry', 'metrics']
+-
+    name: grunt-responsive-images
+    description: 'Produce images at different sizes for responsive websites'
+    grunt_plugin: https://github.com/andismith/grunt-responsive-images
+    categories: ['Images']
+    tags: ['images', 'rwd']

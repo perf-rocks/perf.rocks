@@ -112,6 +112,12 @@ module.exports = function(grunt) {
                 flatten: true,
                 src:     '<%= site.theme_img %>/**',
                 dest:    '<%= site.dist_img %>/',
+            },
+            cname: {
+                expand:  true,
+                flatten: true,
+                src:     'CNAME',
+                dest:    '<%= site.dest %>/',
             }
         },
 
@@ -238,7 +244,7 @@ module.exports = function(grunt) {
         'clean',
         'assemble',
         'imagemin',
-        'copy',
+        'copy:images',
         'compass',
         'autoprefixer',
         'px_to_rem',
@@ -249,6 +255,7 @@ module.exports = function(grunt) {
 
     grunt.registerTask('deploy', [
         'build',
+        'copy:cname',
         'gh-pages'
     ]);
 

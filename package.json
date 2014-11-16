@@ -32,7 +32,6 @@
     "grunt": "~0.4.2",
     "grunt-contrib-clean": "~0.5.0",
     "grunt-contrib-copy": "^0.7.0",
-    "grunt-sync-pkg": "~0.1.2",
     "handlebars-helper-prettify": "~0.2.1",
     "pretty": "~0.1.1",
     "grunt-verb": "~0.2.3",
@@ -50,7 +49,8 @@
     "grunt-html-build": "^0.3.2",
     "grunt-autoprefixer": "^1.0.1",
     "grunt-px-to-rem": "^0.3.2",
-    "grunt-contrib-imagemin": "^0.9.2"
+    "grunt-contrib-imagemin": "^0.9.2",
+    "grunt-gh-pages": "^0.9.1"
   },
   "keywords": [
     "assemble boilerplate",

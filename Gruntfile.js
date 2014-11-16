@@ -202,7 +202,20 @@ module.exports = function(grunt) {
                     },
                 }
             }
-        }
+        },
+
+        'gh-pages': {
+            options: {
+
+            },
+            'gh-pages': {
+                options: {
+                    base: '<%= site.dest %>',
+                    message: 'New version',
+                },
+                src: ['**/*']
+            },
+        },
 
     });
 
@@ -217,7 +230,7 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-autoprefixer');
     grunt.loadNpmTasks('grunt-html-build');
     grunt.loadNpmTasks('grunt-px-to-rem');
-    grunt.loadNpmTasks('grunt-sync-pkg');
+    grunt.loadNpmTasks('grunt-gh-pages');
     grunt.loadNpmTasks('grunt-uncss');
     grunt.loadNpmTasks('grunt-verb');
 
@@ -232,7 +245,11 @@ module.exports = function(grunt) {
         'uncss',
         'cssmin',
         'htmlbuild',
-        'sync'
+    ]);
+
+    grunt.registerTask('deploy', [
+        'build',
+        'gh-pages'
     ]);
 
     grunt.registerTask('default', [

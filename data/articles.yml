@@ -135,3 +135,9 @@
     category: Images
     url: http://www.feedthebot.com/pagespeed/defer-images.html
     tags: ['images']
+-
+    title: CSS Guidelines
+    author: Harry Roberts
+    category: CSS
+    url: http://cssguidelin.es/
+    tags: ['css', 'architecture']

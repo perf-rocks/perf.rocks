@@ -146,7 +146,7 @@
     related: []
     tags: ['colors', 'metrics']
 -
-    name: CSS Colorguard
+    name: Browser-perf
     description: 'A tool for measuring browser performance metrics (like frame rates, expensive layouts, paints, styles, etc.). For Web pages, Cordova/Phonegap and other Hybrid applications. Metrics are measured while mimicking real user interactions - clicking buttons, typing content, etc. Tool collects the metrics from sources like about:tracing, Chrome Devtools timeline, IE UI Responsiveness tab, Xperf, etc. Monitor this information regularly by integrating the tool with continuous integration systems.'
     node_module: https://github.com/axemclion/browser-perf
     categories: ['Performance metrics']

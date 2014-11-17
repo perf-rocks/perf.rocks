@@ -153,3 +153,9 @@
     category: General
     url: http://browserdiet.com/en/
     tags: ['principles', 'guide', 'tools']
+-
+    title: Critical Path Performance Optimization at Pony Foo
+    author: Nicolas Bevacqua
+    category: Critical Rendering Path
+    url: Critical Path Performance Optimization at Pony Foo
+    tags: ['page load', 'critical rendering path']

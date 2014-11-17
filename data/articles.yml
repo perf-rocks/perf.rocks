@@ -147,3 +147,9 @@
     category: General
     url: https://kinsta.com/learn/page-speed/
     tags: ['principles', 'tools']
+-
+    title: BrowserDiet
+    author: Zeno Rocha
+    category: General
+    url: http://browserdiet.com/en/
+    tags: ['principles', 'guide', 'tools']

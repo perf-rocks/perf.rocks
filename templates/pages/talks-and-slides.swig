@@ -1,7 +1,7 @@
 ---
 layout: default.swig
 title: Talks & Slides
-description: 'A collection of talks on front-end web performance optmiziation. Videos and slides.'
+description: 'A collection of talks on front-end web performance optimization. Videos and slides.'
 base_url: "../"
 section: talks-and-slides
 slug: index

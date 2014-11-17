@@ -1,28 +1,27 @@
 {% set person_talks = name|author_related(talks) %}
 {% set person_articles = name|author_related(articles) %}
+{% set person_books = name|author_related(books) %}
 
 {% include 'templates/partials/intro_avatar.swig' with {title: name, subtitle: bio, twitter_handle: twitter} %}
 
 <div class="wrapper">
-    <div class="card-list" style="margin-left: auto; margin-right: auto;">
-        <div class="card-list__item card-list__item--large">
-            <h2 class="line-heading">Articles</h2>
-                {% if person_articles|length %}
-                <ul class="article-list">
-                    {% for article in person_articles %}
-                        <li class="article-list__item">
-                            <p class="m0"><a class="unlink" href="{{ article.url }}" title="Read the {{ article.title }} article">{{ article.title }}</a></p>
-                        </li>
-                    {% endfor %}
-                {% else %}
-                    <p class="weak-text-color | micro"><a href="{{ site.github.repo }}" title="Submit a front-end web performance article by {{ name }} to Perf.Rocks">Submit an article by {{ name }}</a></p>
-                {% endif %}
-            </ul>
-        </div>
+    <div class="card-list">
+        {% if person_articles|length %}
+                <div class="card-list__item card-list__item--large">
+                    <h2 class="line-heading">Articles</h2>
+                    <ul class="article-list">
+                        {% for article in person_articles %}
+                            <li class="article-list__item">
+                                <p class="m0"><a class="unlink" href="{{ article.url }}" title="Read the {{ article.title }} article">{{ article.title }}</a></p>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+        {% endif %}
 
-        <div class="card-list__item card-list__item--large">
-            <h2 class="line-heading">Talks</h2>
-            {% if person_talks|length %}
+        {% if person_talks|length %}
+            <div class="card-list__item card-list__item--large">
+                <h2 class="line-heading">Talks</h2>
                 <ul class="article-list">
                     {% for talk in person_talks %}
                         <li class="article-list__item">
@@ -34,10 +33,21 @@
                         </li>
                     {% endfor %}
                 </ul>
-            {% else %}
-            <p class="weak-text-color | micro"><a href="{{ site.github.repo }}" title="Submit a front-end web performance talk by {{ name }} to Perf.Rocks">Submit a talk by {{ name }}</a></p>
-            {% endif %}
-        </div>
+            </div>
+        {% endif %}
+
+        {% if person_books|length %}
+            <div class="card-list__item card-list__item--large">
+                <h2 class="line-heading">Books</h2>
+                <ul class="article-list">
+                    {% for book in person_books %}
+                        <li class="article-list__item">
+                            <p class="m0"><a class="unlink" href="{{ book.url }}">{{ book.title }}</a></p>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        {% endif %}
     </div>
 
 </div>

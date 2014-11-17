@@ -177,6 +177,7 @@ module.exports = function(grunt) {
                         '_gh_pages/articles/index.html',
                         '_gh_pages/tools/index.html',
                         '_gh_pages/talks-and-slides/index.html',
+                        '_gh_pages/books/index.html',
                         '_gh_pages/people/addy-osmani/index.html'
                     ]
                 }

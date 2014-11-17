@@ -33,6 +33,12 @@ base_url: "../"
                 <p class="weak-text-color | m0">Inspiring web conference sessions, talks and links to the slides.</p>
             </a>
         </li>
+        <li class="card-list__item">
+            <a class="unlink" href="/books">
+                <h2 class="line-heading | mb">Books</h2>
+                <p class="weak-text-color | m0">Ebook and paperback books on performance written by the leading authors in the industry.</p>
+            </a>
+        </li>
         <li class="card-list__item card-list__item--faded">
             <h2 class="line-heading | mb">Coming soon…</h2>
             <p class="weak-text-color | m0">Article categories and tags, tool search and filtering, a showcase of fast websites, screencasts, and much more!</p>

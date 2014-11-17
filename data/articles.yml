@@ -141,3 +141,9 @@
     category: CSS
     url: http://cssguidelin.es/
     tags: ['css', 'architecture']
+-
+    title: A Beginner’s Guide to Website Speed Optimization
+    author: Mark Gavalda
+    category: General
+    url: https://kinsta.com/learn/page-speed/
+    tags: ['principles', 'tools']

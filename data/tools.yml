@@ -215,3 +215,9 @@
     node_module: https://www.npmjs.org/package/critical
     categories: ['CSS Optimization']
     tags: ['critical','path', 'css', 'optimization']
+-
+    name: loadCSS
+    description: 'A function for loading CSS asynchronously'
+    website: https://github.com/filamentgroup/loadCSS
+    categories: ['CSS Optimization']
+    tags: ['css', 'optimization']

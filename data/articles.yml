@@ -92,7 +92,7 @@
     title: "Responsive Images in Practice"
     author: Eric Portis
     category: Images
-    url: http://alistapart.com/article/responsive-images-in-practice?utm_content=buffer13dd4
+    url: http://alistapart.com/article/responsive-images-in-practice
     tags: ['images', 'rwd']
 -
     title: "Improving UX Through Front-End Performance"
@@ -165,3 +165,9 @@
     category: Other
     url: http://bdadam.com/blog/optimistic-page-loading-with-instantclick-io.html
     tags: ['prefetch', 'preload', 'optimistic loading']
+-
+    title: Performance Budget Metrics
+    author: Tim Kadlec
+    category: Performance budgeting
+    url: http://timkadlec.com/2014/11/performance-budget-metrics/
+    tags: ['budgeting', 'metrics']

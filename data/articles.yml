@@ -157,5 +157,11 @@
     title: Critical Path Performance Optimization at Pony Foo
     author: Nicolas Bevacqua
     category: Critical Rendering Path
-    url: Critical Path Performance Optimization at Pony Foo
+    url: http://ponyfoo.com/articles/critical-path-performance-optimization
     tags: ['page load', 'critical rendering path']
+-
+    title: Loading web pages really fast - optimistic page loading with Instantclick.io
+    author: Adam Beres-Deak
+    category: Other
+    url: http://bdadam.com/blog/optimistic-page-loading-with-instantclick-io.html
+    tags: ['prefetch', 'preload', 'optimistic loading']

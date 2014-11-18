@@ -207,3 +207,11 @@
     grunt_plugin: https://github.com/axemclion/perfjankie
     categories: ['Performance metrics']
     tags: ['monitoring','metrics', 'analysis']
+-
+    name: critical
+    description: 'Critical extracts & inlines critical-path (above-the-fold) CSS from HTML'
+    website: https://github.com/addyosmani/critical
+    grunt_plugin: https://github.com/bezoerb/grunt-critical
+    node_module: https://www.npmjs.org/package/critical
+    categories: ['CSS Optimization']
+    tags: ['critical','path', 'css', 'optimization']

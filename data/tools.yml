@@ -197,5 +197,13 @@
     name: sitespeed.io
     description: 'Sitespeed.io is an open source tool that helps you analyze your website speed and performance based on performance best practices and metrics.'
     website: http://www.sitespeed.io/
+    node_module: https://github.com/sitespeedio/sitespeed.io
     categories: ['Performance metrics']
     tags: ['metrics', 'analysis']
+-
+    name: perfjankie
+    description: 'PerfJankie is a tool to monitor smoothness and responsiveness of websites and Cordova/Hybrid apps over time. It runs performance tests using browser-perf and saves the results in a CouchDB server. It also has a dashboard that displays graphs of the performance metrics collected over time that you help identify performance trends, or locate a single commit that can slow down a site.'
+    node_module: https://github.com/axemclion/perfjankie
+    grunt_plugin: https://github.com/axemclion/perfjankie
+    categories: ['Performance metrics']
+    tags: ['monitoring','metrics', 'analysis']

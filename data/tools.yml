@@ -193,3 +193,9 @@
     gulp_plugin: https://github.com/jonschlinkert/gulp-htmlmin
     categories: ['HTML']
     tags: ['html', 'minifier']
+-
+    name: sitespeed.io
+    description: 'Sitespeed.io is an open source tool that helps you analyze your website speed and performance based on performance best practices and metrics.'
+    website: http://www.sitespeed.io/
+    categories: ['Performance metrics']
+    tags: ['metrics', 'analysis']

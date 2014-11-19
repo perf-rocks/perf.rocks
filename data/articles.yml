@@ -171,3 +171,9 @@
     category: Performance budgeting
     url: http://timkadlec.com/2014/11/performance-budget-metrics/
     tags: ['budgeting', 'metrics']
+-
+    title: Better @font-face with Font Load Events
+    author: Zach Leatherman
+    category: Webfonts
+    url: https://dev.opera.com/articles/better-font-face/
+    tags: [webfonts]

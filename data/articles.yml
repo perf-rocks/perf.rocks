@@ -195,3 +195,9 @@
     category: RWD
     url: http://gomakethings.com/how-to-build-wicked-fast-rwd-sites/
     tags: ['principles', 'rwd']
+-
+    title: Better @font-face with Font Load Events
+    author: Zach Leatherman
+    category: Webfonts
+    url: https://dev.opera.com/articles/better-font-face/
+    tags: [webfonts]

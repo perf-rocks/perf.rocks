@@ -41,7 +41,7 @@ base_url: "../"
         </li>
         <li class="card-list__item card-list__item--faded">
             <h2 class="line-heading | mb">Coming soon…</h2>
-            <p class="weak-text-color | m0">Article categories and tags, tool search and filtering, a showcase of fast websites, screencasts, and much more!</p>
+            <p class="weak-text-color | m0">RSS feed, article categories and tags, tool search and filtering, a showcase of fast websites, screencasts, and much more!</p>
         </li>
     </ul>
 </div>

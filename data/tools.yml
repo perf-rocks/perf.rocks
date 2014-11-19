@@ -214,3 +214,9 @@
     grunt_plugin: https://github.com/bezoerb/grunt-critical
     categories: ['CSS Optimization']
     tags: ['critical rendering path', 'css', 'optimization']
+-
+    name: loadCSS
+    description: 'A function for loading CSS asynchronously'
+    website: https://github.com/filamentgroup/loadCSS
+    categories: ['CSS Optimization']
+    tags: ['css', 'optimization']

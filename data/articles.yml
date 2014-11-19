@@ -171,3 +171,33 @@
     category: Performance budgeting
     url: http://timkadlec.com/2014/11/performance-budget-metrics/
     tags: ['budgeting', 'metrics']
+-
+    title: Social Media Share Buttons Impact On Website Performance
+    author: Eric W. Mobley
+    category: Third Party
+    url: http://www.ericmobley.net/social-media-share-buttons-impact-on-performance/
+    tags: ['social media', 'impact']
+-
+    title: Why does website speed matter?
+    author: Chris Ferdinandi
+    category: General
+    url: http://gomakethings.com/why-does-website-speed-matter/
+    tags: ['principles']
+-
+    title: How to build a high performance website
+    author: Chris Ferdinandi
+    category: General
+    url: http://gomakethings.com/how-to-build-a-high-performance-website/
+    tags: ['principles']
+-
+    title: How to build wicked fast RWD sites
+    author: Chris Ferdinandi
+    category: RWD
+    url: http://gomakethings.com/how-to-build-wicked-fast-rwd-sites/
+    tags: ['principles', 'rwd']
+-
+    title: Better @font-face with Font Load Events
+    author: Zach Leatherman
+    category: Webfonts
+    url: https://dev.opera.com/articles/better-font-face/
+    tags: [webfonts]

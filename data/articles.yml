@@ -201,3 +201,9 @@
     category: Webfonts
     url: https://dev.opera.com/articles/better-font-face/
     tags: [webfonts]
+-
+    title: Frame Timer - Explainer
+    author: Paul Irish
+    category: FPS
+    url: https://github.com/w3c/frame-timing/wiki/Explainer
+    tags: ['fps', 'rendering', 'scrolling', 'animation']

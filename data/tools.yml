@@ -226,3 +226,26 @@
     website: https://github.com/filamentgroup/loadJS
     categories: ['JS Optimization']
     tags: ['js', 'optimization']
+-
+    name: inlineCSS
+    description: 'Inline linked css in an html file. Useful for emails.'
+    grunt_plugin: https://github.com/jgallen23/grunt-inline-css
+    gulp_plugin: https://github.com/jonkemp/gulp-inline-css
+    categories: ['CSS Optimization']
+    tags: ['css', 'optimization']
+-
+    name: zopfli
+    description: 'Bindings for Zopfli compressing lib. Compress gzip files 5% better than gzip.'
+    node_module: https://github.com/pierreinglebert/node-zopfli
+    grunt_plugin: https://github.com/mathiasbynens/grunt-zopfli
+    gulp_plugin: https://github.com/romeovs/gulp-zopfli
+    categories: ['Compression']
+    tags: ['js', 'compression']
+-
+    name: vulcanize
+    description: 'Concatenate a set of Web Components into one file'
+    node_module: https://github.com/Polymer/vulcanize
+    grunt_plugin: https://github.com/Polymer/grunt-vulcanize
+    gulp_plugin: https://github.com/sindresorhus/gulp-vulcanize
+    categories: ['Concatenation']
+    tags: ['web components', 'concatenation']

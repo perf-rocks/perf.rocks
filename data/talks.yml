@@ -81,3 +81,7 @@
     author: ['Patrick Meenan', 'Chao Ray Feng', 'Mike Petrovich']
     talk_url: https://www.youtube.com/watch?v=mx0G8NPqNBc
     slides_url: http://velocityconf.com/velocityny2013/public/schedule/detail/31344
+-
+    title: Lossy PNG for true-color images
+    author: ['Kornel Lesiński']
+    slides_url: https://speakerdeck.com/pornel/lossy-png-for-true-color-images-velocity-conf-eu-2014

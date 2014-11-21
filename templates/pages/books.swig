@@ -20,7 +20,12 @@ slug: index
                         <a class="unlink" href="{{ book.url }}"><img src="{{ site.img }}/{{ book.title|slug }}.svg" alt="{{ book.title }}" width="100%"></a>
                         <h2 Class="line-heading"><a class="unlink" href="{{ book.url }}">{{ book.title }}</a></h2>
                         {% if book.author %}
-                            <p class="micro | weak-text-color | m0">by <a href="/people/{{ book.author|slug }}/" title="{{ book.author}} profile on Perf.Rocks">{{ book.author }}</a> in {{ book.category }}</p>
+                            <p class="micro | weak-text-color | m0">by
+                                {% for author in book.author %}
+                                    {% if loop.last and book.author|length > 2 %}and {% endif %}
+                                    <a href="/people/{{ author|slug }}/" title="{{ author }} profile on Perf.Rocks">{{ author }}</a>{% if loop.index < book.author|length -1 %}, {% endif %}
+                                {% endfor %}
+                            </p>
                         {% endif %}
                     </header>
                     <div class="card__content">

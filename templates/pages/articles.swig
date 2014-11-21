@@ -18,7 +18,12 @@ slug: index
             <li class="article-list__item">
                 <h2 class="m0"><a class="unlink" href="{{ article.url }}">{{ article.title }}</a></h2>
                 {% if article.author %}
-                    <p class="micro | weak-text-color | m0">by <a href="/people/{{ article.author|slug }}/" title="{{ article.author}} profile on Perf.Rocks">{{ article.author }}</a> in {{ article.category }}</p>
+                    <p class="micro | weak-text-color | m0">by
+                        {% for author in article.author %}
+                            {% if loop.last and article.author|length > 2 %}and {% endif %}
+                            <a href="/people/{{ author|slug }}/" title="{{ author }} profile on Perf.Rocks">{{ author }}</a>{% if loop.index < article.author|length -1 %}, {% endif %}
+                        {% endfor %}
+                    </p>
                 {% endif %}
             </li>
         {% endfor %}

@@ -33,7 +33,7 @@
     tags: ['analysis']
 -
     name: Pingdom Website Speed Test
-    description: 'Enter a URL to test the load time of that page, analyze it and find bottlenecks-'
+    description: 'Enter a URL to test the load time of that page, analyze it and find bottlenecks.'
     website: http://tools.pingdom.com/fpt/
     categories: ['Performance analysis']
     related: ['PageSpeedInsights', 'Webpage Test']
@@ -88,14 +88,14 @@
     tags: ['css', 'metrics', 'analysis']
 -
     name: svgstore
-    description: 'Merge svgs from a folder'
+    description: 'Merge svgs from a folder.'
     grunt_plugin: https://github.com/FWeinb/grunt-svgstore
     gulp_plugin: https://github.com/w0rm/gulp-svgstore
     categories: ['SVG optimization']
     tags: ['svg']
 -
     name: Phantomas
-    description: 'PhantomJS-based web performance metrics collector and monitoring tool'
+    description: 'PhantomJS-based web performance metrics collector and monitoring tool.'
     node_module: https://github.com/macbre/phantomas
     grunt_plugin: https://github.com/stefanjudis/grunt-phantomas
     categories: ['Performance monitoring']
@@ -115,7 +115,7 @@
     tags: ['images', 'metrics']
 -
     name: grunt-perfbudget
-    description: 'Grunt task for Performance Budgeting'
+    description: 'Grunt task for Performance Budgeting.'
     grunt_plugin: https://github.com/tkadlec/grunt-perfbudget
     categories: ['budgeting']
     tags: ['budget', 'analysis', 'metrics']
@@ -159,7 +159,7 @@
     tags: ['telemetry', 'metrics']
 -
     name: grunt-responsive-images
-    description: 'Produce images at different sizes for responsive websites'
+    description: 'Produce images at different sizes for responsive websites.'
     grunt_plugin: https://github.com/andismith/grunt-responsive-images
     categories: ['Images']
     tags: ['images', 'rwd']
@@ -181,7 +181,7 @@
     tags: ['images', 'webp']
 -
     name: DareBoost
-    description: 'DareBoost offers performance analysis and monitoring (real browsers). It integrates Google Page Speed, YSlow, W3C validators and its own best practices, with tailor-made tips on specific technologies like jQuery, WordPress, etc'
+    description: 'DareBoost offers performance analysis and monitoring (real browsers). It integrates Google Page Speed, YSlow, W3C validators and its own best practices, with tailor-made tips on specific technologies like jQuery, WordPress, etc.'
     website: https://www.dareboost.com/
     categories: ['Performance metrics']
     tags: ['metrics', 'analysis']
@@ -209,20 +209,20 @@
     tags: ['monitoring','metrics', 'analysis']
 -
     name: critical
-    description: 'Critical extracts & inlines critical-path (above-the-fold) CSS from HTML'
+    description: 'Critical extracts & inlines critical-path (above-the-fold) CSS from HTML.'
     node_module: https://github.com/addyosmani/critical
     grunt_plugin: https://github.com/bezoerb/grunt-critical
     categories: ['CSS Optimization']
     tags: ['critical rendering path', 'css', 'optimization']
 -
     name: loadCSS
-    description: 'A function for loading CSS asynchronously'
+    description: 'A function for loading CSS asynchronously.'
     website: https://github.com/filamentgroup/loadCSS
     categories: ['CSS Optimization']
     tags: ['css', 'optimization']
 -
     name: loadJS
-    description: 'A simple function for asynchronously loading JavaScript files'
+    description: 'A simple function for asynchronously loading JavaScript files.'
     website: https://github.com/filamentgroup/loadJS
     categories: ['JS Optimization']
     tags: ['js', 'optimization']
@@ -243,9 +243,15 @@
     tags: ['js', 'compression']
 -
     name: vulcanize
-    description: 'Concatenate a set of Web Components into one file'
+    description: 'Concatenate a set of Web Components into one file.'
     node_module: https://github.com/Polymer/vulcanize
     grunt_plugin: https://github.com/Polymer/grunt-vulcanize
     gulp_plugin: https://github.com/sindresorhus/gulp-vulcanize
     categories: ['Concatenation']
     tags: ['web components', 'concatenation']
+-
+    name: statico.io
+    description: 'Front end optimization as a service.'
+    website: statico.io
+    categories: ['saas']
+    tags: ['optimization', 'saas', 'css', 'images', 'critical path']

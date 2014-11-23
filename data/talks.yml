@@ -1,64 +1,92 @@
 -
     title: CSS Performance Tooling
-    author: Addy Osmani
+    author: ['Addy Osmani']
     slides_url: https://speakerdeck.com/addyosmani/css-performance-tooling
     talk_url: https://www.youtube.com/watch?v=FEs2jgZBaQA
 -
     title: Web performance optimization for modern web applications
-    author: Chris Love
+    author: ['Chris Love']
     slides_url: http://www.slideshare.net/docluv/web-performance-optimization-for-modern-web-applications
 -
     title: 'Faster Websites: Crash Course on Frontend Performance'
-    author: Ilya Grigorik
+    author: ['Ilya Grigorik']
     slides_url: http://www.devoxx.com/display/DV12/Faster+Websites++Crash+Course+on+Frontend+Performance
     talk_url: http://www.devoxx.com/display/DV12/Faster+Websites++Crash+Course+on+Frontend+Performance
 -
     title: Web performance optimization for modern web applications
-    author: Mark Zeman
+    author: ['Mark Zeman']
     slides_url: http://lab.speedcurve.com/
     talk_url: http://www.youtube.com/watch?v=Olwm3l4rfns
 -
     title: Establishing Performance Contexts
-    author: Ian Feather
+    author: ['Ian Feather']
     slides_url: http://www.slideshare.net/ianfeather/performance-contextsslideshare-39618574
     talk_url: http://www.youtube.com/watch?v=fsciaXx09i0
 -
     title: 'TimesOpen: Web Performance at the New York Times'
-    author: Eitan Konigsburg
+    author: ['Eitan Konigsburg']
     talk_url: http://www.youtube.com/watch?v=2dwBB2Xa_B0
 -
     title: 'Rendering Performance Case Studies'
-    author: Addy Osmani
+    author: ['Addy Osmani']
     talk_url: http://www.youtube.com/watch?v=2dwBB2Xa_B0
 -
     title: Mobile Web performance auditing
-    author: Paul Lewis
+    author: ['Paul Lewis']
     talk_url: https://www.youtube.com/watch?v=WrA85a4ZIaM
 -
     title: Delivering the goods under 1000ms
-    author: Paul Irish
+    author: ['Paul Irish']
     talk_url: https://www.youtube.com/watch?v=R8W_6xWphtw
     slides_url: https://docs.google.com/presentation/d/1MtDBNTH1g7CZzhwlJ1raEJagA8qM3uoV7ta6i66bO2M/present?slide=id.p19
 -
     title: RWD Bloat
-    author: Dave Rupert
+    author: ['Dave Rupert']
     slides_url: https://speakerdeck.com/davatron5000/rwd-bloat
 -
     title: Design for Performance
-    author: Lara Hogan
+    author: ['Lara Hogan']
     talk_url: https://www.youtube.com/watch?v=RtpVZ5OzJlc
     slides_url: https://speakerdeck.com/lara/design-for-performance
 -
     title: Getting Content to a Phone in less than 1000ms
-    author: Ian Carrico
+    author: ['Ian Carrico']
     talk_url: https://www.youtube.com/watch?v=lXvshs_yPCM
     slides_url: http://iamcarrico.github.io/content-to-phone-in-1000ms/#
 -
     title: Breaking news at 1000ms
-    author: Patrick Hamann
+    author: ['Patrick Hamann']
     slides_url: https://speakerdeck.com/patrickhamann/breaking-news-at-1000ms-velocity-eu-2014
 -
     title: Wicked Fast WordPress
-    author: Chris Ferdinandi
+    author: ['Chris Ferdinandi']
     slides_url: https://speakerdeck.com/cferdinandi/wicked-fast-wordpress-wordcamp-boston-2013
     talk_url: https://www.youtube.com/watch?v=cHZ1kCYGR6E
+-
+    title: CSS and the Critical Path
+    author: ['Patrick Hamann']
+    slides_url: https://speakerdeck.com/patrickhamann/css-and-the-critical-path
+    talk_url: https://www.youtube.com/watch?v=_0Fk85to6hA
+-
+    title: The Applied Science of Runtime Performance
+    author: ['Paul Lewis']
+    talk_url: https://www.youtube.com/watch?v=RCFQu0hK6bU
+-
+    title: News from the webperf-landia
+    author: ['Ilya Grigorik']
+    talk_url: https://www.youtube.com/watch?v=jeRWyYIgiU8
+    slides_url: https://docs.google.com/presentation/d/18iUgAReTybP5yXBHRUN-8cSd66FnI9CbibrBRIDxTPw/present?slide=id.p19
+-
+    title: Going Beyond onload - How Fast Does it Feel?
+    author: ['Patrick Meenan', 'Chao Ray Feng', 'Mike Petrovich']
+    talk_url: https://www.youtube.com/watch?v=mx0G8NPqNBc
+    slides_url: http://velocityconf.com/velocityny2013/public/schedule/detail/31344
+-
+    title: Lossy PNG for true-color images
+    author: ['Kornel Lesiński']
+    slides_url: https://speakerdeck.com/pornel/lossy-png-for-true-color-images-velocity-conf-eu-2014
+-
+    title: Creating Living Style Guides
+    author: ['Nicole Sulivan']
+    talk_url: https://www.youtube.com/watch?v=lsaG-EJcu88
+    slides_url: http://www.slideshare.net/stubbornella/styleguide-jsconf

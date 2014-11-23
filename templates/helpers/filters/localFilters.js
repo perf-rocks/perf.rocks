@@ -90,7 +90,7 @@ filters.daysFromToday = function (obj, arg) {
 };
 
 filters.author_related = function (obj, collection) {
-  return _.where(collection, { author: obj });
+  return _.where(collection, { author: [obj] });
 };
 
 filters.get_categories = function (obj) {

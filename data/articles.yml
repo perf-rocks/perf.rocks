@@ -207,3 +207,9 @@
     category: FPS
     url: https://github.com/w3c/frame-timing/wiki/Explainer
     tags: ['fps', 'rendering', 'scrolling', 'animation']
+-
+    title: Web Performance Optimization is a Competitive Advantage
+    author: ['Chris Love']
+    category: General
+    url: 'http://love2dev.com/#!article/Web-Performance-Optimization-is-a-Competitive-Advantage'
+    tags: ['principles', 'tools', 'ecommerce', 'stats']

@@ -255,3 +255,9 @@
     website: https://statico.io/
     categories: ['CSS Optimization']
     tags: ['optimization', 'css', 'less', 'images', 'critical path']
+-
+    name: stats.js
+    description: 'JavaScript Performance Monitor. This class provides a simple info box that will help you monitor your code performance.'
+    website: https://github.com/mrdoob/stats.js
+    categories: ['Performance Metrics']
+    tags: ['fps', 'monitor', 'render']

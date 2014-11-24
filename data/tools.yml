@@ -252,6 +252,6 @@
 -
     name: statico.io
     description: 'Front end optimization as a service.'
-    website: statico.io
-    categories: ['saas']
-    tags: ['optimization', 'saas', 'css', 'images', 'critical path']
+    website: https://statico.io/
+    categories: ['CSS Optimization']
+    tags: ['optimization', 'css', 'less', 'images', 'critical path']

@@ -17,7 +17,7 @@ slug: index
             <li class="card-list__item">
                 <div class="card">
                     <header class="card__header | mb">
-                        <a class="unlink" href="{{ book.url }}"><img src="{{ site.img }}/{{ book.title|slug }}.svg" alt="{{ book.title }}" width="100%"></a>
+                        <a class="unlink" href="{{ book.url }}"><img src="{{ site.img }}/{{ book.title|slug }}.png" alt="{{ book.title }}" width="100%"></a>
                         <h2 Class="line-heading"><a class="unlink" href="{{ book.url }}">{{ book.title }}</a></h2>
                         {% if book.author %}
                             <p class="micro | weak-text-color | m0">by

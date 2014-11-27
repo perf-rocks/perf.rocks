@@ -213,3 +213,9 @@
     category: General
     url: 'http://love2dev.com/#!article/Web-Performance-Optimization-is-a-Competitive-Advantage'
     tags: ['principles', 'tools', 'ecommerce', 'stats']
+-
+    title: Planning for Performance
+    author: ['Scott Jehl']
+    category: General
+    url: 'http://alistapart.com/article/planning-for-performance'
+    tags: ['principles', 'planning', 'design']

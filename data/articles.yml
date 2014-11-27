@@ -219,3 +219,9 @@
     category: General
     url: 'http://alistapart.com/article/planning-for-performance'
     tags: ['principles', 'planning', 'design']
+-
+    title: Doubling SVG FPS Rates at Khan Academy
+    author: ['Charlie Marsh']
+    category: FPS
+    url: 'http://www.princeton.edu/~crmarsh/svg-performance/'
+    tags: ['fps', 'rendering', 'images', 'svg', 'animation']

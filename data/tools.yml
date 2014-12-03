@@ -261,3 +261,9 @@
     website: https://github.com/mrdoob/stats.js
     categories: ['Performance Metrics']
     tags: ['fps', 'monitor', 'render']
+-
+    name: Performance-Bookmarklet
+    description: 'Bookmarklet to analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - requests by type, domain, load times, marks and more. Sort of a light live WebPageTest.'
+    website: https://github.com/nurun/performance-bookmarklet
+    categories: ['Performance monitoring']
+    tags: ['metrics', 'analysis']

@@ -231,3 +231,9 @@
     category: General
     url: 'http://love2dev.com/#!article/Performance-As-A-Competitive-Advantage-Part-2-WalMart-vs-BestBuy'
     tags: ['principles', 'tools', 'ecommerce', 'stats']
+-
+    title: 'Page bloat update: The average top 1000 web page is 1795 KB in size'
+    author: ['Tammy Everts']
+    category: General
+    url: 'http://www.webperformancetoday.com/2014/12/02/page-bloat-update-average-top-1000-web-page-1795-kb-size/'
+    tags: ['stats']

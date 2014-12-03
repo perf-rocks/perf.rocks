@@ -107,6 +107,12 @@
     grunt_plugin: https://github.com/leny/grunt-parker
     categories: ['CSS']
     tags: ['css', 'metrics', 'analysis']
+
+    name: Performance-Bookmarklet
+    description: 'Bookmarklet to analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - requests by type, domain, load times, marks and more. Sort of a light live WebPageTest.'
+    website: https://github.com/nurun/performance-bookmarklet
+    categories: ['Performance monitoring']
+    tags: ['metrics', 'analysis']
 -
     name: TMI (Too Many Images)
     description: 'Discover your image weight on the web. Find out the image weight in your pages, compare to the HTTPArchive average and discover what images you can optimize further.'

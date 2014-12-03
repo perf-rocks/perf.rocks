@@ -225,3 +225,9 @@
     category: FPS
     url: 'http://www.princeton.edu/~crmarsh/svg-performance/'
     tags: ['fps', 'rendering', 'images', 'svg', 'animation']
+-
+    title: 'Performance As A Competitive Advantage: Part 2 WalMart.com vs BestBuy.com'
+    author: ['Chris Love']
+    category: General
+    url: 'http://love2dev.com/#!article/Performance-As-A-Competitive-Advantage-Part-2-WalMart-vs-BestBuy'
+    tags: ['principles', 'tools', 'ecommerce', 'stats']

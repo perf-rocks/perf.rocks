@@ -249,3 +249,9 @@
     category: General
     url: 'https://divshot.com/blog/web-performance/building-high-performance-websites/'
     tags: ['principles', 'tools', 'analysis']
+-
+    title: 'How to Make a Performance Budget'
+    author: ['Daniel Mall']
+    category: Performance budgeting
+    url: 'http://danielmall.com/articles/how-to-make-a-performance-budget/'
+    tags: ['budget', 'tools']

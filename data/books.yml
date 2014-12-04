@@ -5,3 +5,16 @@
     category: RWD
     url: http://www.abookapart.com/products/responsible-responsive-design
 
+-
+    title: High Performance Responsive Design
+    author: ['Tom Barker']
+    description: "Yes, you can use responsive web design to create high performance, compelling websites. With this practical book, author Tom Barker demonstrates that responsive design is not just a frontend-only approach, but also a philosophy for taking advantage of the entire web stack. Responsive design patterns and anti-patterns, derived..."
+    category: RWD
+    url: http://shop.oreilly.com/product/0636920033103.do
+
+-
+    title: A Designer's Guide to Web Performance
+    description: "The ultimate web designer's how-to guide to making your website & web app faster. This eBook gives any web designer the how-to steps, tools, and best practices needed to design and build faster websites and web apps -- and provide the best experience possible for your users."
+    category: General
+    url: http://www.yottaa.com/a-designers-guide-to-web-performance-ebook-1
+

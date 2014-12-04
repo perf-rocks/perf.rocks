@@ -90,3 +90,23 @@
     author: ['Nicole Sulivan']
     talk_url: https://www.youtube.com/watch?v=lsaG-EJcu88
     slides_url: http://www.slideshare.net/stubbornella/styleguide-jsconf
+-
+    title: Design Decisions Through The Lens Of A Performance Budget
+    author: ['Yesenia Perez-Cruz']
+    talk_url: https://vimeo.com/108328247
+    slides_url: https://speakerdeck.com/yeseniaperezcruz/design-decisions-through-the-lens-of-a-performance-budget
+-
+    title: Better Performance Through Better Design
+    author: ['Mark Zeman']
+    talk_url: https://www.youtube.com/watch?v=DFImM0r4EpE
+
+-
+    title: PerfBar Lightning Demo
+    author: ['Khalid Lafi']
+    talk_url: https://www.youtube.com/watch?v=xJogXOzmcSk
+
+-
+    title: Maximize Returns on Digital Investments
+    author: ['Aaron Rudger']
+    talk_url: https://www.youtube.com/watch?v=en4ywZINQhI
+

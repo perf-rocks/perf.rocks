@@ -207,3 +207,45 @@
     category: FPS
     url: https://github.com/w3c/frame-timing/wiki/Explainer
     tags: ['fps', 'rendering', 'scrolling', 'animation']
+-
+    title: Web Performance Optimization is a Competitive Advantage
+    author: ['Chris Love']
+    category: General
+    url: 'http://love2dev.com/#!article/Web-Performance-Optimization-is-a-Competitive-Advantage'
+    tags: ['principles', 'tools', 'ecommerce', 'stats']
+-
+    title: Planning for Performance
+    author: ['Scott Jehl']
+    category: General
+    url: 'http://alistapart.com/article/planning-for-performance'
+    tags: ['principles', 'planning', 'design']
+-
+    title: Doubling SVG FPS Rates at Khan Academy
+    author: ['Charlie Marsh']
+    category: FPS
+    url: 'http://www.princeton.edu/~crmarsh/svg-performance/'
+    tags: ['fps', 'rendering', 'images', 'svg', 'animation']
+-
+    title: 'Performance As A Competitive Advantage: Part 2 WalMart.com vs BestBuy.com'
+    author: ['Chris Love']
+    category: General
+    url: 'http://love2dev.com/#!article/Performance-As-A-Competitive-Advantage-Part-2-WalMart-vs-BestBuy'
+    tags: ['principles', 'tools', 'ecommerce', 'stats']
+-
+    title: 'Page bloat update: The average top 1000 web page is 1795 KB in size'
+    author: ['Tammy Everts']
+    category: General
+    url: 'http://www.webperformancetoday.com/2014/12/02/page-bloat-update-average-top-1000-web-page-1795-kb-size/'
+    tags: ['stats']
+-
+    title: 'Slow is Better: Why Sequencing is More Important Than Speed'
+    author: ['Brendan MacArthur']
+    category: General
+    url: 'http://www.yottaa.com/blog/slow-is-better-why-sequencing-is-more-important-than-speed'
+    tags: ['principles', 'tools', 'ux']
+-
+    title: 'Building High Performance Websites'
+    author: ['Jake Johnson']
+    category: General
+    url: 'https://divshot.com/blog/web-performance/building-high-performance-websites/'
+    tags: ['principles', 'tools', 'analysis']

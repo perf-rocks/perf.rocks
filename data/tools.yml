@@ -252,6 +252,24 @@
 -
     name: statico.io
     description: 'Front end optimization as a service.'
-    website: statico.io
-    categories: ['saas']
-    tags: ['optimization', 'saas', 'css', 'images', 'critical path']
+    website: https://statico.io/
+    categories: ['CSS Optimization']
+    tags: ['optimization', 'css', 'less', 'images', 'critical path']
+-
+    name: stats.js
+    description: 'JavaScript Performance Monitor. This class provides a simple info box that will help you monitor your code performance.'
+    website: https://github.com/mrdoob/stats.js
+    categories: ['Performance Metrics']
+    tags: ['fps', 'monitor', 'render']
+-
+    name: Performance-Bookmarklet
+    description: 'Bookmarklet to analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - requests by type, domain, load times, marks and more. Sort of a light live WebPageTest.'
+    website: https://github.com/nurun/performance-bookmarklet
+    categories: ['Performance monitoring']
+    tags: ['metrics', 'analysis']
+-
+    name: Perfmap
+    description: 'A bookmarklet and Chrome extension to create a front-end performance heatmap of resources loaded in the browser using the Resource Timing API. A browser with support for the Resource Timing API is required.'
+    website: https://github.com/zeman/perfmap
+    categories: ['Performance monitoring']
+    tags: ['metrics', 'analysis']

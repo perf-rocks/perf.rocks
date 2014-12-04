@@ -243,3 +243,9 @@
     category: General
     url: 'http://www.yottaa.com/blog/slow-is-better-why-sequencing-is-more-important-than-speed'
     tags: ['principles', 'tools', 'ux']
+-
+    title: 'Building High Performance Websites'
+    author: ['Jake Johnson']
+    category: General
+    url: 'https://divshot.com/blog/web-performance/building-high-performance-websites/'
+    tags: ['principles', 'tools', 'analysis']

@@ -237,3 +237,9 @@
     category: General
     url: 'http://www.webperformancetoday.com/2014/12/02/page-bloat-update-average-top-1000-web-page-1795-kb-size/'
     tags: ['stats']
+-
+    title: 'Slow is Better: Why Sequencing is More Important Than Speed'
+    author: ['Brendan MacArthur']
+    category: General
+    url: 'http://www.yottaa.com/blog/slow-is-better-why-sequencing-is-more-important-than-speed'
+    tags: ['principles', 'tools', 'ux']

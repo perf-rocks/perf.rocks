@@ -34,12 +34,30 @@
     category: Other
     url: http://alistapart.com/article/one-step-ahead-improving-performance-with-prebrowsing
     tags: [prefetching, prerendering, prebrowsing]
+	
+	title: 'Improve Page Load Times With DNS Prefetching'
+    author: ['Dean Hume']
+    category: Other
+    url: http://deanhume.com/Home/BlogPost/improve-page-load-times-with-dns-prefetching/80
+    tags: [prefetching]
 -
     title: 'CSS at Lonely Planet'
     author: ['Ian Feather']
     category: CSS
     url: http://www.ianfeather.co.uk/css-at-lonely-planet/
     tags: [css, styleguide, design]
+	
+	title: 'Automatically removing unused CSS using Grunt'
+    author: ['Dean Hume']
+    category: CSS
+    url: http://deanhume.com/Home/BlogPost/automatically-removing-unused-css-using-grunt/6101
+    tags: [css, performance, grunt]
+	
+	title: 'Loading CSS Asynchronously'
+    author: ['Dean Hume']
+    category: CSS
+    url: http://deanhume.com/Home/BlogPost/loading-css-asynchronously/7104
+    tags: [css, performance]
 -
     title: 'Resource Timing practical tips'
     author: ['Steve Souders']
@@ -207,8 +225,14 @@
     category: FPS
     url: https://github.com/w3c/frame-timing/wiki/Explainer
     tags: ['fps', 'rendering', 'scrolling', 'animation']
--
-    title: Web Performance Optimization is a Competitive Advantage
+	
+	title: 'Web Page Performance - Profiling paint times'
+    author: ['Dean Hume']
+    category: FPS
+    url: http://deanhume.com/Home/BlogPost/web-page-performance---profiling-paint-times/91
+    tags: ['fps', 'rendering', 'scrolling', 'animation']
+
+    title: 'Web Performance Optimization is a Competitive Advantage'
     author: ['Chris Love']
     category: General
     url: 'http://love2dev.com/#!article/Web-Performance-Optimization-is-a-Competitive-Advantage'
@@ -225,6 +249,12 @@
     category: FPS
     url: 'http://www.princeton.edu/~crmarsh/svg-performance/'
     tags: ['fps', 'rendering', 'images', 'svg', 'animation']
+	
+	title: 'The Ultimate Image Optimization Cheat Sheet'
+    author: ['Dean Hume']
+    category: Images
+    url: 'http://deanhume.com/Home/BlogPost/the-ultimate-image-optimization-cheat-sheet/7102'
+    tags: ['images', 'optimization', 'sprites', 'webp']
 -
     title: 'Performance As A Competitive Advantage: Part 2 WalMart.com vs BestBuy.com'
     author: ['Chris Love']

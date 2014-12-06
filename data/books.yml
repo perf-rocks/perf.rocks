@@ -17,3 +17,9 @@
     description: "The ultimate web designer's how-to guide to making your website & web app faster. This eBook gives any web designer the how-to steps, tools, and best practices needed to design and build faster websites and web apps -- and provide the best experience possible for your users."
     category: General
     url: http://www.yottaa.com/a-designers-guide-to-web-performance-ebook-1
+-
+    title: Designing for Performance
+    author: ['Lara Hogan']
+    description: "As a web designer, you encounter tough choices when it comes to weighing aesthetics and performance. Good content, layout, images, and interactivity are essential for engaging your audience, and each of these elements have an enormous impact on page load time and the end-user experience."
+    category: Design
+    url: http://shop.oreilly.com/product/0636920033578.do

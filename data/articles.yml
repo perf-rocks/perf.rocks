@@ -41,6 +41,12 @@
     url: http://www.ianfeather.co.uk/css-at-lonely-planet/
     tags: [css, styleguide, design]
 -
+    title: 'Improve Page Load Times With DNS Prefetching'
+    author: ['Dean Hume']
+    category: Other
+    url: http://deanhume.com/Home/BlogPost/improve-page-load-times-with-dns-prefetching/80
+    tags: [prefetching]
+-
     title: 'Resource Timing practical tips'
     author: ['Steve Souders']
     category: Analysis
@@ -208,7 +214,7 @@
     url: https://github.com/w3c/frame-timing/wiki/Explainer
     tags: ['fps', 'rendering', 'scrolling', 'animation']
 -
-    title: Web Performance Optimization is a Competitive Advantage
+    title: 'Web Performance Optimization is a Competitive Advantage'
     author: ['Chris Love']
     category: General
     url: 'http://love2dev.com/#!article/Web-Performance-Optimization-is-a-Competitive-Advantage'
@@ -249,3 +255,33 @@
     category: General
     url: 'https://divshot.com/blog/web-performance/building-high-performance-websites/'
     tags: ['principles', 'tools', 'analysis']
+-
+    title: 'How to Make a Performance Budget'
+    author: ['Daniel Mall']
+    category: Performance budgeting
+    url: 'http://danielmall.com/articles/how-to-make-a-performance-budget/'
+    tags: ['budget', 'tools']
+-
+    title: 'The Ultimate Image Optimization Cheat Sheet'
+    author: ['Dean Hume']
+    category: Images
+    url: 'http://deanhume.com/Home/BlogPost/the-ultimate-image-optimization-cheat-sheet/7102'
+    tags: ['images', 'optimization', 'sprites', 'webp']
+-
+    title: 'Web Page Performance - Profiling paint times'
+    author: ['Dean Hume']
+    category: FPS
+    url: http://deanhume.com/Home/BlogPost/web-page-performance---profiling-paint-times/91
+    tags: ['fps', 'rendering', 'scrolling', 'animation']
+-
+    title: 'Loading CSS Asynchronously'
+    author: ['Dean Hume']
+    category: CSS
+    url: http://deanhume.com/Home/BlogPost/loading-css-asynchronously/7104
+    tags: ['css', 'performance']
+-
+    title: 'Automatically removing unused CSS using Grunt'
+    author: ['Dean Hume']
+    category: CSS
+    url: http://deanhume.com/Home/BlogPost/automatically-removing-unused-css-using-grunt/6101
+    tags: [css, performance, grunt]

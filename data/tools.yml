@@ -273,3 +273,9 @@
     website: https://github.com/zeman/perfmap
     categories: ['Performance monitoring']
     tags: ['metrics', 'analysis']
+-
+    name: CSS Dig
+    description: 'Analyze your CSS in a new way. Consolidate, refactor, and gawk at the 37 shades of blue your site somehow ended up with.'
+    website: http://cssdig.com/
+    categories: ['CSS']
+    tags: ['colors', 'metrics']

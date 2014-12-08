@@ -279,3 +279,9 @@
     website: http://cssdig.com/
     categories: ['CSS']
     tags: ['colors', 'metrics']
+-
+    name: RWDPerf
+    description: 'Performance testing tool for Responsive web designs.'
+    node_module: https://github.com/lafikl/RWDPerf
+    categories: ['RWD']
+    tags: ['rwd', 'metrics', 'images']

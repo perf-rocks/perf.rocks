@@ -23,3 +23,9 @@
     description: "As a web designer, you encounter tough choices when it comes to weighing aesthetics and performance. Good content, layout, images, and interactivity are essential for engaging your audience, and each of these elements have an enormous impact on page load time and the end-user experience."
     category: Design
     url: http://shop.oreilly.com/product/0636920033578.do
+-
+    title: Web Performance Pocket Guide
+    author: ['Andy Davies']
+    description: "Learn why performance matters, and pick up practical techniques to make smoother pages that load faster.. Web pages are getting larger and slower to load, and we seem to be relying on browser and network improvements to rescue us. Visitors have expectations that pages should be faster. By stretching their patience, there's a danger they will spend less time on our sites, visit fewer pages and buy less."
+    category: General
+    url: http://www.fivesimplesteps.com/products/web-performance

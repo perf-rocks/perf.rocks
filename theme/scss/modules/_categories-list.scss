@@ -1,0 +1,59 @@
+// -----------------------------------------------------------------------------
+// Categories list
+// -----------------------------------------------------------------------------
+
+
+
+.categories {
+
+    .js & {
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        left: 0;
+        width: 100%;
+        overflow-y: scroll;
+        transition: transform .15s cubic-bezier(0.4, 0, 0.2, 1);
+        transform: translateY(900px);
+        background-color: get-color(brand, primary);
+        color: get-color(base, 'white');
+        pointer-events: none;
+
+        &.is-active {
+            position: absolute;
+            transition: transform .15s cubic-bezier(0.4, 0, 0.2, 1);
+            transform: translateY(0);
+            pointer-events: auto;
+        }
+    }
+}
+
+.category-list {
+    list-style: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+
+    .no-js & {
+        @include bk('medium') {
+            column-count: 2;
+        }
+
+        @include bk('large') {
+            column-count: 3;
+        }
+    }
+
+
+    &__item {
+        @extend %mb--small;
+    }
+
+}
+
+.browse-categories {
+    @include bk(large) {
+        position: absolute;
+        left: $base-spacing-unit;
+    }
+}

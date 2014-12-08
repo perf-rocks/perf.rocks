@@ -60,22 +60,22 @@ filters.matches = function (files, prop, value) {
 
 // Sorts passed items by key.
 // key can be a path to the key in dot notation (e.g. 'templateData.date')
-filters.sort = function (files, key) {
-  if (key.indexOf('.') === -1) {
-    return _(files).sortBy(key);
-  }
-  var keyParts = key.split('.');
-  return _(files).sortBy(function (file) {
-    var val = file;
-    _(keyParts).each(function (part) {
-      val = val[part];
-    });
-    if (_.isDate(val)) {
-      val = val.getTime();
-    }
-    return val;
-  });
-};
+// filters.sort = function (files, key) {
+//   if (key.indexOf('.') === -1) {
+//     return _(files).sortBy(key);
+//   }
+//   var keyParts = key.split('.');
+//   return _(files).sortBy(function (file) {
+//     var val = file;
+//     _(keyParts).each(function (part) {
+//       val = val[part];
+//     });
+//     if (_.isDate(val)) {
+//       val = val.getTime();
+//     }
+//     return val;
+//   });
+// };
 
 filters.isEmpty = function (obj) {
   return _.isEmpty(obj);
@@ -92,6 +92,10 @@ filters.daysFromToday = function (obj, arg) {
 filters.author_related = function (obj, collection) {
   return _.where(collection, { author: [obj] });
 };
+
+filters.category_related = function(obj, collection) {
+  return _.where(collection, { category: obj });
+}
 
 filters.get_categories = function (obj) {
   var categories = [];
@@ -111,10 +115,6 @@ filters.slug = function (obj) {
 
 filters.length = function (obj) {
   return obj.length;
-}
-
-filters.invert = function (obj) {
-  return obj.reverse();
 }
 
 module.exports.register = function (swig, opts) {

@@ -1,6 +1,6 @@
 // -----------------------------------------------------------------------------
 // Perf.Rocks
-//
+// -----------------------------------------------------------------------------
 // Table of contents:
 // 1. Settings
 // 2. Frameworks and extensions
@@ -8,8 +8,7 @@
 // 3. Base styles
 // 4. Layout
 // 5. Modules
-//
-// -----------------------------------------------------------------------------
+
 
 // -----------------------------------------------------------------------------
 // 1. Settings
@@ -43,7 +42,8 @@
         'base/spacing',
         'base/avatar',
         'base/buttons',
-        'base/containers';
+        'base/containers',
+        'base/js-states';
 
 // -----------------------------------------------------------------------------
 // 4. Layout
@@ -57,5 +57,8 @@
 
 @import 'modules/intro',
         'modules/cards',
-        'modules/main-nav';
+        'modules/main-nav',
+        'modules/people-list',
+        'modules/article-list',
+        'modules/categories-list';
 

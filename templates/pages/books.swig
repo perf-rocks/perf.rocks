@@ -13,7 +13,7 @@ slug: index
 <div class="wrapper">
 
     <ul class="card-list">
-        {% for book in books|invert %}
+        {% for book in books|reverse %}
             <li class="card-list__item">
                 <div class="card">
                     <header class="card__header | mb">

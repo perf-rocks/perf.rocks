@@ -14,7 +14,7 @@ slug: index
 <div class="wrapper">
 
     <ul class="card-list">
-        {% for tool in tools|invert %}
+        {% for tool in tools|reverse %}
             <li class="card-list__item" data-platforms="{% if tool.website %}website,{% endif %%}{% if tool.node_module %}node_module,{% endif %}{% if tool.grunt_plugin %}grunt_plugin,{% endif %}{% if tool.gulp_plugin %}gulp_plugin,{% endif %}{% if tool.broccoli_plugin %}broccoli_plugin, {% endif %}">
                 <div class="card">
                     <header class="card__header | mb">

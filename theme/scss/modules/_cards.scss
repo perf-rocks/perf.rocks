@@ -13,7 +13,6 @@ $card-list-columns-spacing: 1%;
     margin: 0;
     display: flex;
     flex-wrap: wrap;
-    align-items: stretch;
 
     &__item {
         @extend %p;
@@ -67,11 +66,12 @@ $card-list-columns-spacing: 1%;
     &__content {
         flex: 1;
     }
+
+    &__footer {
+        align-self: flex-end;
+    }
 }
 
-.card__footer {
-    align-self: flex-end;
-}
 
 .book-cover {
     position: relative;

@@ -24,6 +24,7 @@ js:               <%= site.assets %>/js
 theme:            theme
 sass:             <%= site.theme %>/scss
 theme_img:        <%= site.theme %>/img
+theme_js:         <%= site.theme %>/js
 
 # Dist
 dist_css:        <%= site.dest %>/<%= site.css %>

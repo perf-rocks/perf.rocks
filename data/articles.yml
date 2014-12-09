@@ -291,3 +291,9 @@
     category: Business
     url: http://calendar.perfplanet.com/2014/changing-culture-at-your-organization/
     tags: ['business', 'metrics']
+-
+    title: 'Async Fragments: Rediscovering Progressive HTML Rendering with Marko'
+    author: ['Patrick Steele-Idem']
+    category: HTML
+    url: http://www.ebaytechblog.com/2014/12/08/async-fragments-rediscovering-progressive-html-rendering-with-marko/
+    tags: ['html', 'async', 'templates', 'streaming']

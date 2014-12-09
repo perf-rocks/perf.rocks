@@ -303,3 +303,9 @@
     category: JS
     url: http://calendar.perfplanet.com/2014/the-pain-of-duplicate-scripts/
     tags: ['js', 'scripts']
+-
+    title: 'The Hidden Cost of Web Components'
+    author: ['Kyle Conarro']
+    category: Web Components
+    url: http://rigor.com/blog/2014/12/hidden-costs-web-components
+    tags: ['web components']

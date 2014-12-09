@@ -297,3 +297,9 @@
     category: HTML
     url: http://www.ebaytechblog.com/2014/12/08/async-fragments-rediscovering-progressive-html-rendering-with-marko/
     tags: ['html', 'async', 'templates', 'streaming']
+-
+    title: 'The Pain of Duplicate Scripts'
+    author: ['Steve Souders']
+    category: JS
+    url: http://calendar.perfplanet.com/2014/the-pain-of-duplicate-scripts/
+    tags: ['js', 'scripts']

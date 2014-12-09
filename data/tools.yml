@@ -291,3 +291,9 @@
     website: http://speedcurve.com/
     categories: ['Performance monitoring']
     tags: ['metrics', 'measure', 'analysis', 'monitor']
+-
+    name: Rigor
+    description: 'Next generation web performance monitoring. Rigor’s powerful reporting and diagnostic functionalities allow business and technical users to understand exactly how their applications are performing at all times.'
+    website: http://rigor.com/
+    categories: ['Performance monitoring']
+    tags: ['metrics', 'measure', 'analysis', 'monitor']

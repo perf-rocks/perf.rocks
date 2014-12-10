@@ -309,3 +309,9 @@
     category: Web Components
     url: http://rigor.com/blog/2014/12/hidden-costs-web-components
     tags: ['web components']
+-
+    title: 'Driving WebPagetest from a Google Docs Spreadsheet'
+    author: ['Andy Davies']
+    category: Analysis
+    url: http://calendar.perfplanet.com/2014/driving-webpagetest-from-a-google-docs-spreadsheet/
+    tags: ['webpagetest', 'analysis', 'metrics']

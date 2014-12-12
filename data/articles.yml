@@ -291,3 +291,27 @@
     category: Business
     url: http://calendar.perfplanet.com/2014/changing-culture-at-your-organization/
     tags: ['business', 'metrics']
+-
+    title: 'Async Fragments: Rediscovering Progressive HTML Rendering with Marko'
+    author: ['Patrick Steele-Idem']
+    category: HTML
+    url: http://www.ebaytechblog.com/2014/12/08/async-fragments-rediscovering-progressive-html-rendering-with-marko/
+    tags: ['html', 'async', 'templates', 'streaming']
+-
+    title: 'The Pain of Duplicate Scripts'
+    author: ['Steve Souders']
+    category: JS
+    url: http://calendar.perfplanet.com/2014/the-pain-of-duplicate-scripts/
+    tags: ['js', 'scripts']
+-
+    title: 'The Hidden Cost of Web Components'
+    author: ['Kyle Conarro']
+    category: Web Components
+    url: http://rigor.com/blog/2014/12/hidden-costs-web-components
+    tags: ['web components']
+-
+    title: 'Driving WebPagetest from a Google Docs Spreadsheet'
+    author: ['Andy Davies']
+    category: Analysis
+    url: http://calendar.perfplanet.com/2014/driving-webpagetest-from-a-google-docs-spreadsheet/
+    tags: ['webpagetest', 'analysis', 'metrics']

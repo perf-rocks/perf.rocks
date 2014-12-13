@@ -297,3 +297,10 @@
     website: http://rigor.com/
     categories: ['Performance monitoring']
     tags: ['metrics', 'measure', 'analysis', 'monitor']
+-
+    name: Website Test
+    description: 'Synthetic testing for web apps, highlighting performance bottlenecks from page structure, content domains or individual resources. Analyze requests by geography, network speed, and resources by type, domain, load times, marks and more. Based on open-source project wpt.'
+    website: http://www.websitetest.com
+    categories: ['Performance analysis']
+    related: ['webpagetest']
+    tags: ['analysis']

@@ -317,7 +317,7 @@
     tags: ['webpagetest', 'analysis', 'metrics']
 -
     title: 'AngularJS Performance in Large Applications'
-    author: ['Abraham Polishchuk ']
+#    author: ['Abraham Polishchuk ']
     category: Performance
     url: https://www.airpair.com/angularjs/posts/angularjs-performance-large-applications
     tags: ['javascript', 'performance']

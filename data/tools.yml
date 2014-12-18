@@ -304,3 +304,9 @@
     categories: ['Performance analysis']
     related: ['webpagetest']
     tags: ['analysis']
+-
+    name: WebPageTest
+    description: 'WebPagetest is used for measuring and analyzing the performance of web pages.'
+    website: http://www.webpagetest.org
+    categories: ['Performance analysis']
+    tags: ['metrics', 'measure', 'analysis']

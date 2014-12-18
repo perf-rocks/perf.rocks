@@ -310,3 +310,9 @@
     website: http://www.webpagetest.org
     categories: ['Performance analysis']
     tags: ['metrics', 'measure', 'analysis']
+-
+    name: GTmetrix
+    description: 'GTmetrix is a free tool that analyzes page speed performance.'
+    website: http://gtmetrix.com/
+    categories: ['Performance Metrics']
+    tags: ['metrics', 'measure', 'analysis']

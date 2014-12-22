@@ -321,3 +321,9 @@
     category: Performance
     url: https://www.airpair.com/angularjs/posts/angularjs-performance-large-applications
     tags: ['javascript', 'performance']
+-
+    title: 'Tips For Optimising SVG Delivery For The Web'
+    author: ['Sara Soueidan']
+    category: Performance
+    url: http://calendar.perfplanet.com/2014/tips-for-optimising-svg-delivery-for-the-web/
+    tags: ['svg', 'images', 'performance']

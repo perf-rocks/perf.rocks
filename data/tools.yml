@@ -304,3 +304,10 @@
     categories: ['Performance analysis']
     related: ['webpagetest']
     tags: ['analysis']
+-
+    name: GTmetrix
+    description: "GTmetrix uses Google Page Speed and Yahoo! YSlow to grade your site's performance and provides actionable recommendations to fix these issues."
+    website: http://gtmetrix.com/
+    categories: ['Performance analysis']
+    related: ['webpagetest']
+    tags: ['analysis']

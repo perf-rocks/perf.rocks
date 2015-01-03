@@ -321,3 +321,15 @@
     category: Performance
     url: https://www.airpair.com/angularjs/posts/angularjs-performance-large-applications
     tags: ['javascript', 'performance']
+-
+    title: 'Content Delivery Networks vs. Application Optimization'
+    author: ['Brendan MacArthur']
+    category: Delivery
+    url: http://www.yottaa.com/blog/content-delivery-networks-vs.-application-optimization
+    tags: ['cdn', 'optimization', 'asset deliuvery']
+-
+    title: 'The Evolution of Application Performance & End User Engagement'
+    author: ['Vick Viren Vaishnavi']
+    category: UX
+    url: http://www.yottaa.com/blog/the-evolution-of-application-performance-end-user-engagement
+    tags: ['ux', 'engagement']

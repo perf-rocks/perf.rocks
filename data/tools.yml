@@ -316,3 +316,10 @@
     website: http://gtmetrix.com/
     categories: ['Performance Metrics']
     tags: ['metrics', 'measure', 'analysis']
+-
+    name: perfBar
+    description: "Simple way to collect and look at your website performance metrics quickly, that supports budgeting and adding custom metrics."
+    website: http://lafikl.github.io/perfBar/
+    categories: ['Performance metrics']
+    related: ['grunt-perfbudget']
+    tags: ['metrics', 'measure', 'analysis', 'monitor']

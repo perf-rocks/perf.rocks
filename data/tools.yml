@@ -305,9 +305,14 @@
     related: ['webpagetest']
     tags: ['analysis']
 -
-    name: GTmetrix
-    description: "GTmetrix uses Google Page Speed and Yahoo! YSlow to grade your site's performance and provides actionable recommendations to fix these issues."
-    website: http://gtmetrix.com/
+    name: WebPageTest
+    description: 'WebPagetest is used for measuring and analyzing the performance of web pages.'
+    website: http://www.webpagetest.org
     categories: ['Performance analysis']
-    related: ['webpagetest']
-    tags: ['analysis']
+    tags: ['metrics', 'measure', 'analysis']
+-
+    name: GTmetrix
+    description: 'GTmetrix is a free tool that analyzes page speed performance.'
+    website: http://gtmetrix.com/
+    categories: ['Performance Metrics']
+    tags: ['metrics', 'measure', 'analysis']

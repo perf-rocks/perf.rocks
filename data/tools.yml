@@ -323,3 +323,17 @@
     categories: ['Performance metrics']
     related: ['grunt-perfbudget']
     tags: ['metrics', 'measure', 'analysis', 'monitor']
+-
+    name: TinyPNG
+    description: 'Advanced lossy compression for PNG images that preserves full alpha transparency.'
+    website: https://tinypng.com/
+    categories: ['Images']
+    related: ['ImageOptim', ImageOptim-CLI', 'TinyPNG']
+    tags: ['images', 'compression']
+-
+    name: ImageOptim
+    description: 'ImageOptim optimizes images by finding the best compression parameters and removing unnecessary comments and color profiles. It handles PNG, JPEG, and GIF formats.'
+    website: https://imageoptim.com/
+    categories: ['Images']
+    related: ['ImageOptim-CLI','TinyPNG']
+    tags: ['images', 'compression']

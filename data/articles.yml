@@ -333,3 +333,10 @@
     category: UX
     url: http://www.yottaa.com/blog/the-evolution-of-application-performance-end-user-engagement
     tags: ['ux', 'engagement']
+-
+    title: 'Tips For Optimising SVG Delivery For The Web'
+    author: ['Sara Soueidan']
+    category: Performance
+    url: http://calendar.perfplanet.com/2014/tips-for-optimising-svg-delivery-for-the-web/
+    tags: ['svg', 'images', 'performance']
+    

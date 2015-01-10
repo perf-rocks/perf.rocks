@@ -337,3 +337,9 @@
     categories: ['Images']
     related: ['ImageOptim-CLI','TinyPNG']
     tags: ['images', 'compression']
+-
+    name:  Yellow Lab Tools
+    description: 'Free online test to help speeding up heavy web pages'
+    website: http://yellowlab.tools/
+    categories: ['Performance Metrics']
+    tags: ['metrics', 'measure', 'analysis']

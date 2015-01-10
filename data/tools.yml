@@ -328,7 +328,7 @@
     description: 'Advanced lossy compression for PNG images that preserves full alpha transparency.'
     website: https://tinypng.com/
     categories: ['Images']
-    related: ['ImageOptim', ImageOptim-CLI', 'TinyPNG']
+    related: ['ImageOptim', 'ImageOptim-CLI', 'TinyPNG']
     tags: ['images', 'compression']
 -
     name: ImageOptim

@@ -346,3 +346,9 @@
     category: Webfonts
     url: http://www.filamentgroup.com/lab/font-loading.html
     tags: ['webfonts', 'loading']
+-
+    title: '8 Performance Optimizations You Can Do in an Afternoon'
+    author: ['Eric W. Mobley']
+    category: General
+    url: http://www.ericmobley.net/eight-performance-optimization-techniques/
+    tags: ['page load', 'tips']

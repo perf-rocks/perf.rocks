@@ -358,3 +358,9 @@
     category: JS
     url: http://calendar.perfplanet.com/2014/leverage-browser-storage-for-a-faster-web/
     tags: ['js', 'caching']
+-
+    title: 'Hardware Accelerated CSS: The Nice vs The Naughty'
+    author: ['Ariya Hidayat']
+    category: FPS
+    url: http://calendar.perfplanet.com/2014/hardware-accelerated-css-the-nice-vs-the-naughty/
+    tags: ['css', 'hardware acceleration', 'fps']

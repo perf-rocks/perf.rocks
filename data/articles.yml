@@ -352,3 +352,9 @@
     category: General
     url: http://www.ericmobley.net/eight-performance-optimization-techniques/
     tags: ['page load', 'tips']
+-
+    title: 'Leverage Browser Storage For a Faster Web'
+    author: ['Chris Love']
+    category: JS
+    url: http://calendar.perfplanet.com/2014/leverage-browser-storage-for-a-faster-web/
+    tags: ['js', 'caching']

@@ -364,3 +364,9 @@
     category: FPS
     url: http://calendar.perfplanet.com/2014/hardware-accelerated-css-the-nice-vs-the-naughty/
     tags: ['css', 'hardware acceleration', 'fps']
+-
+    title: 'The Power of Perceived Performance'
+    author: ['Senthil Padmanabhan']
+    category: UX
+    url: http://calendar.perfplanet.com/2014/the-power-of-perceived-performance/
+    tags: ['ux', 'perceived performance', 'loading']

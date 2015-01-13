@@ -370,3 +370,9 @@
     category: UX
     url: http://calendar.perfplanet.com/2014/the-power-of-perceived-performance/
     tags: ['ux', 'perceived performance', 'loading']
+-
+    title: 'Timing Guidelines for Exposing Hidden Content'
+    author: ['Aurora Bedford']
+    category: UX
+    url: http://www.nngroup.com/articles/timing-exposing-content/
+    tags: ['ux', 'interaction']

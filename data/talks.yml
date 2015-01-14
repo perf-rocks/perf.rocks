@@ -119,3 +119,7 @@
     title: 'Fastly : High Performance Web Components'
     author: ['Steve Souders']
     talk_url: https://www.youtube.com/watch?v=m3EPIeKaDCU
+-
+    title: 'Useful performance metrics'
+    author: ['Ben Schwarz']
+    slides_url: https://speakerdeck.com/benschwarz/useful-performance-metrics

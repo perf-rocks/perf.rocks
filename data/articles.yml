@@ -376,3 +376,9 @@
     category: UX
     url: http://www.nngroup.com/articles/timing-exposing-content/
     tags: ['ux', 'interaction']
+-
+    title: 'An Introduction to Perceived Performance'
+    author: ['Matt West']
+    category: UX
+    url: http://blog.teamtreehouse.com/perceived-performance
+    tags: ['ux', 'interaction']

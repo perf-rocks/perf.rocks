@@ -123,3 +123,8 @@
     title: 'Useful performance metrics'
     author: ['Ben Schwarz']
     slides_url: https://speakerdeck.com/benschwarz/useful-performance-metrics
+-
+    title: 'Advanced Image Compression Techniques Tutorial'
+    author: ['Tobias Baldauf']
+    talk_url: https://www.youtube.com/watch?v=vCHkpxPP6Es
+    slides_url: http://velocityconf.com/velocity2014/public/schedule/detail/35128

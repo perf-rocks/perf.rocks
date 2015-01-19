@@ -54,8 +54,9 @@ $sides: t top, l left, b bottom, r right;
 
     @each $side in $sides {
         @include each-breakpoint(m#{nth($side, 1)}--#{$size}) {
-            margin-#{nth($side,2 )}: $value;
+            margin-#{nth($side, 2)}: $value;
         }
+
         @include each-breakpoint(p#{nth($side, 1)}--#{$size}) {
             padding-#{nth($side, 2)}: $value;
         }

@@ -8,7 +8,7 @@
     text-align: center;
     border: solid 2px get-color(brand, primary);
     border-radius: 4px;
-    transition: all .15s cubic-bezier(0.4, 0, 0.2, 1);
+    transition: all .15s cubic-bezier(.4, 0, .2, 1);
 
     &:hover,
     &:active {

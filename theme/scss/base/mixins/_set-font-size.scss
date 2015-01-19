@@ -15,8 +15,8 @@
 //
 // -----------------------------------------------------------------------------
 
-@mixin set-font-size($font-size: 16px, $base-line: 21px ) {
-    $fs: (($font-size / 1px ) / 16) * 100;
+@mixin set-font-size($font-size: 16px, $base-line: 21px) {
+    $fs: (($font-size / 1px) / 16) * 100;
     $bl: ($base-line / $font-size);
 
     html {

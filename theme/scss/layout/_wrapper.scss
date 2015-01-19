@@ -33,6 +33,7 @@
         @include bk(medium) {
             width: (25% - ($margin-side * 2));
         }
+
         @include bk(large) {
             width: (16% - ($margin-side * 2));
         }

@@ -19,24 +19,24 @@ $card-list-columns-spacing: 1%;
         @extend %p;
         @extend %mb--large;
 
-        @include bk(medium) {
-            width: (100% / $medium-card-list-columns - $card-list-columns-spacing * 2);
-            margin-left: $card-list-columns-spacing;
-            margin-right: $card-list-columns-spacing;
-        }
-        @include bk(large) {
-            width: (100% / $large-card-list-columns - $card-list-columns-spacing * 2);
-            margin-left: $card-list-columns-spacing;
-            margin-right: $card-list-columns-spacing;
-        }
-
-
         position: relative;
         max-width: 300px;
         margin-left: auto;
         margin-right: auto;
         border-radius: 4px;
         border: solid 2px rgba(get-color(brand, primary), .05);
+
+        @include bk(medium) {
+            width: (100% / $medium-card-list-columns - $card-list-columns-spacing * 2);
+            margin-left: $card-list-columns-spacing;
+            margin-right: $card-list-columns-spacing;
+        }
+
+        @include bk(large) {
+            width: (100% / $large-card-list-columns - $card-list-columns-spacing * 2);
+            margin-left: $card-list-columns-spacing;
+            margin-right: $card-list-columns-spacing;
+        }
 
         &--large {
             @include bk(medium) {
@@ -69,10 +69,9 @@ $card-list-columns-spacing: 1%;
     }
 }
 
-    .card__footer {
-        align-self: flex-end;
-    }
-
+.card__footer {
+    align-self: flex-end;
+}
 
 .book-cover {
     position: relative;

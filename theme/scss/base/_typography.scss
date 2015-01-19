@@ -58,6 +58,7 @@ h1 {
         font-size: 32px;
     }
 }
+
 h2 { @extend %gamma; }
 h3 { @extend %delta; }
 h4 { @extend %epsilon; }

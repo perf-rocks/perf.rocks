@@ -349,3 +349,9 @@
     website: https://shrinkray.io/
     categories: ['Images']
     tags: ['images', 'github']
+-
+    name:  ShowSlow
+    description: 'Monitor various website performance metrics over time. ShowSlow graphs the results to help you understand how various changes to your site affect its performance.'
+    website: http://www.showslow.com/
+    categories: ['Performance Metrics']
+    tags: ['metrics', 'measure', 'analysis']

@@ -394,3 +394,9 @@
     category: Analysis
     url: http://www.ericmobley.net/measuring-performance-google-analytics/
     tags: ['analysis', 'google analytics', 'metrics', 'measure']
+-
+    title: 'Flash of Faux Text — Still More on Font Loading'
+    author: ['Zach Leatherman']
+    category: Webfonts
+    url: http://www.zachleat.com/web/foft/
+    tags: ['webfonts']

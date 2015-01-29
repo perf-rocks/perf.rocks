@@ -355,3 +355,9 @@
     website: http://www.showslow.com/
     categories: ['Performance Metrics']
     tags: ['metrics', 'measure', 'analysis']
+-
+    name:  Nines
+    description: 'A web performance tool aimed to help developers find critical performance issues'
+    website: https://github.com/derekshull/nines
+    categories: ['Performance Analysis']
+    tags: ['analysis', 'measure', 'metrics']

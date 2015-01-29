@@ -400,3 +400,9 @@
     category: Webfonts
     url: http://www.zachleat.com/web/foft/
     tags: ['webfonts']
+-
+    title: 'Optimizing your Images: Make your Website Load Faster'
+    author: ['Matt Shull']
+    category: Images
+    url: http://blog.thinkful.com/post/103650638583/optimizing-your-images-make-your-website-load
+    tags: ['images']

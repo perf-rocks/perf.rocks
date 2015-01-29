@@ -168,17 +168,17 @@ module.exports = function(grunt) {
             dist: {
                 options: {
                     stylesheets: ['assets/css/style.css'],
-                    htmlroot: '_gh_pages',
+                    htmlroot: '<%= site.dest %>',
                 },
                 files: {
                     '<%= site.dist_css %>/style.css': [
-                        '_gh_pages/index.html',
-                        '_gh_pages/people/index.html',
-                        '_gh_pages/articles/index.html',
-                        '_gh_pages/tools/index.html',
-                        '_gh_pages/talks-and-slides/index.html',
-                        '_gh_pages/books/index.html',
-                        '_gh_pages/people/addy-osmani/index.html'
+                        '<%= site.dest %>/index.html',
+                        '<%= site.dest %>/people/index.html',
+                        '<%= site.dest %>/articles/index.html',
+                        '<%= site.dest %>/tools/index.html',
+                        '<%= site.dest %>/talks-and-slides/index.html',
+                        '<%= site.dest %>/books/index.html',
+                        '<%= site.dest %>/people/addy-osmani/index.html'
                     ]
                 }
             }
@@ -191,7 +191,7 @@ module.exports = function(grunt) {
                     keepSpecialComments: 0,
                 },
                 files: {
-                    '_gh_pages/assets/css/style.css': '_gh_pages/assets/css/style.css'
+                    '<%= site.dest %>/assets/css/style.css': '<%= site.dest %>/assets/css/style.css'
                 }
             }
         },
@@ -199,13 +199,13 @@ module.exports = function(grunt) {
         htmlbuild: {
             dist: {
                 expand: true,
-                cwd: '_gh_pages',
+                cwd: '<%= site.dest %>',
                 src: '**/*.html',
-                dest: '_gh_pages/',
+                dest: '<%= site.dest %>/',
                 ext: '.html',
                 options: {
                     styles: {
-                        test: '_gh_pages/assets/css/style.css'
+                        test: '<%= site.dest %>/assets/css/style.css'
                     },
                 }
             }

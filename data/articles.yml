@@ -418,3 +418,9 @@
     category: UX
     url: https://www.igvita.com/2015/01/26/resilient-networking/
     tags: ['networking', 'failure', 'ux']
+-
+    title: 'Tour of a Performant and Responsive CSS Only Site'
+    author: ['Rajoshi Ghosh']
+    category: Case Study
+    url: http://css-tricks.com/tour-performant-responsive-css-site/
+    tags: ['css', 'scroll', 'ux', 'parallax', 'sprites']

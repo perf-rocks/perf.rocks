@@ -126,6 +126,7 @@
     grunt_plugin: https://github.com/sindresorhus/grunt-svgmin
     gulp_plugin: https://github.com/ben-eb/gulp-svgmin
     categories: ['SVG optimization']
+    related: ['SVGOMG']
     tags: ['images', 'svg']
 -
     name: ImageOptim-CLI
@@ -361,3 +362,10 @@
     website: https://github.com/derekshull/nines
     categories: ['Performance Analysis']
     tags: ['analysis', 'measure', 'metrics']
+-
+    name:  SVGOMG
+    description: "SVGOMG is SVGO's Missing GUI, aiming to expose the majority, if not all the configuration options of SVGO."
+    website: https://jakearchibald.github.io/svgomg/
+    categories: ['SVG optimization']
+    related: ['svgo']
+    tags: ['svg', 'gui']

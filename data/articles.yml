@@ -406,3 +406,15 @@
     category: Images
     url: http://blog.thinkful.com/post/103650638583/optimizing-your-images-make-your-website-load
     tags: ['images']
+-
+    title: 'Animating the Mobile Web'
+    author: ['Zain Manji']
+    category: FPS
+    url: http://engineeringblog.yelp.com/2015/01/animating-the-mobile-web.html
+    tags: ['animation', 'mobile']
+-
+    title: 'Resilient Networking: Planning for Failure'
+    author: ['Ilya Grigorik']
+    category: UX
+    url: https://www.igvita.com/2015/01/26/resilient-networking/
+    tags: ['networking', 'failure', 'ux']

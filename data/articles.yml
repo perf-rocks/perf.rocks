@@ -436,3 +436,9 @@
     category: General
     url: http://timkadlec.com/2015/02/client-side-templatings-major-bug/
     tags: ['ux', 'js', 'mvc']
+-
+    title: 'The 15 Commandments of Front-End Performance'
+    author: ['Alex Sexton']
+    category: General
+    url: https://alexsexton.com/blog/2015/02/the-15-commandments-of-front-end-performance/
+    tags: ['principles']

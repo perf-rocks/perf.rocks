@@ -430,3 +430,9 @@
     category: General
     url: http://www1.practicalperformanceanalyst.com/2015/01/10/looking-at-web-performance-from-different-angles/
     tags: ['ux']
+-
+    title: "Client-side MVC's Major Bug"
+    author: ['Tim Kadlec']
+    category: General
+    url: http://timkadlec.com/2015/02/client-side-templatings-major-bug/
+    tags: ['ux', 'js', 'mvc']

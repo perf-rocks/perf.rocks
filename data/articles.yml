@@ -442,3 +442,9 @@
     category: General
     url: https://alexsexton.com/blog/2015/02/the-15-commandments-of-front-end-performance/
     tags: ['principles']
+-
+    title: 'FLIP Your Animations'
+    author: ['Paul Lewis']
+    category: FPS
+    url: http://aerotwist.com/blog/flip-your-animations/
+    tags: ['animation', 'developer tools', 'rendering', 'tooling', 'paint', 'fps']

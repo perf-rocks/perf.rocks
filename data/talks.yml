@@ -132,3 +132,8 @@
     title: 'The Surprising Path to a Faster NYTimes.com'
     author: ['Eitan Konigsburg']
     talk_url: https://www.youtube.com/watch?v=KNr4fQ16UmI
+-
+    title: 'Web Performance: Past, Present, and Future'
+    author: ['Matt Shull']
+    talk_url: https://www.youtube.com/watch?v=r9x_2qis9CI
+    slides_url: https://speakerdeck.com/mattshull/web-performance-past-present-and-future

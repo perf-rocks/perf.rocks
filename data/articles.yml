@@ -448,3 +448,9 @@
     category: FPS
     url: http://aerotwist.com/blog/flip-your-animations/
     tags: ['animation', 'developer tools', 'rendering', 'tooling', 'paint', 'fps']
+-
+    title: '60 FPS on the Mobile Web'
+    author: ['Michael Johnston']
+    category: FPS
+    url: http://engineering.flipboard.com/2015/02/mobile-web/
+    tags: ['animation', 'mobile', 'canvas', 'js', 'paint', 'fps']

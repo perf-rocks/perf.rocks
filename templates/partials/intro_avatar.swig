@@ -6,5 +6,7 @@
     </div>
 {% endblock %}
 {% block actions %}
-    <a class="btn" href="https://www.twitter.com/{{ twitter_handle }}" title="Follow {{ name }} on Twitter">Follow on Twitter</a>
+    {% if twitter_handle %}
+        <a class="btn" href="https://www.twitter.com/{{ twitter_handle }}" title="Follow {{ name }} on Twitter">Follow on Twitter</a>
+    {% endif %}
 {% endblock %}

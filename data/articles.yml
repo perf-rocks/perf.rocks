@@ -454,3 +454,9 @@
     category: FPS
     url: http://engineering.flipboard.com/2015/02/mobile-web/
     tags: ['animation', 'mobile', 'canvas', 'js', 'paint', 'fps']
+-
+    title: '5 Ways to Make Your Site Smaller and Faster'
+    author: ['David Walsh']
+    category: General
+    url: http://davidwalsh.name/site-speed
+    tags: ['principles', 'tips', 'images', 'css', 'cdn', 'webfonts']

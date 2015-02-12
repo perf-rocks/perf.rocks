@@ -1,6 +1,6 @@
 <div class="container--brand-faded | text--center | pt--large pb--large">
     <p class="face--bold">{{ site.resource_count }} Resources so far. Let's improve the list!</p>
-    <a class="btn | mb" href="/submit/" title="Submit a front-end web performance ressource to Perf.Rocks">Submit a resource</a>
+    <a class="btn | mb" href="/submit/" title="Submit a front-end web performance resource to Perf.Rocks">Submit a resource</a>
     <a class="btn | mb" href="https://twitter.com/intent/tweet?url={{ site.url|url_encode }}&text={{ site.title|url_encode }}: {{ site.description|url_encode }} /cc @Perf_Rocks" title="Share Perf.Rocks with others on Twitter">Spread the word</a>
     <a class="btn | mb" href="{{ site.github.repo }}" title="Github repo for Perf.Rocks.">Github project</a>
 </div>

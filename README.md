@@ -5,5 +5,5 @@
 
 ## Contributing resources
 
-Submit your ressources by opening a new issue or submitting a pull request. Resources are defined in YAML format and stored in the `data` folder.
+Submit your resources using the form available at [http://www.perf.rocks/submit/](http://www.perf.rocks/submit/), by opening a new issue or by submitting a pull request.
 

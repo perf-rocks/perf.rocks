@@ -211,6 +211,21 @@ module.exports = function(grunt) {
             }
         },
 
+        htmlmin: {
+            dist: {
+                options: {
+                    removeComments: true,
+                    collapseWhitespace: true
+                },
+                files: [{
+                    expand: true,
+                    cwd: '<%= site.dest %>',
+                    src: '**/*.html',
+                    dest: '<%= site.dest %>'
+                }]
+            },
+        },
+
         'gh-pages': {
             options: {
 
@@ -229,6 +244,7 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('assemble');
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-contrib-imagemin');
+    grunt.loadNpmTasks('grunt-contrib-htmlmin');
     grunt.loadNpmTasks('grunt-contrib-connect');
     grunt.loadNpmTasks('grunt-contrib-compass');
     grunt.loadNpmTasks('grunt-contrib-cssmin');
@@ -252,6 +268,7 @@ module.exports = function(grunt) {
         'uncss',
         'cssmin',
         'htmlbuild',
+        'htmlmin'
     ]);
 
     grunt.registerTask('deploy', [

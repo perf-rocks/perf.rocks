@@ -50,7 +50,8 @@
     "grunt-autoprefixer": "^1.0.1",
     "grunt-px-to-rem": "^0.3.2",
     "grunt-contrib-imagemin": "^0.9.2",
-    "grunt-gh-pages": "^0.9.1"
+    "grunt-gh-pages": "^0.9.1",
+    "grunt-contrib-htmlmin": "^0.4.0"
   },
   "keywords": [
     "assemble boilerplate",

@@ -471,3 +471,9 @@
     category: UX
     url: http://maketea.co.uk/2015/02/16/high-performance-touch-interactions.html
     tags: ['ux', 'touch', 'mobile', 'interaction', 'tools', 'js']
+-
+    title: 'Font Loading Revisited with Font Events'
+    author: ['Scott Jehl']
+    category: Webfonts
+    url: http://www.filamentgroup.com/lab/font-events.html
+    tags: ['webfonts', 'events', 'js', 'foit', 'fout']

@@ -40,7 +40,7 @@
     {% set description = 'Learn how to deliver webfonts responsibly.' %}
 {% endif %}
 
-{% include 'templates/partials/intro.swig' with {title: 'Articles on ' + category, subtitle: description } %}
+{% include 'templates/partials/intro.swig' with {title: category + ' articles', subtitle: description } %}
 
 <div class="wrapper">
     {% set category_articles = category|category_related(articles) %}

@@ -246,6 +246,7 @@ module.exports = function(grunt) {
         uncss: {
             dist: {
                 options: {
+                    ignore: ['.js', '.js .categories.is-active', '.article-list.is-hidden'],
                     stylesheets: ['assets/css/style.css'],
                     htmlroot: '<%= site.dest %>',
                 },
@@ -307,7 +308,7 @@ module.exports = function(grunt) {
                 ext: '.html',
                 options: {
                     styles: {
-                        test: '<%= site.dest %>/assets/css/style.css'
+                        test: '<%= site.dist_css %>/style.css'
                     },
                 }
             }
@@ -382,6 +383,7 @@ module.exports = function(grunt) {
         'px_to_rem',
         'uncss',
         'cssmin',
+        'uglify',
         'htmlbuild',
         'htmlmin'
     ]);

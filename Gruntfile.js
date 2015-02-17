@@ -14,14 +14,6 @@ module.exports = function(grunt) {
     var path = require('path');
     var pretty = require('pretty');
     var mySlug = require('speakingurl').createSlug();
-    var person_pages = _.flatten(_.map(grunt.file.readYAML('data/people.yml'), function(data) {
-        return {
-            filename: mySlug(data.name),
-            data: data,
-            content: grunt.file.read('templates/partials/person.swig')
-        }
-    }));
-
     var resource_count = { resource_count: _.flatten(_.map(grunt.file.expand(['data/*.yml', '!data/people.yml']), function(filepath) {
         var data = grunt.file.readYAML(filepath);
         return Object.keys(data).length;
@@ -31,6 +23,10 @@ module.exports = function(grunt) {
 
         pkg:  grunt.file.readJSON('package.json'),
         site: _.merge(grunt.file.readYAML('_config.yml'), resource_count),
+
+        // ---------------------------------------------------------------------
+        // Assemble
+        // ---------------------------------------------------------------------
 
         assemble: {
             options: {
@@ -45,6 +41,11 @@ module.exports = function(grunt) {
                 helpers:   ['<%= site.helpers %>/*.js', '<%= site.helpers %>/filters/*.js'],
                 plugins:   ['assemble-contrib-permalinks'],
             },
+
+            // -----------------------------------------------------------------
+            // Site pages
+            // -----------------------------------------------------------------
+
             site: {
                 options: {
                     permalinks: {
@@ -54,17 +55,53 @@ module.exports = function(grunt) {
                 src:  '<%= site.pages %>/*.swig',
                 dest: '<%= site.dest %>/'
             },
+
+            // -----------------------------------------------------------------
+            // People pages
+            // -----------------------------------------------------------------
+
             people: {
                 options: {
-                    pages: person_pages,
+                    pages: _.flatten(_.map(grunt.file.readYAML('data/people.yml'), function(data) {
+                        return {
+                            filename: mySlug(data.name),
+                            data: data,
+                            content: grunt.file.read('templates/partials/person.swig')
+                        }
+                    })),
                     permalinks: {
                         structure: ':basename/index:ext',
                     },
                 },
                 src:  '!*',
                 dest: '<%= site.dest %>/people/'
+            },
+
+            // -----------------------------------------------------------------
+            // Category pages
+            // -----------------------------------------------------------------
+
+            category_pages: {
+                options: {
+                    pages: _.flatten(_.map(grunt.file.readYAML('data/articles.yml'), function(data) {
+                        return {
+                            filename: mySlug(data.category),
+                            data: data,
+                            content: grunt.file.read('templates/partials/category.swig')
+                        }
+                    })),
+                    permalinks: {
+                        structure: ':basename/index:ext',
+                    },
+                },
+                src:  '!*',
+                dest: '<%= site.dest %>/articles/topic/'
             }
         },
+
+        // ---------------------------------------------------------------------
+        // Compass
+        // ---------------------------------------------------------------------
 
         compass: {
             site: {
@@ -80,9 +117,17 @@ module.exports = function(grunt) {
             },
         },
 
+        // ---------------------------------------------------------------------
+        // Clean
+        // ---------------------------------------------------------------------
+
         clean: {
             site: ['<%= site.dest %>/**/*', '!<%= site.dest %>/.{git,gitignore}'],
         },
+
+        // ---------------------------------------------------------------------
+        // Watch
+        // ---------------------------------------------------------------------
 
         watch: {
             server: {
@@ -98,13 +143,21 @@ module.exports = function(grunt) {
             },
             sass: {
                 files: ['<%= site.sass %>/**/*.scss'],
-                tasks: ['compass']
+                tasks: ['compass', 'autoprefixer']
             },
             images: {
                 files: ['<%= site.theme_img %>/**'],
                 tasks: ['imagemin','copy:images']
+            },
+            js: {
+                files: ['<%= site.theme_js %>/**'],
+                tasks: ['copy:js']
             }
         },
+
+        // ---------------------------------------------------------------------
+        // Copy
+        // ---------------------------------------------------------------------
 
         copy: {
             images: {
@@ -113,6 +166,12 @@ module.exports = function(grunt) {
                 src:     '<%= site.theme_img %>/**',
                 dest:    '<%= site.dist_img %>/',
             },
+            js: {
+                expand:  true,
+                flatten: true,
+                src:     '<%= site.theme_js %>/**',
+                dest:    '<%= site.dist_js %>/',
+            },
             cname: {
                 expand:  true,
                 flatten: true,
@@ -120,6 +179,10 @@ module.exports = function(grunt) {
                 dest:    '<%= site.dest %>/',
             }
         },
+
+        // ---------------------------------------------------------------------
+        // Connect
+        // ---------------------------------------------------------------------
 
         connect: {
             server: {
@@ -132,6 +195,10 @@ module.exports = function(grunt) {
             }
         },
 
+        // ---------------------------------------------------------------------
+        // Imagemin
+        // ---------------------------------------------------------------------
+
         imagemin: {
             dist: {
                 files: [{
@@ -143,6 +210,10 @@ module.exports = function(grunt) {
             }
         },
 
+        // ---------------------------------------------------------------------
+        // Autoprefixer
+        // ---------------------------------------------------------------------
+
         autoprefixer: {
             options: {
                 browsers: ['last 2 versions']
@@ -152,6 +223,10 @@ module.exports = function(grunt) {
                 dest: '<%= site.dist_css %>/style.css'
             }
         },
+
+        // ---------------------------------------------------------------------
+        // Pixel to Rem
+        // ---------------------------------------------------------------------
 
         px_to_rem: {
             dist: {
@@ -163,6 +238,10 @@ module.exports = function(grunt) {
                 }
             }
         },
+
+        // ---------------------------------------------------------------------
+        // unCSS
+        // ---------------------------------------------------------------------
 
         uncss: {
             dist: {
@@ -184,6 +263,10 @@ module.exports = function(grunt) {
             }
         },
 
+        // ---------------------------------------------------------------------
+        // CSSmin
+        // ---------------------------------------------------------------------
+
         cssmin: {
             dist: {
                 options: {
@@ -195,6 +278,25 @@ module.exports = function(grunt) {
                 }
             }
         },
+
+        // ---------------------------------------------------------------------
+        // Uglify
+        // ---------------------------------------------------------------------
+
+        uglify: {
+            dist: {
+                files: [{
+                    expand: true,
+                    cwd: '<%= site.theme_js %>',
+                    src: '**/*.js',
+                    dest: '<%= site.dist_js %>'
+                }]
+            }
+        },
+
+        // ---------------------------------------------------------------------
+        // htmlbuild (embed CSS)
+        // ---------------------------------------------------------------------
 
         htmlbuild: {
             dist: {
@@ -211,6 +313,10 @@ module.exports = function(grunt) {
             }
         },
 
+        // ---------------------------------------------------------------------
+        // Minify HTML
+        // ---------------------------------------------------------------------
+
         htmlmin: {
             dist: {
                 options: {
@@ -225,6 +331,10 @@ module.exports = function(grunt) {
                 }]
             },
         },
+
+        // ---------------------------------------------------------------------
+        // Github Pages
+        // ---------------------------------------------------------------------
 
         'gh-pages': {
             options: {
@@ -247,6 +357,7 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-htmlmin');
     grunt.loadNpmTasks('grunt-contrib-connect');
     grunt.loadNpmTasks('grunt-contrib-compass');
+    grunt.loadNpmTasks('grunt-contrib-uglify');
     grunt.loadNpmTasks('grunt-contrib-cssmin');
     grunt.loadNpmTasks('grunt-contrib-clean');
     grunt.loadNpmTasks('grunt-contrib-copy');
@@ -256,6 +367,10 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-gh-pages');
     grunt.loadNpmTasks('grunt-uncss');
     grunt.loadNpmTasks('grunt-verb');
+
+    // ---------------------------------------------------------------------
+    // Build task
+    // ---------------------------------------------------------------------
 
     grunt.registerTask('build', [
         'clean',
@@ -271,16 +386,25 @@ module.exports = function(grunt) {
         'htmlmin'
     ]);
 
+    // ---------------------------------------------------------------------
+    // Deploy to Github Pages task
+    // ---------------------------------------------------------------------
+
     grunt.registerTask('deploy', [
         'build',
         'copy:cname',
         'gh-pages'
     ]);
 
+    // ---------------------------------------------------------------------
+    // Default development task
+    // ---------------------------------------------------------------------
+
     grunt.registerTask('default', [
         'clean',
         'assemble',
         'copy:images',
+        'copy:js',
         'compass',
         'autoprefixer',
         'px_to_rem',

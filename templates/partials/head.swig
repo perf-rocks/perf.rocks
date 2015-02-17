@@ -1,5 +1,5 @@
 <head>
-  <title>{% if page.title == 'Perf.Rocks' %}{{ page.title }}{% elseif page.name %}{{ page.name }} | Perf.Rocks{% else %}{{ page.title }} | Perf.Rocks{% endif %}</title>
+  <title>{% if page.title == 'Perf.Rocks' %}{{ page.title }}{% elseif page.name %}{{ page.name }} | Perf.Rocks{% elseif page.category %}{{ page.category }} posts | Perf.Rocks{% else %}{{ page.title }} | Perf.Rocks{% endif %}</title>
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -15,5 +15,10 @@
   <!-- build:style inline test -->
   <link href="{{ site.css }}/style.css" rel="stylesheet">
   <!-- /build -->
+
+  <script>
+    document.documentElement.classList.remove('no-js');
+    document.documentElement.classList.add('js');
+  </script>
 
 </head>

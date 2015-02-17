@@ -11,58 +11,13 @@
     padding-right: $base-spacing-unit;
 }
 
-.people-list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    flex-wrap: wrap;
-    align-items: stretch;
-
-    &__item {
-        $margin-side: 1%;
-
-        @extend %p;
-        @extend %mb--large;
-        @extend %text--center;
-
-        width: (50% - ($margin-side * 2));
-        margin-left: $margin-side;
-        margin-right: $margin-side;
-
-        @include bk(medium) {
-            width: (25% - ($margin-side * 2));
-        }
-
-        @include bk(large) {
-            width: (16% - ($margin-side * 2));
-        }
-    }
-}
-
 
 .site-footer {
-
     &__author {
         img,
         span {
             display: inline-block;
             vertical-align: middle;
         }
-    }
-}
-
-.article-list {
-    list-style: none;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 0;
-    max-width: 32em;
-
-    &__item {
-        @extend %pb;
-        @extend %mb;
-
-        border-bottom: solid 2px rgba(get-color(brand, primary), .05);
     }
 }

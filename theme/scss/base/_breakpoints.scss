@@ -1,16 +1,13 @@
 // -----------------------------------------------------------------------------
 // Breakpoints
-//
+// -----------------------------------------------------------------------------
 // Table of contents
 // 1. Breakpoint mixin
 // 2. Each breakpoint mixin
-//
-// -----------------------------------------------------------------------------
 
 // -----------------------------------------------------------------------------
 // 1. Breakpoint config
 // -----------------------------------------------------------------------------
-
 // The following code is over-engineered.
 // It basically allows you to use the mixin bk($breakpoint) without
 // setting any variables for each breakpoint. It uses the $breakpoints map in

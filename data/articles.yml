@@ -1,7 +1,7 @@
 -
     title: Setting a Performance Budget
     author: ['Tim Kadlec']
-    category: Performance budgeting
+    category: Budgeting
     url: http://timkadlec.com/2013/01/setting-a-performance-budget/
     tags: [budget]
 -
@@ -31,7 +31,7 @@
 -
     title: 'One Step Ahead: Improving Performance with Prebrowsing'
     author: ['Santiago Valderrama']
-    category: Other
+    category: 'Prefetching'
     url: http://alistapart.com/article/one-step-ahead-improving-performance-with-prebrowsing
     tags: [prefetching, prerendering, prebrowsing]
 -
@@ -43,7 +43,7 @@
 -
     title: 'Improve Page Load Times With DNS Prefetching'
     author: ['Dean Hume']
-    category: Other
+    category: 'Prefetching'
     url: http://deanhume.com/Home/BlogPost/improve-page-load-times-with-dns-prefetching/80
     tags: [prefetching]
 -
@@ -61,7 +61,7 @@
 -
     title: 'How we make RWD sites load fast as heck'
     author: ['Scott Jehl']
-    category: General
+    category: Responsive Web Design
     url: http://www.filamentgroup.com/lab/performance-rwd.html
     tags: [rwd]
 -
@@ -85,15 +85,15 @@
 -
     title: "RWD Bloat"
     author: ['Dave Rupert']
-    category: General
+    category: Case Studies
     url: http://daverupert.com/2014/07/rwd-bloat/
-    tags: ['critical rendering path', 'page load', 'rendering']
+    tags: ['critical rendering path', 'page load', 'rendering', 'rwd']
 -
     title: "RWD Bloat Part II"
     author: ['Dave Rupert']
-    category: General
+    category: Case Studies
     url: http://daverupert.com/2014/07/rwd-bloat-part-ii/
-    tags: ['critical rendering path', 'page load', 'rendering']
+    tags: ['critical rendering path', 'page load', 'rendering', 'rwd']
 -
     title: "Responsive Images in Practice"
     author: ['Eric Portis']
@@ -108,31 +108,31 @@
     tags: ['ux']
 -
     title: "Performance Matters"
-    category: General
+    category: Principles and Fundamentals
     url: http://alistapart.com/column/performance-matters
     tags: ['ux']
 -
     title: "Improving Smashing Magazine’s Performance: A Case Study"
     author: ['Vitaly Friedman']
-    category: General
+    category: Case Studies
     url: http://www.smashingmagazine.com/2014/09/08/improving-smashing-magazine-performance-case-study/
     tags: ['css', 'rwd', 'critical rendering path']
 -
     title: '"RWD Is Bad for Performance" Is Good for Performance'
     author: ['Tim Kadlec']
-    category: RWD
+    category: Responsive Web Design
     url: http://timkadlec.com/2014/07/rwd-is-bad-for-performance-is-good-for-performance/
     tags: ['rwd']
 -
     title: Fast Enough
     author: ['Tim Kadlec']
-    category: General
+    category: Principles and Fundamentals
     url: http://timkadlec.com/2014/01/fast-enough/
     tags: ['metrics', 'ux']
 -
     title: Performance Budgeting With Grunt
     author: ['Tim Kadlec']
-    category: Performance budgeting
+    category: Budgeting
     url: http://timkadlec.com/2014/05/performance-budgeting-with-grunt/
     tags: ['metrics', 'ux']
 -
@@ -150,13 +150,13 @@
 -
     title: A Beginner’s Guide to Website Speed Optimization
     author: ['Mark Gavalda']
-    category: General
+    category: Principles and Fundamentals
     url: https://kinsta.com/learn/page-speed/
     tags: ['principles', 'tools']
 -
     title: BrowserDiet
     author: ['Zeno Rocha']
-    category: General
+    category: Principles and Fundamentals
     url: http://browserdiet.com/en/
     tags: ['principles', 'guide', 'tools']
 -
@@ -168,13 +168,13 @@
 -
     title: Loading web pages really fast - optimistic page loading with Instantclick.io
     author: ['Adam Beres-Deak']
-    category: Other
+    category: 'Prefetching'
     url: http://bdadam.com/blog/optimistic-page-loading-with-instantclick-io.html
     tags: ['prefetch', 'preload', 'optimistic loading']
 -
     title: Performance Budget Metrics
     author: ['Tim Kadlec']
-    category: Performance budgeting
+    category: Budgeting
     url: http://timkadlec.com/2014/11/performance-budget-metrics/
     tags: ['budgeting', 'metrics']
 -
@@ -186,19 +186,19 @@
 -
     title: Why does website speed matter?
     author: ['Chris Ferdinandi']
-    category: General
+    category: Principles and Fundamentals
     url: http://gomakethings.com/why-does-website-speed-matter/
     tags: ['principles']
 -
     title: How to build a high performance website
     author: ['Chris Ferdinandi']
-    category: General
+    category: Principles and Fundamentals
     url: http://gomakethings.com/how-to-build-a-high-performance-website/
     tags: ['principles']
 -
     title: How to build wicked fast RWD sites
     author: ['Chris Ferdinandi']
-    category: RWD
+    category: Responsive Web Design
     url: http://gomakethings.com/how-to-build-wicked-fast-rwd-sites/
     tags: ['principles', 'rwd']
 -
@@ -210,55 +210,55 @@
 -
     title: Frame Timer - Explainer
     author: ['Paul Irish']
-    category: FPS
+    category: '60 FPS'
     url: https://github.com/w3c/frame-timing/wiki/Explainer
     tags: ['fps', 'rendering', 'scrolling', 'animation']
 -
     title: 'Web Performance Optimization is a Competitive Advantage'
     author: ['Chris Love']
-    category: General
+    category: Business
     url: 'http://love2dev.com/#!article/Web-Performance-Optimization-is-a-Competitive-Advantage'
     tags: ['principles', 'tools', 'ecommerce', 'stats']
 -
     title: Planning for Performance
     author: ['Scott Jehl']
-    category: General
+    category: Principles and Fundamentals
     url: 'http://alistapart.com/article/planning-for-performance'
     tags: ['principles', 'planning', 'design']
 -
     title: Doubling SVG FPS Rates at Khan Academy
     author: ['Charlie Marsh']
-    category: FPS
+    category: '60 FPS'
     url: 'http://www.princeton.edu/~crmarsh/svg-performance/'
     tags: ['fps', 'rendering', 'images', 'svg', 'animation']
 -
     title: 'Performance As A Competitive Advantage: Part 2 WalMart.com vs BestBuy.com'
     author: ['Chris Love']
-    category: General
+    category: Business
     url: 'http://love2dev.com/#!article/Performance-As-A-Competitive-Advantage-Part-2-WalMart-vs-BestBuy'
     tags: ['principles', 'tools', 'ecommerce', 'stats']
 -
     title: 'Page bloat update: The average top 1000 web page is 1795 KB in size'
     author: ['Tammy Everts']
-    category: General
+    category: Analysis
     url: 'http://www.webperformancetoday.com/2014/12/02/page-bloat-update-average-top-1000-web-page-1795-kb-size/'
     tags: ['stats']
 -
     title: 'Slow is Better: Why Sequencing is More Important Than Speed'
     author: ['Brendan MacArthur']
-    category: General
+    category: UX
     url: 'http://www.yottaa.com/blog/slow-is-better-why-sequencing-is-more-important-than-speed'
     tags: ['principles', 'tools', 'ux']
 -
     title: 'Building High Performance Websites'
     author: ['Jake Johnson']
-    category: General
+    category: Tips & Tricks
     url: 'https://divshot.com/blog/web-performance/building-high-performance-websites/'
     tags: ['principles', 'tools', 'analysis']
 -
     title: 'How to Make a Performance Budget'
     author: ['Daniel Mall']
-    category: Performance budgeting
+    category: Budgeting
     url: 'http://danielmall.com/articles/how-to-make-a-performance-budget/'
     tags: ['budget', 'tools']
 -
@@ -270,7 +270,7 @@
 -
     title: 'Web Page Performance - Profiling paint times'
     author: ['Dean Hume']
-    category: FPS
+    category: '60 FPS'
     url: http://deanhume.com/Home/BlogPost/web-page-performance---profiling-paint-times/91
     tags: ['fps', 'rendering', 'scrolling', 'animation']
 -
@@ -294,9 +294,9 @@
 -
     title: 'Async Fragments: Rediscovering Progressive HTML Rendering with Marko'
     author: ['Patrick Steele-Idem']
-    category: HTML
+    category: JS
     url: http://www.ebaytechblog.com/2014/12/08/async-fragments-rediscovering-progressive-html-rendering-with-marko/
-    tags: ['html', 'async', 'templates', 'streaming']
+    tags: ['js', 'async', 'templates', 'streaming']
 -
     title: 'The Pain of Duplicate Scripts'
     author: ['Steve Souders']
@@ -318,7 +318,7 @@
 -
     title: 'AngularJS Performance in Large Applications'
 #    author: ['Abraham Polishchuk ']
-    category: Performance
+    category: JS
     url: https://www.airpair.com/angularjs/posts/angularjs-performance-large-applications
     tags: ['javascript', 'performance']
 -
@@ -336,10 +336,9 @@
 -
     title: 'Tips For Optimising SVG Delivery For The Web'
     author: ['Sara Soueidan']
-    category: Performance
+    category: Images
     url: http://calendar.perfplanet.com/2014/tips-for-optimising-svg-delivery-for-the-web/
     tags: ['svg', 'images', 'performance']
-
 -
     title: 'How we use web fonts responsibly, or, avoiding a @font-face-palm'
     author: ['Zach Leatherman']
@@ -349,7 +348,7 @@
 -
     title: '8 Performance Optimizations You Can Do in an Afternoon'
     author: ['Eric W. Mobley']
-    category: General
+    category: Tips & Tricks
     url: http://www.ericmobley.net/eight-performance-optimization-techniques/
     tags: ['page load', 'tips']
 -
@@ -361,7 +360,7 @@
 -
     title: 'Hardware Accelerated CSS: The Nice vs The Naughty'
     author: ['Ariya Hidayat']
-    category: FPS
+    category: 60 FPS
     url: http://calendar.perfplanet.com/2014/hardware-accelerated-css-the-nice-vs-the-naughty/
     tags: ['css', 'hardware acceleration', 'fps']
 -
@@ -409,7 +408,7 @@
 -
     title: 'Animating the Mobile Web'
     author: ['Zain Manji']
-    category: FPS
+    category: 60 FPS
     url: http://engineeringblog.yelp.com/2015/01/animating-the-mobile-web.html
     tags: ['animation', 'mobile']
 -
@@ -421,43 +420,43 @@
 -
     title: 'Tour of a Performant and Responsive CSS Only Site'
     author: ['Rajoshi Ghosh']
-    category: Case Study
+    category: Case Studies
     url: http://css-tricks.com/tour-performant-responsive-css-site/
     tags: ['css', 'scroll', 'ux', 'parallax', 'sprites']
 -
     title: 'Looking at Web Performance From Different Angles'
     author: ['Alex Podelko']
-    category: General
+    category: Principles and Fundamentals
     url: http://www1.practicalperformanceanalyst.com/2015/01/10/looking-at-web-performance-from-different-angles/
     tags: ['ux']
 -
     title: "Client-side MVC's Major Bug"
     author: ['Tim Kadlec']
-    category: General
+    category: JS
     url: http://timkadlec.com/2015/02/client-side-templatings-major-bug/
     tags: ['ux', 'js', 'mvc']
 -
     title: 'The 15 Commandments of Front-End Performance'
     author: ['Alex Sexton']
-    category: General
+    category: Principles and Fundamentals
     url: https://alexsexton.com/blog/2015/02/the-15-commandments-of-front-end-performance/
     tags: ['principles']
 -
     title: 'FLIP Your Animations'
     author: ['Paul Lewis']
-    category: FPS
+    category: 60 FPS
     url: http://aerotwist.com/blog/flip-your-animations/
     tags: ['animation', 'developer tools', 'rendering', 'tooling', 'paint', 'fps']
 -
     title: '60 FPS on the Mobile Web'
     author: ['Michael Johnston']
-    category: FPS
+    category: 60 FPS
     url: http://engineering.flipboard.com/2015/02/mobile-web/
     tags: ['animation', 'mobile', 'canvas', 'js', 'paint', 'fps']
 -
     title: '5 Ways to Make Your Site Smaller and Faster'
     author: ['David Walsh']
-    category: General
+    category: Tips & Tricks
     url: http://davidwalsh.name/site-speed
     tags: ['principles', 'tips', 'images', 'css', 'cdn', 'webfonts']
 -

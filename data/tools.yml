@@ -369,3 +369,9 @@
     categories: ['SVG optimization']
     related: ['svgo']
     tags: ['svg', 'gui']
+-
+    name:  unusedjs
+    description: "Discover the percent of unused JS on a page with this simple browser proxy. There are already several tools that tell you the percent of unused CSS on a webpage. But what about unused JS? Well this tool does it for JS."
+    node_module: https://github.com/gmetais/unusedjs
+    categories: ['Performance Analysis']
+    tags: ['analysis', 'measure', 'metrics', 'javascript']

@@ -477,3 +477,15 @@
     category: Webfonts
     url: http://www.filamentgroup.com/lab/font-events.html
     tags: ['webfonts', 'events', 'js', 'foit', 'fout']
+-
+    title: 'Responsible Social Share Links'
+    author: ['Jonathan Suh']
+    category: Third Party
+    url: https://jonsuh.com/blog/social-share-links/
+    tags: ['social', 'javscript', 'third party', 'impact']
+-
+    title: 'Site Speed & PPC Performance: Why You Can’t Ignore A Slow Site Anymore'
+    author: ['Pauline Jakober']
+    category: Business
+    url: http://searchengineland.com/site-speed-ppc-performance-cant-ignore-slow-site-anymore-213029
+    tags: ['seo', 'sem', 'ppc', 'ads', 'adwords']

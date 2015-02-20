@@ -489,3 +489,21 @@
     category: Business
     url: http://searchengineland.com/site-speed-ppc-performance-cant-ignore-slow-site-anymore-213029
     tags: ['seo', 'sem', 'ppc', 'ads', 'adwords']
+-
+    title: 'Smaller Fonts with WOFF 2.0 and unicode-range'
+    author: ['Rod Sheeter']
+    category: Webfonts
+    url: http://googledevelopers.blogspot.com.es/2015/02/smaller-fonts-with-woff-20-and-unicode.html
+    tags: ['webfonts', 'woff', 'woff2', 'compression']
+-
+    title: 'Responsive Images Are Here. Now What?'
+    author: ['Jason Grigsby']
+    category: Images
+    url: http://blog.cloudfour.com/responsive-images-are-here-now-what/
+    tags: ['responsive images', 'rwd', 'picture', 'srcset']
+-
+    title: 'Flipboard and the “mobile Web” Dream…'
+    author: ['Christian Heilmann']
+    category: UX
+    url: http://christianheilmann.com/2015/02/15/flipboard-and-the-mobile-web-dream/
+    tags: ['canvas', '60fps', 'ux', 'mobile', 'accessibility']

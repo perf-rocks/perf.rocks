@@ -375,3 +375,10 @@
     node_module: https://github.com/gmetais/unusedjs
     categories: ['Performance Analysis']
     tags: ['analysis', 'measure', 'metrics', 'javascript']
+-
+    name:  memory-stats.js
+    description: "Minimal monitor for JS Heap Size via performance.memory. Like stats.js but for JS memory."
+    website: https://github.com/paulirish/memory-stats.js
+    categories: ['Performance Analysis']
+    related_author: ['Paul Irish']
+    tags: ['analysis', 'measure', 'metrics', 'javascript']

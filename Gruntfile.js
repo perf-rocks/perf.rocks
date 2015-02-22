@@ -19,6 +19,9 @@ module.exports = function(grunt) {
         return Object.keys(data).length;
     })).reduce(function(a, b) { return a + b }) };
 
+    // @todo: merge with same var defined in _config.yml
+    var tool_types = ['node', 'grunt', 'gulp', 'broccoli'];
+
     grunt.initConfig({
 
         pkg:  grunt.file.readJSON('package.json'),
@@ -96,6 +99,32 @@ module.exports = function(grunt) {
                 },
                 src:  '!*',
                 dest: '<%= site.dest %>/articles/topic/'
+            },
+
+            // -----------------------------------------------------------------
+            // Tool categories
+            // -----------------------------------------------------------------
+
+            tool_categories: {
+                options: {
+                    pages: _.flatten(_.map(tool_types, function(cat) {
+                        var data = grunt.file.readYAML('data/tools.yml');
+                        var catItems = _.filter(data, function(d) {
+                            return _.has(d, cat);
+                        });
+
+                        return {
+                            filename: mySlug(cat),
+                            data: {items: catItems},
+                            content: grunt.file.read('templates/partials/tool_category.swig'),
+                        }
+                    })),
+                    permalinks: {
+                        structure: ':basename/index:ext',
+                    },
+                },
+                src:  '!*',
+                dest: '<%= site.dest %>/tools/'
             }
         },
 
@@ -246,7 +275,7 @@ module.exports = function(grunt) {
         uncss: {
             dist: {
                 options: {
-                    ignore: ['.js', '.js .categories.is-active', '.article-list.is-hidden'],
+                    ignore: ['.js', '.js .categories.is-active', '.btn-is-active', '.article-list.is-hidden'],
                     stylesheets: ['assets/css/style.css'],
                     htmlroot: '<%= site.dest %>',
                 },

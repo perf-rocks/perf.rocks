@@ -97,6 +97,16 @@ filters.category_related = function(obj, collection) {
   return _.where(collection, { category: obj });
 }
 
+filters.tool_related = function(obj, collection) {
+  var items = [];
+  _.forEach(collection, function(item, n) {
+    if (_.has(item, obj)) {
+      items.push(item);
+    }
+  })
+  return items;
+}
+
 filters.get_categories = function (obj) {
   var categories = [];
   _(obj).forEach(function(item) {

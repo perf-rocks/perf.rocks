@@ -55,3 +55,10 @@ url:              http://www.perf.rocks
 github:
     repo:         https://github.com/danielguillan/perf.rocks
     issues:       https://github.com/danielguillan/perf.rocks/issues
+
+
+tool_types:
+  - node
+  - grunt
+  - gulp
+  - broccoli

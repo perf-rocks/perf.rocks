@@ -388,4 +388,5 @@
     website: http://speedgun.io/
     node: https://github.com/wesleyhales/speedgun
     categories: ['Performance Analysis']
+    related_author: ['Wesley Hales', 'Jarrod Overson', 'Peter Hedenskog']
     tags: ['analysis', 'measure', 'metrics', 'javascript']

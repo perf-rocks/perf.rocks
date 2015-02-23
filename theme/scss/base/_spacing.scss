@@ -2,11 +2,12 @@
 // Spacings
 // -----------------------------------------------------------------------------
 // Table of contents:
-// 1. Root font size
-// 2. Typographic scale
-// 3. Anchors
-// 4. Colors
-
+// 1. Full margin
+// 2. Full padding
+// 3. Remove margin
+// 4. Remove padding
+// 5. Side magins and paddings
+// 6. Spacing modifiers
 
 $spacing: (
     tiny: $quarter-spacing-unit,
@@ -15,21 +16,46 @@ $spacing: (
     huge: $base-spacing-unit * 4
 );
 
+
+// -----------------------------------------------------------------------------
+// 1. Full margin
+// -----------------------------------------------------------------------------
+
 @include each-breakpoint(m) {
     margin: $base-spacing-unit;
 }
+
+
+// -----------------------------------------------------------------------------
+// 2. Full padding
+// -----------------------------------------------------------------------------
 
 @include each-breakpoint(p) {
     padding: $base-spacing-unit;
 }
 
+
+// -----------------------------------------------------------------------------
+// 3. Remove margin
+// -----------------------------------------------------------------------------
+
 @include each-breakpoint(m0) {
     margin: 0;
 }
 
+
+// -----------------------------------------------------------------------------
+// 4. Remove padding
+// -----------------------------------------------------------------------------
+
 @include each-breakpoint(p0) {
     padding: 0;
 }
+
+
+// -----------------------------------------------------------------------------
+// 5. Side margins and paddings
+// -----------------------------------------------------------------------------
 
 $sides: t top, l left, b bottom, r right;
 @each $side in $sides {
@@ -41,6 +67,11 @@ $sides: t top, l left, b bottom, r right;
         padding-#{nth($side, 2)}: $base-spacing-unit;
     }
 }
+
+
+// -----------------------------------------------------------------------------
+// 6. Spacing modifiers
+// -----------------------------------------------------------------------------
 
 @each $size, $value in $spacing {
 

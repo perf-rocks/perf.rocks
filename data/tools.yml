@@ -382,3 +382,10 @@
     categories: ['Performance Analysis']
     related_author: ['Paul Irish']
     tags: ['analysis', 'measure', 'metrics', 'javascript']
+-
+    name:  Speedgun.io
+    description: "Gather important web performance data. It runs five times providing a good view on understanding how a web page is loaded. It has been rewritten to pull the latest Navigation Timing API data from PhantomJS 2."
+    website: http://speedgun.io/
+    node: https://github.com/wesleyhales/speedgun
+    categories: ['Performance Analysis']
+    tags: ['analysis', 'measure', 'metrics', 'javascript']

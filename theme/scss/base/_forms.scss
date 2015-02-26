@@ -1,0 +1,49 @@
+// -----------------------------------------------------------------------------
+// Forms
+// -----------------------------------------------------------------------------
+
+input {
+    border: solid 2px get-color(brand, primary);
+    padding: .65em 1em;
+    border-radius: 4px;
+
+    &[type=text],
+    &[type=email] {
+        width: 14em;
+
+            @include bk(medium) {
+                width: 18em;
+            }
+
+            @include bk(large) {
+                width: 22em;
+            }
+    }
+
+    &[type=button],
+    &[type="submit"] {
+        color: get-color(brand, primary);
+    }
+}
+
+
+.input-addon {
+    display: flex;
+    justify-content: center;
+
+    &__field {
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+    }
+
+    &__button {
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+        border-left: 0;
+    }
+}
+
+.cfr {
+    position: absolute;
+    left: -5000px;
+}

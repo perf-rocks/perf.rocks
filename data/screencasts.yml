@@ -1,8 +1,48 @@
 -
-    title: Web Components
-    author: Google Developers
-    url: https://www.youtube.com/playlist?list=PLOU2XLYxmsIJkA_W95NDrjdkk3dR6Jq4w
+    title: 'WebP at YouTube'
+    author: ['Mikhail Sychev']
+    url: https://www.youtube.com/watch?v=8vJSCmIMIjI
 -
-    title: Polycasts
-    author: Google Developers
-    url: https://www.youtube.com/playlist?list=PLOU2XLYxmsIJkA_W95NDrjdkk3dR6Jq4w
+    title: 'Faster Loading Images with WebP'
+    author: ['Husain Bengali']
+    url: https://www.youtube.com/watch?v=rqXMwLbYEE4
+-
+    title: 'Web Performance Testing at YouTube'
+    author: ['Rick Viscomi']
+    url: https://www.youtube.com/watch?v=k9dtjsLi9Lw
+-
+    title: 'Chrome Office Hours: Performance'
+    author: ['Paul Irish', 'Paul Lewis']
+    url: https://www.youtube.com/watch?v=z0_jD8nO5Zw
+-
+    title: 'Ask the Experts: Web Performance - Critical Rendering Path'
+    author: ['Ilya Grigorik', 'Cameron Pittman']
+    url: https://www.youtube.com/watch?v=8UIyXKflsFA
+-
+    title: 'The Treehouse Show | Episode 120: Web Performance, Material UI, SQL Charts'
+    author: ['Nick Pettit', 'Jason Seifer']
+    url: https://www.youtube.com/watch?v=rsX7ATEwA5I
+-
+    title: 'Web Performance Test'
+    author: ['Jeff Gilden']
+    url: https://www.youtube.com/watch?v=oMHhXCzJUDc
+-
+    title: 'Monitor Your Webserver and Website Performance with Pingdom.com'
+    author: ['Eli the Computer Guy']
+    url: https://www.youtube.com/watch?v=iHj4CHJPhIA
+-
+    title: 'Quick fixes in mobile website performance'
+    author: ['Maile Ohye']
+    url: https://www.youtube.com/watch?v=gy_m44X3I84
+-
+    title: 'Site Performance For Webmasters'
+    author: ['Maile Ohye']
+    url: https://www.youtube.com/watch?v=OpMfx_Zie2g
+-
+    title: 'High Performance Javascript'
+    author: ['Trevor Norris']
+    url: https://www.youtube.com/watch?v=jsiqvXi3qSA
+-
+    title: 'Perf Audit - libramatic'
+    author: ['Paul Irish']
+    url: https://www.youtube.com/watch?v=kRSiWLBuUdo

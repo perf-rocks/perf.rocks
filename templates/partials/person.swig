@@ -1,6 +1,7 @@
 {% set person_talks = name|author_related(talks) %}
 {% set person_articles = name|author_related(articles) %}
 {% set person_books = name|author_related(books) %}
+{% set person_screencasts = name|author_related(screencasts) %}
 
 {% include 'templates/partials/intro_avatar.swig' with {title: name, subtitle: bio, twitter_handle: twitter} %}
 
@@ -43,6 +44,19 @@
                     {% for book in person_books %}
                         <li class="article-list__item">
                             <p class="m0"><a class="unlink" href="{{ book.url }}">{{ book.title }}</a></p>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        {% endif %}
+
+        {% if person_screencasts|length %}
+            <div class="card-list__item card-list__item--large">
+                <h2 class="line-heading">Screencasts</h2>
+                <ul class="article-list">
+                    {% for screencast in person_screencasts %}
+                        <li class="article-list__item">
+                            <p class="m0"><a class="unlink" href="{{ screencast.url }}">{{ screencast.title }}</a></p>
                         </li>
                     {% endfor %}
                 </ul>

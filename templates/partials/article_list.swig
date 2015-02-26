@@ -9,7 +9,7 @@
             {% if article.author %}
                 <p class="micro | weak-text-color | m0">by
                     {% for author in article.author %}
-                        {% if loop.last and article.author|length > 2 %}and {% endif %}
+                        {% if loop.last and article.author|length > 1 %}and {% endif %}
                         <a href="/people/{{ author|slug }}/" title="{{ author }} profile on Perf.Rocks">{{ author }}</a>{% if loop.index < article.author|length -1 %}, {% endif %}
                     {% endfor %}
                 </p>

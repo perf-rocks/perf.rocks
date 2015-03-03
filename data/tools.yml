@@ -392,3 +392,9 @@
     categories: ['Performance Analysis']
     related_author: ['Wesley Hales', 'Jarrod Overson', 'Peter Hedenskog']
     tags: ['analysis', 'measure', 'metrics', 'javascript']
+-
+    name:  WebPerf IO
+    description: "WebPerf IO helps you transform Web Performance into Business Performance."
+    website: http://webperf.io/
+    categories: ['Performance Analysis']
+    tags: ['analysis', 'measure', 'metrics']

@@ -519,3 +519,9 @@
     category: Business
     url: http://www.webperformancetoday.com/2015/02/25/google-new-slow-label-web-performance/
     tags: ['google', 'seo']
+-
+    title: 'Critical CSS and Performance'
+    author: ['David Bushell']
+    category: CSS
+    url: http://dbushell.com/2015/02/19/critical-css-and-performance/
+    tags: ['css', 'critical rendering path']

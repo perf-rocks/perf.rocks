@@ -9,7 +9,7 @@ input {
 
     &[type=text],
     &[type=email] {
-        width: 14em;
+        width: 12em;
 
             @include bk(medium) {
                 width: 18em;

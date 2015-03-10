@@ -151,3 +151,8 @@
     author: ['Steve Souders']
     talk_url: https://www.youtube.com/watch?v=arz3jhMfUx0
     slides_url: http://stevesouders.com/hpws/rules.php
+-
+    title: 'Building For Performance and Resilience'
+    author: ['Andy Hume']
+    talk_url: https://vimeo.com/102347448
+    slides_url: https://speakerdeck.com/andyhume/building-for-performance-and-resilience

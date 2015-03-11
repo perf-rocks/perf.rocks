@@ -525,3 +525,9 @@
     category: CSS
     url: http://dbushell.com/2015/02/19/critical-css-and-performance/
     tags: ['css', 'critical rendering path']
+-
+    title: 'Inlining critical CSS for first-time visits'
+    author: ['Jeremy Keith']
+    category: CSS
+    url: https://adactio.com/journal/8504
+    tags: ['css', 'critical rendering path']

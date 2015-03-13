@@ -1,7 +1,7 @@
 -
     name: Addy Osmani
     twitter: addyosmani
-    bio: 'Engineer at Google • Author • Chrome, Polymer • Creator of TodoMVC, @Yeoman, Web Starter Kit & others • Passionate about web tooling'
+    bio: 'Engineer at Google • Author • Chrome, Polymer • Creator of TodoMVC, Yeoman, Web Starter Kit & others • Passionate about web tooling'
 -
     name: Tim Kadlec
     twitter: tkadlec
@@ -9,7 +9,7 @@
 -
     name: Ilya Grigorik
     twitter: igrigorik
-    bio: 'Web performance engineer & developer advocate @ Google. I make things fast.'
+    bio: 'Web performance engineer & developer advocate at Google. I make things fast.'
 -
     name: Sara Soueidan
     twitter: sarasoueidan
@@ -25,11 +25,11 @@
 -
     name: Matt Andrews
     twitter: andrewsmatt
-    bio: 'Developer making apps - that aren´t apps - & more for @FT. Tweets about improvements & bug fixes. 会说汉语.'
+    bio: 'Developer making apps - that aren´t apps - & more for at FT. Tweets about improvements & bug fixes. 会说汉语.'
 -
     name: Tammy Everts
     twitter: tameverts
-    bio: 'Researcher, writer, speaker, reader, mom, cupcake expert. Fighting the good #webperf / #UX fight as performance evangelist at @Radware. #VelocityConf bound!'
+    bio: 'Researcher, writer, speaker, reader, mom, cupcake expert. Fighting the good #webperf / #UX fight as performance evangelist at Radware. #VelocityConf bound!'
 -
     name: Paul Irish
     twitter: paul_irish
@@ -41,11 +41,11 @@
 -
     name: Wilson Page
     twitter: wilsonpage
-    bio: "Front-end developer @mozilla. Previously @ftlabs. Web applications, web-components, performance, architecture."
+    bio: "Front-end developer at mozilla. Previously at ftlabs. Web applications, web-components, performance, architecture."
 -
     name: Harry Roberts
     twitter: csswizardry
-    bio: "Consultant Front-end Architect • Writer • Speaker • Previously Senior Developer at BSkyB • I wrote @cssguidelines"
+    bio: "Consultant Front-end Architect • Writer • Speaker • Previously Senior Developer at BSkyB • I wrote cssguidelines"
 -
     name: Chris Love
     twitter: ChrisLove
@@ -65,11 +65,11 @@
 -
     name: Mark Zeman
     twitter: MarkZeman
-    bio: "Founder @ SpeedCurve."
+    bio: "Founder at SpeedCurve."
 -
     name: Scott Jehl
     twitter: scottjehl
-    bio: "Full snack developer at Filament Group. Writing @responsiblerwd. Hopefully outside right now."
+    bio: "Full snack developer at Filament Group. Writing at Responsiblerwd. Hopefully outside right now."
 -
     name: Eric W. Mobley
     twitter: eric_mobley
@@ -81,7 +81,7 @@
 -
     name: Kyle Peatt
     twitter: kpeatt
-    bio: "Design Manager at @Mobify. Old Lady proponent."
+    bio: "Design Manager at Mobify. Old Lady proponent."
 -
     name: Nicole Sullivan
     twitter: stubbornella
@@ -93,7 +93,7 @@
 -
     name: Dave Rupert
     twitter: davatron5000
-    bio: "Web Janitor at @paravelinc. Co-Host of @shoptalkshow. ❤ @jessrupe."
+    bio: "Web Janitor at Paravel. Co-Host of ShopTalk show."
 -
     name: Eric Portis
     twitter: etportis
@@ -101,7 +101,7 @@
 -
     name: Lara Hogan
     twitter: lara_hogan
-    bio: "Sr Engineering Manager, Performance @Etsy. Author. Feminist."
+    bio: "Sr Engineering Manager, Performance at Etsy. Author. Feminist."
 -
     name: Vitaly Friedman
     twitter: smashingmag
@@ -113,19 +113,19 @@
 -
     name: Mark Gavalda
     twitter: MarkGavalda
-    bio: "Head Honcho @ Kinsta #WordPress Hosting | PHP Coder | DevOps Guy | lang: English, Spanish, Hungarian"
+    bio: "Head Honcho at Kinsta #WordPress Hosting | PHP Coder | DevOps Guy | lang: English, Spanish, Hungarian"
 -
     name: Zeno Rocha
     twitter: zenorocha
-    bio: "Born to create & share • developer advocate @liferay • co-creator @web_components • co-founder @braziljs • host @zofepod"
+    bio: "Born to create & share • developer advocate at liferay • co-creator of web_components • co-founder at braziljs • host of zofepod"
 -
     name: Ian Carrico
     twitter: iamcarrico
-    bio: "I just want the web to be better. Austin, TX @fourkitchens"
+    bio: "I just want the web to be better. Austin, TX at fourkitchens"
 -
     name: Nicolas Bevacqua
     twitter: nzgb
-    bio: "Active Open-Source Contributor. JavaScript Hacker. Front End Ops. UX Perfectionist. Unicorn Chaser. Left Handed. Writer at @ponyfoo. Author @buildfirst. Speaker"
+    bio: "Active Open-Source Contributor. JavaScript Hacker. Front End Ops. UX Perfectionist. Unicorn Chaser. Left Handed. Writer at ponyfoo. Author at buildfirst. Speaker"
 -
     name: Patrick Hamann
     twitter: patrickhamann
@@ -133,15 +133,15 @@
 -
     name: Chris Coyier
     twitter: chriscoyier
-    bio: "Designer @CodePen. Writer @Real_CSS_Tricks. Podcaster @ShopTalkShow. Lead Hucklebucker."
+    bio: "Designer CodePen. Writer Real_CSS_Tricks. Podcaster ShopTalkShow. Lead Hucklebucker."
 -
     name: Chris Ferdinandi
     twitter: chrisferdinandi
-    bio: "Front-end web developer at @mashery, web guy at @pawsnewengland, and creator of Kraken. I love pirates, puppies, and Pixar movies."
+    bio: "Front-end web developer at mashery, web guy at pawsnewengland, and creator of Kraken. I love pirates, puppies, and Pixar movies."
 -
     name: Zach Leatherman
     twitter: zachleat
-    bio: "One of @filamentgroup. Herding @nebraskajs."
+    bio: "One of filamentgroup. Herding nebraskajs."
 -
     name: Patrick Meenan
     twitter: patmeenan
@@ -157,11 +157,11 @@
 -
     name: Kornel Lesiński
     twitter: pornelski
-    bio: "Programmer. Information sponge. Image compression tinkerer (ImageOptim, pngquant). Working at @FTLabs. Bikeshedding at @WHATWG."
+    bio: "Programmer. Information sponge. Image compression tinkerer (ImageOptim, pngquant). Working at FTLabs. Bikeshedding at WHATWG."
 -
     name: Yesenia Perez-Cruz
     twitter: yeseniaa
-    bio: "Designer, Boricua, lipstick connoisseur. @IntuitiveCo, formerly @HappyCog."
+    bio: "Designer, Boricua, lipstick connoisseur. IntuitiveCo, formerly at HappyCog."
 -
     name: Khalid Lafi
     twitter: lafikl
@@ -173,7 +173,7 @@
 -
     name: Charlie Marsh
     twitter: crm416
-    bio: "Software Dev Intern @KhanAcademy, student @Princeton. Taking the friction out of learning."
+    bio: "Software Dev Intern at KhanAcademy, student at Princeton. Taking the friction out of learning."
 -
     name: Aaron Rudger
     twitter: arudger
@@ -185,7 +185,7 @@
 -
     name: Jake Johnson
     twitter: jakejohnson
-    bio: "Crafting developer experience @divshot to achieve front-end domination. Harder, better, faster, stronger."
+    bio: "Crafting developer experience at Divshot to achieve front-end domination. Harder, better, faster, stronger."
 -
     name: Daniel Mall
     twitter: danielmall
@@ -197,15 +197,15 @@
 -
     name: Andy Davies
     twitter: andydavies
-    bio: "Web Performance advocate at @NCCGroupWebPerf, Arduino dabbler, vegetable grower. Husband to @nickidavies, Dad to @ninjanails and Jon (too young to tweet)."
+    bio: "Web Performance advocate at NCCGroupWebPerf, Arduino dabbler, vegetable grower. Husband to Nicki Davies, Dad to ninjanails and Jon (too young to tweet)."
 -
     name: Patrick Steele-Idem
     twitter: psteeleidem
-    bio: "JavaScript enthusiast. Creator of RaptorJS. Presentation Platform Engineer @ eBay"
+    bio: "JavaScript enthusiast. Creator of RaptorJS. Presentation Platform Engineer at eBay"
 -
     name: Kyle Conarro
     twitter: conarro
-    bio: "Developer at @TeamRigor, Villager at @AtlantaTechVillage"
+    bio: "Developer at TeamRigor, Villager at AtlantaTechVillage"
 -
     name: Vick Viren Vaishnavi
     twitter: v3vaishnavi
@@ -213,7 +213,7 @@
 -
     name: Ariya Hidayat
     twitter: ariyahidayat
-    bio: "Software Provocateur. Created @PhantomJS and @Esprima. VP of Engineering at @ShapeSecurity."
+    bio: "Software Provocateur. Created PhantomJS and Esprima. VP of Engineering at ShapeSecurity."
 -
     name: Senthil Padmanabhan
     twitter: senthil_hi
@@ -225,15 +225,15 @@
 -
     name: Matt West
     twitter: mattantwest
-    bio: "Tech Entrepreneur, Programmer & Guitarist. Author of HTML5 Foundations. Currently: @KojiLabs & @YourBigPitchHQ"
+    bio: "Tech Entrepreneur, Programmer & Guitarist. Author of HTML5 Foundations. Currently: KojiLabs & YourBigPitchHQ"
 -
     name: Ben Schwarz
     twitter: benschwarz
-    bio: "I build things for the web. Team member of @CSSConfAU. I'm building @calibreapp & I bless the rains down in Africa."
+    bio: "I build things for the web. Team member of CSSConfAU. I'm building CalibreApp & I bless the rains down in Africa."
 -
     name: Tobias Baldauf
     twitter: tbaldauf
-    bio: "Father · Uncaffeinated Veggy · Hiker · Ever Curious · Music Lover · Web & #WebPerf Geek · Solutions Architect @Akamai"
+    bio: "Father · Uncaffeinated Veggy · Hiker · Ever Curious · Music Lover · Web & #WebPerf Geek · Solutions Architect at Akamai"
 -
     name: Matt Shull
     twitter: TheMattShull
@@ -241,11 +241,11 @@
 -
     name: Zain Manji
     twitter: ZainManji
-    bio: "Canadian Tennis Player • Software Engineer @Facebook • Toronto Raptors • Canadian Tennis Player • Software Engineer @Facebook • Toronto Raptors •"
+    bio: "Canadian Tennis Player • Software Engineer at Facebook • Toronto Raptors • Canadian Tennis Player • Software Engineer at Facebook • Toronto Raptors •"
 -
     name: Rajoshi Ghosh
     twitter: rajoshighosh
-    bio: "Founder @34_Cross. Ex @MESTghana fellow. #Technology #Chennai"
+    bio: "Founder at 34_Cross. Ex MESTghana fellow. #Technology #Chennai"
 -
     name: Alex Podelko
     twitter: apodelko
@@ -256,7 +256,7 @@
     bio: "Alex Sexton lives in Austin TX, and is an engineer at Stripe. He is on the Modernizr core team, the  jQuery Board of Directors, as well as the Dojo Foundation Board."
 -
     name: Michael Johnston
-    bio: "Engineering @ Flipboard"
+    bio: "Engineering at Flipboard"
 -
     name: David Walsh
     twitter: davidwalshblog
@@ -268,7 +268,7 @@
 -
     name: Cory Bateman
     twitter: splintercode
-    bio: "Front End Engineer @vintagesoftware and @estatesalesnet #Sass, #CSS, #JavaScript, #AngularJS, Responsive web design, Web performance. #outlier"
+    bio: "Front End Engineer at VintageSoftware and at estatesalesnet #Sass, #CSS, #JavaScript, #AngularJS, Responsive web design, Web performance. #outlier"
 -
     name: Matt Hinchliffe
     twitter: i_like_robots
@@ -318,7 +318,7 @@
 -
     name: Rick Viscomi
     twitter: rick_viscomi
-    bio: "#webperf developer @YouTube. Open sourced trunk8 and red dwarf projects. Coauthor of @UsingWPT"
+    bio: "#webperf developer at YouTube. Open sourced trunk8 and red dwarf projects. Coauthor of UsingWPT"
 -
     name: Cameron Pittman
     twitter: cwpittman
@@ -326,7 +326,7 @@
 -
     name: Nick Pettit
     twitter: nickrp
-    bio: "I am a designer, public speaker, teacher at @Treehouse, and co-host of The Treehouse Show."
+    bio: "I am a designer, public speaker, teacher at Treehouse, and co-host of The Treehouse Show."
 -
     name: Jason Seifer
     twitter: jseifer
@@ -345,7 +345,7 @@
 -
     name: Trevor Norris
     twitter: trevnorris
-    bio: "Node.js & io.js Core Maintainer @NodeSource"
+    bio: "Node.js & io.js Core Maintainer of NodeSource"
 -
     name: David Bushell
     twitter: dbushell
@@ -361,12 +361,12 @@
 -
     name: Marco Barbosa
     twitter: marcobarbosa
-    bio: "Brazilian. Creative Web developer and partner @14islands . Organizer of @DesignersiSTO."
+    bio: "Brazilian. Creative Web developer and partner at 14islands . Organizer of DesignersiSTO."
 -
     name: Katie Kovalcin
     twitter: katiekovalcin
-    bio: "Designer @hearsparkbox. lipsticks, libraries, and oddities. power girl in a '90s world."
+    bio: "Designer at hearsparkbox. lipsticks, libraries, and oddities. power girl in a '90s world."
 -
     name: Jeremy Keith
     twitter: adactio
-    bio: "An Irish web developer working with @Clearleft curating @dConstruct, playing music with @SalterCane, and guy behind the curtain of @Huffduffer & @SessionUpdates"
+    bio: "An Irish web developer working with Clearleft, curating dConstruct, playing music with SalterCane, and guy behind the curtain of Huffduffer & SessionUpdates"

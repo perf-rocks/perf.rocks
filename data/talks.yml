@@ -168,3 +168,7 @@
     title: 'The Path to Performance'
     author: ['Katie Kovalcin']
     slides_url: https://speakerdeck.com/katiekovalcin/the-path-to-performance
+-
+    title: 'Performance as design: doing responsive responsibly'
+    author: ['Marco Barbosa']
+    slides_url: https://speakerdeck.com/14islands/performance-as-design-doing-responsive-responsibly

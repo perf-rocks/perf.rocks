@@ -405,3 +405,17 @@
     categories: ['Performance Analysis']
     related_author: ['Tim Kadlec']
     tags: ['cost', 'mobile', 'user', 'ux']
+-
+    name: sharp
+    description: 'The fastest Node.js module for resizing JPEG, PNG, WebP and TIFF images. Uses the libvips library.'
+    node: https://github.com/lovell/sharp
+    grunt: https://github.com/unindented/grunt-sharp
+    gulp: https://github.com/mahnunchik/gulp-responsive
+    categories: ['Images']
+    tags: ['compression', 'images', 'optimization', 'webp']
+-
+    name: dimens.io
+    description: 'Fast, on-demand resizing, optimizing and conversion of high-resolution images. Balances quality with file size. Works with existing storage and CMS solutions.'
+    website: https://dimens.io/
+    categories: ['Images', 'RWD']
+    tags: ['compression', 'images', 'optimization', 'rwd', 'webp']

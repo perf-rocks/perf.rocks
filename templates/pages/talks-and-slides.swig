@@ -18,7 +18,7 @@ slug: index
                 <h2 class="m0"><a class="unlink" href="{% if talk.talk_url %}{{ talk.talk_url }}{% else %}{{ talk.slides_url }}{% endif %}">{{ talk.title }}</a></h2>
                 <p class="micro | weak-text-color | m0">by
                     {% for author in talk.author %}
-                        {% if loop.last and talk.author|length > 2 %}and {% endif %}
+                        {% if loop.last and talk.author|length > 1 %}and {% endif %}
                         <a href="/people/{{ author|slug }}/" title="{{ author }} profile on Perf.Rocks">{{ author }}</a>
                         {% if loop.index < talk.author|length -1 %}, {% endif %}
                     {% endfor %}

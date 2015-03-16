@@ -52,6 +52,16 @@ $card-list-columns-spacing: 1%;
         &--faded {
             opacity: .5;
         }
+
+        &--sponsor {
+            @extend %p0;
+            max-width: none;
+            width: auto;
+        }
+    }
+
+    &--centered {
+        justify-content: center;
     }
 }
 
@@ -85,5 +95,26 @@ $card-list-columns-spacing: 1%;
         width: 100%;
         top: 0;
         left: 0;
+    }
+}
+
+.sponsor-content {
+
+    @include bk('medium') {
+        display: flex;
+    }
+
+    @include bk('large') {
+        display: flex;
+    }
+
+     &__image {
+        flex: 1 300px;
+     }
+
+    &__body {
+        @extend %pl;
+        @extend %pr;
+        @extend %pb;
     }
 }

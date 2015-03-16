@@ -531,3 +531,9 @@
     category: CSS
     url: https://adactio.com/journal/8504
     tags: ['css', 'critical rendering path']
+-
+    title: 'Strategies for Staying on Top of Web Performance'
+    author: ['Chris Coyier']
+    category: Principles and Fundamentals
+    url: https://css-tricks.com/strategies-for-staying-on-top-of-web-performance/
+    tags: ['budgeting', 'monitoring', 'learning']

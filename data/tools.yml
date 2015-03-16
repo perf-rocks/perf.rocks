@@ -419,3 +419,9 @@
     website: https://dimens.io/
     categories: ['Images', 'RWD']
     tags: ['compression', 'images', 'optimization', 'rwd', 'webp']
+-
+    name: lazysizes
+    description: 'lazysizes is high performance, fast (jank-free) and self-initializing lazyloader for images (including responsive images picture/srcset), iframes, scripts/widgets and much more.'
+    website: https://github.com/aFarkas/lazysizes
+    categories: ['Images', 'RWD']
+    tags: ['lazy loading', 'images', 'rwd']

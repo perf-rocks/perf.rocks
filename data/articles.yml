@@ -565,3 +565,9 @@
     category: 'Case Studies'
     url: http://perfaudit.com/case-study/caniuse.com/
     tags: ['Audit', 'profiling', 'scrolling', 'jank', 'css']
+-
+    title: 'The Complete Guide to Reducing Page Weight'
+    author: ['Craig Buckley']
+    category: Principles and Fundamentals
+    url: http://www.sitepoint.com/complete-guide-reducing-page-weight/
+    tags: ['guide', 'compression', 'cdn', 'css', 'js', 'images', 'third party', 'fonts', 'sprites', 'tools']

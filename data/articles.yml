@@ -543,3 +543,25 @@
     category: Principles and Fundamentals
     url: https://css-tricks.com/strategies-for-staying-on-top-of-web-performance/
     tags: ['budgeting', 'monitoring', 'learning']
+-
+    title: 'Performance Optimization is a Process Not an Event'
+    author: ['Billy Hoffman']
+    category: Principles and Fundamentals
+    url: http://zoompf.com/blog/2015/03/performance-optimization-is-a-process-not-an-event
+    tags: ['general', 'design', 'process', 'learning']
+-
+    title: 'The Case for Auto-Preloading: The Anatomy of a Battle-Tested WPO Treatment'
+    author: ['Kent Alstad']
+    category: 'Prefetching'
+    url: http://www.webperformancetoday.com/2015/03/09/case-auto-preloading-anatomy-battle-tested-wpo-treatment/
+    tags: ['prefetching', 'preloading', 'resources']
+-
+    title: 'PerfAudit: HindustanTimes.com'
+    category: 'Case Studies'
+    url: http://perfaudit.com/case-study/hindustantimes.com/
+    tags: ['Audit', 'profiling', 'rendering']
+-
+    title: 'PerfAudit: CanIUse.com'
+    category: 'Case Studies'
+    url: http://perfaudit.com/case-study/caniuse.com/
+    tags: ['Audit', 'profiling', 'scrolling', 'jank', 'css']

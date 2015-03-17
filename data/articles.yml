@@ -567,7 +567,7 @@
     tags: ['Audit', 'profiling', 'scrolling', 'jank', 'css']
 -
     title: 'The Complete Guide to Reducing Page Weight'
-    author: ['Craig Buckley']
+    author: ['Craig Buckler']
     category: Principles and Fundamentals
     url: http://www.sitepoint.com/complete-guide-reducing-page-weight/
     tags: ['guide', 'compression', 'cdn', 'css', 'js', 'images', 'third party', 'fonts', 'sprites', 'tools']

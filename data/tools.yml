@@ -427,7 +427,7 @@
     tags: ['lazy loading', 'images', 'rwd']
 -
     name: justice.js
-    description: 'A performance metric bar with a streaming FPS graph. ustice will create an on page widget that displays various performance metrics, including a streaming fps meter.'
+    description: 'A performance metric bar with a streaming FPS graph and page timing stats. Timing budgets supported.'
     website: https://github.com/okor/justice
     categories: ['Metrics']
     tags: ['fps', 'rendering']

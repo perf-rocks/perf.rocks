@@ -571,3 +571,26 @@
     category: Principles and Fundamentals
     url: http://www.sitepoint.com/complete-guide-reducing-page-weight/
     tags: ['guide', 'compression', 'cdn', 'css', 'js', 'images', 'third party', 'fonts', 'sprites', 'tools']
+-
+    title: 'New JavaScript techniques for rapid page loads'
+    author: ['Marja Hölttä']
+    category: JS
+    url: http://blog.chromium.org/2015/03/new-javascript-techniques-for-rapid.html
+    tags: ['chrome', 'js', 'async', 'defer', 'scripts', 'load']
+-
+    title: 'Treat Web Performance Issues Like Software Bugs'
+    author: ['Billy Hoffman']
+    category: Business
+    url: http://zoompf.com/blog/2015/03/treat-web-performance-issues-like-software-bugs
+    tags: ['bugs', 'wpi']
+-
+    title: 'Inlining critical CSS for better web performance'
+    author: ['Chris Ferdinandi']
+    category: Critical Rendering Path
+    url: http://gomakethings.com/inlining-critical-css-for-better-web-performance/
+    tags: ['inline', 'critical rendering path', 'page load']
+-
+    title: 'PerfAudit: DeviantArt.com'
+    category: 'Case Studies'
+    url: http://perfaudit.com/case-study/deviantart.com/
+    tags: ['Audit', 'profiling', 'rendering', 'images']

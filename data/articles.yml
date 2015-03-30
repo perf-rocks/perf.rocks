@@ -600,3 +600,9 @@
     category: 'Case Studies'
     url: http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/
     tags: ['Audit', 'performance', 'devtools']
+-
+    title: 'Faster Font Loading with Font Events'
+    author: ['Jonathan Suh']
+    category: 'Webfonts'
+    url: https://jonsuh.com/blog/font-loading-with-font-events/
+    tags: ['webfonts', 'loading']

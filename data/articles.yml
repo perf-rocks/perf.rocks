@@ -612,3 +612,9 @@
     category: 'CSS'
     url: http://keithclark.co.uk/articles/loading-css-without-blocking-render/
     tags: ['performance', 'page load', 'css']
+-
+    title: 'High performance HTML'
+    author: ['Sam Dutton']
+    category: 'Performance'
+    url: https://samdutton.wordpress.com/2015/04/02/high-performance-html/
+    tags: ['performance', 'html']

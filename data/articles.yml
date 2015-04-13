@@ -618,3 +618,21 @@
     category: 'Principles and Fundamentals'
     url: https://samdutton.wordpress.com/2015/04/02/high-performance-html/
     tags: ['performance', 'html']
+-
+    title: 'Measuring Web Performance'
+    author: ['Matt Shull']
+    category: 'Analysis'
+    url: https://medium.com/@thinkful/measuring-web-performance-5fb586e5ab18
+    tags: ['analysis', 'measurements', 'rum', 'monitoring']
+-
+    title: 'What nobody tells you about “will-change”'
+    author: ['Thierry Koblentz']
+    category: '60 FPS'
+    url: http://cssmojo.com/the-dark-side-of-the-will-change-property/
+    tags: ['will-change', 'rendering', 'hack', 'transforms', 'layout', 'paint', 'css']
+-
+    title: 'Fixing the ‘Blank Text’ Problem'
+    author: ['Ilya Grigorik']
+    category: 'Webfonts'
+    url: https://www.igvita.com/2015/04/10/fixing-the-blank-text-problem/
+    tags: ['webfonts', 'fout', 'download', 'mobile']

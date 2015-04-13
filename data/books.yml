@@ -41,3 +41,9 @@
     description: "How prepared are you to build fast and efficient web applications? This eloquent book provides what every web developer should know about the network, from fundamental limitations that affect performance to major innovations for building even more powerful browser applications—including HTTP 2.0 and XHR improvements, Server-Sent Events (SSE), WebSocket, and WebRTC."
     category: General
     url: http://chimera.labs.oreilly.com/books/1230000000545
+-
+    title: 'Web Animation using JavaScript: Develop & Design'
+    author: ['Julian Shapiro']
+    description: "This book provides you with a technical foundation to implement animation in a way that’s both visually stunning and programmatically maintainable. Throughout, we consider the balance between enriching a page with motion design while avoiding unnecessary flourishes.  From animation performance to theory, we cover everything needed to become a professional web animator. Whether you're a novice or professional web developer, this book is for everyone."
+    category: Animation
+    url: http://www.peachpit.com/store/web-animation-using-javascript-develop-design-9780134096667

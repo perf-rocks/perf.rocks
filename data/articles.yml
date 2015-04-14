@@ -642,3 +642,9 @@
     category: 'Business'
     url: http://moz.com/blog/how-to-keep-your-site-fast-for-mobile-friendly
     tags: ['seo', 'mobile', 'google']
+-
+    title: 'Why using current user data to justify not optimizing for mobile is b*llshit'
+    author: ['Chris Ferdinandi']
+    category: 'Business'
+    url: http://gomakethings.com/why-using-current-user-data-to-justify-not-optimizing-for-mobile-is-bllshit
+    tags: ['data', 'mobile', 'analytics']

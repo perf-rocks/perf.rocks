@@ -648,3 +648,9 @@
     category: 'Business'
     url: http://gomakethings.com/why-using-current-user-data-to-justify-not-optimizing-for-mobile-is-bllshit
     tags: ['data', 'mobile', 'analytics']
+-
+    title: '5 Can’t Miss Web Performance Optimization Basics'
+    author: ['Andreas Grabner']
+    category: 'Principles and Fundamentals'
+    url: http://apmblog.dynatrace.com/2015/04/15/5-cant-miss-web-performance-optimization-basics/
+    tags: ['techniques', 'metrics', 'caching', 'server']

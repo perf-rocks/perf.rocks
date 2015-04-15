@@ -3,7 +3,7 @@
     <div class="card-list__item card-list__item--sponsor | container--brand-faded">
         <a class="sponsor-content | unlink" href="http://vintisis.com" title="Vintisis – High Quality Designer t-shirts sponsors Perf.Rocks.">
             <div class="sponsor-content__image">
-              <img style="display: block;" src="{{ site.img }}/vintisis-sponsor.jpg" alt="Vintisis - High Quality designer t-shirts sponsor" width="300">
+              <img style="display: block;" src="{{ site.img }}/vintisis-sponsor.jpg" srcset="{{ site.img }}/vintisis-sponsor.jpg 300w, {{ site.img }}/vintisis-sponsor@2x.jpg 600w" alt="Vintisis - High Quality designer t-shirts sponsor" width="300">
             </div>
             <div class="sponsor-content__body">
               <h2 class="line-heading | milli | mb ">

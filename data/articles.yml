@@ -654,3 +654,9 @@
     category: 'Principles and Fundamentals'
     url: http://apmblog.dynatrace.com/2015/04/15/5-cant-miss-web-performance-optimization-basics/
     tags: ['techniques', 'metrics', 'caching', 'server']
+-
+    title: 'CSS vs. JS Animation: Which is Faster?'
+    author: ['Julian Shapiro']
+    category: '60 FPS'
+    url: http://davidwalsh.name/css-js-animation
+    tags: ['techniques', 'animation', 'javascript', 'css', '60fps']

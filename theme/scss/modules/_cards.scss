@@ -50,7 +50,7 @@ $card-list-columns-spacing: 1%;
         }
 
         &--faded {
-            opacity: .5;
+            background-color: rgba(get-color(brand, primary), .05);
         }
 
         &--sponsor {

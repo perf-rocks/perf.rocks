@@ -46,8 +46,8 @@ base_url: "../"
             </a>
         </li>
         <li class="card-list__item card-list__item--faded">
-            <h2 class="line-heading | mb">Coming soon…</h2>
-            <p class="weak-text-color | m0">RSS feed, a showcase of fast websites and much more. Have an idea? Share it with us on Twitter!</p>
+            <h2 class=" | mb">What's next?</h2>
+            <p class="weak-text-color | m0">New categories? More content? Share your ideas on <a href="https://twitter.com/perf_rocks" rel="nofollow">Twitter</a> or <a href="https://github.com/danielguillan/perf.rocks/issues" rel="nofollow">Github</a> and help us build the most comprehensive web performance resources site on the internet.</p>
         </li>
     </ul>
 </div>

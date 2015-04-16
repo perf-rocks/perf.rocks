@@ -5,3 +5,8 @@
 .container--brand-faded {
     background-color: rgba(get-color(brand, primary), .05);
 }
+
+.container--brand {
+    background-color: get-color(brand, primary);
+    color: get-color(base, 'white');
+}

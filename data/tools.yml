@@ -431,3 +431,9 @@
     website: https://github.com/okor/justice
     categories: ['Metrics']
     tags: ['fps', 'rendering']
+-
+    name: boomerang
+    description: 'End user oriented web performance testing and beaconing. boomerang is a JavaScript library that measures the page load time experienced by real users, commonly called RUM.'
+    website: https://github.com/lognormal/boomerang/
+    categories: ['Metrics']
+    tags: ['loading', 'RUM', 'user', 'javascript']

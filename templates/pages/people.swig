@@ -16,8 +16,10 @@ slug: index
             {% set person_articles = person.name|author_related(articles) %}
 
             <li class="people-list__item | text--center">
-                <a class="unlink" href="/people/{{ person.name|slug }}" title="{{ person.name }} profile on Perf.Rocks">
-                    <img class="avatar | mb" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="background-image: url('{{ site.img }}/{{ person.name|slug }}.jpg')" width="128" height="128" alt="{{ person.name }}">
+                <a class="avatar | unlink" href="/people/{{ person.name|slug }}" title="{{ person.name }} profile on Perf.Rocks">
+                    <img class="avatar__image" src="{{ site.img }}/{{ person.name|slug }}.jpg"  width="128" height="128" alt="{{ person.name }}">
+                </a>
+                <a class="unlink | mb" href="/people/{{ person.name|slug }}" title="{{ person.name }} profile on Perf.Rocks">
                     <h3 class="m0">{{ person.name }}</h3>
                 </a>
             </li>

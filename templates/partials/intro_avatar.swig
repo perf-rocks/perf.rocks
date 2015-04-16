@@ -2,7 +2,9 @@
 
 {% block avatar %}
     <div class="text--center">
-        <img class="avatar" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="background-image: url('{{ site.img }}/{{ name|slug }}.jpg')" width="150" height="150" alt="{{ name }}">
+        <div class="avatar">
+            <img class="avatar__image" src="{{ site.img }}/{{ name|slug }}.jpg" width="150" height="150" alt="{{ name }}">
+        </div>
     </div>
 {% endblock %}
 {% block actions %}

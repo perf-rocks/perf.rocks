@@ -660,3 +660,9 @@
     category: '60 FPS'
     url: http://davidwalsh.name/css-js-animation
     tags: ['techniques', 'animation', 'javascript', 'css', '60fps']
+-
+    title: 'More Weight Doesn´t Mean More Wait'
+    author: ['Scott Jehl']
+    category: 'UX'
+    url: http://www.filamentgroup.com/lab/weight-wait.html
+    tags: ['ux', 'perceived performance', 'loading']

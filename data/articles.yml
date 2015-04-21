@@ -666,3 +666,9 @@
     category: 'UX'
     url: http://www.filamentgroup.com/lab/weight-wait.html
     tags: ['ux', 'perceived performance', 'loading']
+-
+    title: 'DevTools Timeline: Now Providing the Full Story'
+    author: ['Heather Mahan']
+    category: 'Case Studies'
+    url: http://updates.html5rocks.com/2015/04/devtools-timeline-improvements
+    tags: ['devtools', 'chrome', 'profiler', 'profiling', 'javascript', 'fps', 'paint']

@@ -672,3 +672,9 @@
     category: 'Case Studies'
     url: http://updates.html5rocks.com/2015/04/devtools-timeline-improvements
     tags: ['devtools', 'chrome', 'profiler', 'profiling', 'javascript', 'fps', 'paint']
+-
+    title: 'DevTools Timeline: Now Providing the Full Story'
+    author: ['Jonathan Suh']
+    category: 'Case Studies'
+    url: https://jonsuh.com/blog/need-for-speed-2/
+    tags: ['compression', 'css', 'javascript', 'webfonts', 'foit', 'pagespeed', 'http2']

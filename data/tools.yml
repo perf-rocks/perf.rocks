@@ -437,3 +437,21 @@
     website: https://github.com/lognormal/boomerang/
     categories: ['Metrics']
     tags: ['loading', 'RUM', 'user', 'javascript']
+-
+    name: Pagespeed Optimization
+    description: 'Test a page for common page speed issues.'
+    website: http://www.feedthebot.com/pagespeed/
+    categories: ['Metrics']
+    tags: ['optimization', 'analysis', 'measure', 'metrics']
+-
+    name: Javascript usage tool
+    description: 'This tool displays how javascript is used on a page. Examines the external and internal use of javascript.'
+    website: http://www.feedthebot.com/tools/js/
+    categories: ['Metrics']
+    tags: ['javascript', 'optimization', 'analysis', 'measure', 'metrics']
+-
+    name: CSS delivery tool
+    description: 'This tool displays how CSS is used on a page. Examines the external and internal use of CSS.'
+    website: http://www.feedthebot.com/tools/css-delivery/
+    categories: ['Metrics']
+    tags: ['css', 'optimization', 'analysis', 'measure', 'metrics']

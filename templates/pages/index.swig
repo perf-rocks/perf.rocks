@@ -34,8 +34,8 @@ base_url: "../"
             </a>
         </li>
         <li class="card-list__item">
-            <a class="unlink" href="/screencasts/" title="A list of screencasts and video tutorials on web performance optimization">
-                <h2 class="line-heading | mb">Screencasts</h2>
+            <a class="unlink" href="/videos/" title="A list of screencasts and video tutorials on web performance optimization">
+                <h2 class="line-heading | mb">Videos</h2>
                 <p class="weak-text-color | m0">Screencasts, courses and video tutorials on web performance techniques.</p>
             </a>
         </li>

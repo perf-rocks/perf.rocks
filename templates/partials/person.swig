@@ -1,7 +1,7 @@
 {% set person_talks = name|author_related(talks) %}
 {% set person_articles = name|author_related(articles) %}
 {% set person_books = name|author_related(books) %}
-{% set person_screencasts = name|author_related(screencasts) %}
+{% set person_videos = name|author_related(videos) %}
 
 {% include 'templates/partials/intro_avatar.swig' with {title: name, subtitle: bio, twitter_handle: twitter} %}
 
@@ -50,11 +50,11 @@
             </div>
         {% endif %}
 
-        {% if person_screencasts|length %}
+        {% if person_videos|length %}
             <div class="card-list__item card-list__item--large">
-                <h2 class="line-heading">Screencasts</h2>
+                <h2 class="line-heading">videos</h2>
                 <ul class="article-list">
-                    {% for screencast in person_screencasts %}
+                    {% for screencast in person_videos %}
                         <li class="article-list__item">
                             <p class="m0"><a class="unlink" href="{{ screencast.url }}">{{ screencast.title }}</a></p>
                         </li>

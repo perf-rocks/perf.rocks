@@ -1,6 +1,6 @@
 /*
  * Perf.Rocks
- * http://www.perf.rocks
+ * http://perf.rocks
  *
  * Copyright (c) 2014 Daniel Guillan
  * MIT License

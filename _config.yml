@@ -51,7 +51,7 @@ title:            'Perf Rocks'
 description:      'Find resources that help you build lightning fast websites'
 keywords:         'performance, front-end, budgeting, monitoring, grunt, fast websites, speed'
 
-url:              http://www.perf.rocks
+url:              http://perf.rocks
 github:
     repo:         https://github.com/danielguillan/perf.rocks
     issues:       https://github.com/danielguillan/perf.rocks/issues

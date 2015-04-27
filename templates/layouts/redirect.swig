@@ -6,7 +6,7 @@
         <meta name="description" content="{{ page.description }}">
         <meta name="keywords" content="{{ site.keywords }}">
         <meta name="author" content="{{ site.author.name }}">
-        <meta http-equiv="refresh" content="0; url=http://www.perf.rocks/{{ redirection_url }}" />
-        <link rel="canonical" href="http://www.perf.rocks/{{ redirection_url }}" />
+        <meta http-equiv="refresh" content="0; url={{ site.url }}/{{ redirection_url }}" />
+        <link rel="canonical" href="{{ site.url }}{{ redirection_url }}" />
     </head>
 </html>

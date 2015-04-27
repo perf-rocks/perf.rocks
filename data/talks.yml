@@ -189,3 +189,7 @@
     title: 'Dirty Performance Secrets of HTML5'
     author: ['Andreas Gal']
     talk_url: https://www.youtube.com/watch?v=t8x40JXUeWA
+-
+    title: 'High Performance in the Critical Path'
+    author: ['Nicolas Bevacqua']
+    slides_url: https://speakerdeck.com/bevacqua/high-performance-in-the-critical-path

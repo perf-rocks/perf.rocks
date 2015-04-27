@@ -690,3 +690,9 @@
     category: 'UX'
     url: http://wesleyhales.com/blog/2015/04/24/Speedgun/
     tags: ['RUM', 'UX', 'phantomJS', 'testint', 'simulation', 'Speedgun']
+-
+    title: 'Improve Performance with the 2 types of Image Optimization'
+    author: ['Billy Hoffman']
+    category: 'Images'
+    url: http://zoompf.com/blog/2015/04/improve-performance-with-the-2-types-of-image-optimization
+    tags: ['optimization', 'compression', 'lossy', 'lossless']

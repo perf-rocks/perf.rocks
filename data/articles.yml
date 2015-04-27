@@ -684,3 +684,9 @@
     category: 'Business'
     url: https://jonsuh.com/blog/need-for-speed-2/
     tags: ['seo', 'google', 'mobile', 'content']
+-
+    title: 'Simulated RUM testing with PhantomJS 2'
+    author: ['Wesley Hales']
+    category: 'UX'
+    url: http://wesleyhales.com/blog/2015/04/24/Speedgun/
+    tags: ['RUM', 'UX', 'phantomJS', 'testint', 'simulation', 'Speedgun']

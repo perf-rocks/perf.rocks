@@ -696,3 +696,9 @@
     category: 'Images'
     url: http://zoompf.com/blog/2015/04/improve-performance-with-the-2-types-of-image-optimization
     tags: ['optimization', 'compression', 'lossy', 'lossless']
+-
+    title: 'WebP Images & Performance'
+    author: ['Matt Shull']
+    category: 'Images'
+    url: http://davidwalsh.name/webp-images-performance
+    tags: ['webp', 'quality', 'png', 'optimization', 'compression', 'lossy', 'lossless']

@@ -702,3 +702,9 @@
     category: 'Images'
     url: http://davidwalsh.name/webp-images-performance
     tags: ['webp', 'quality', 'png', 'optimization', 'compression', 'lossy', 'lossless']
+-
+    title: 'Case Study: How Making Pages 2 Seconds Faster Boosted Conversions By 66%'
+    author: ['Tammy Everts']
+    category: 'Business'
+    url: http://www.conversionconference.com/blog/case-study-how-making-pages-2-seconds-faster-boosted-conversions-by-66/
+    tags: ['ecommerce', 'conversion', 'seo', 'sales', 'abandonment']

@@ -52,7 +52,8 @@
     "grunt-contrib-imagemin": "^0.9.2",
     "grunt-gh-pages": "^0.9.1",
     "grunt-contrib-htmlmin": "^0.4.0",
-    "grunt-contrib-uglify": "^0.7.0"
+    "grunt-contrib-uglify": "^0.7.0",
+    "grunt-webp": "0.0.4"
   },
   "keywords": [
     "assemble boilerplate",

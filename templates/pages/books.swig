@@ -17,7 +17,12 @@ slug: index
             <li class="card-list__item">
                 <div class="card">
                     <header class="card__header | mb">
-                        <a class="book-cover | unlink" href="{{ book.url }}"><img src="{{ site.img }}/{{ book.title|slug }}.png" alt="{{ book.title }}" width="325" height="500"></a>
+                        <a class="book-cover | unlink" href="{{ book.url }}">
+                            <picture>
+                                <source srcset="{{ site.img }}/{{ book.title|slug }}.webp" type="image/webp">
+                                <img src="{{ site.img }}/{{ book.title|slug }}.png"  width="325" height="500" alt="{{ book.title }}">
+                            </picture>
+                        </a>
                         <h2 Class="line-heading"><a class="unlink" href="{{ book.url }}">{{ book.title }}</a></h2>
                         {% if book.author %}
                             <p class="micro | weak-text-color | m0">by

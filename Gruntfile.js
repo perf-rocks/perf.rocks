@@ -240,6 +240,32 @@ module.exports = function(grunt) {
         },
 
         // ---------------------------------------------------------------------
+        // Webp
+        // ---------------------------------------------------------------------
+
+        webp: {
+            avatars: {
+                expand: true,
+                cwd: '<%= site.theme_img %>/avatars/',
+                src: '*.jpg',
+                dest: '<%= site.theme_img %>/avatars/'
+            },
+            books: {
+                expand: true,
+                cwd: '<%= site.theme_img %>/book_covers/',
+                src: '*.png',
+                dest: '<%= site.theme_img %>/book_covers/'
+            },
+            sponsor: {
+                expand: true,
+                cwd: '<%= site.theme_img %>/sponsor/',
+                src: '*.jpg',
+                dest: '<%= site.theme_img %>/sponsor/'
+            },
+        },
+
+
+        // ---------------------------------------------------------------------
         // Autoprefixer
         // ---------------------------------------------------------------------
 
@@ -397,6 +423,7 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-gh-pages');
     grunt.loadNpmTasks('grunt-uncss');
     grunt.loadNpmTasks('grunt-verb');
+    grunt.loadNpmTasks('grunt-webp');
 
     // ---------------------------------------------------------------------
     // Build task
@@ -405,6 +432,7 @@ module.exports = function(grunt) {
     grunt.registerTask('build', [
         'clean',
         'assemble',
+        'webp',
         'imagemin',
         'copy:images',
         'compass',

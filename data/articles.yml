@@ -714,3 +714,9 @@
     category: Principles and Fundamentals
     url: http://gomakethings.com/wicked-fast-websites/
     tags: ['guide', 'course', 'css', 'js', 'images', 'fonts','tools']
+-
+    title: 'Open Source Web Performance Dashboard'
+    author: ['Peter Hedenskog']
+    category: 'Performance'
+    url: http://www.peterhedenskog.com/blog/2015/04/open-source-performance-dashboard/
+    tags: ['performance', 'tools', 'analytics', 'stats']

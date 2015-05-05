@@ -708,3 +708,9 @@
     category: 'Business'
     url: http://www.conversionconference.com/blog/case-study-how-making-pages-2-seconds-faster-boosted-conversions-by-66/
     tags: ['ecommerce', 'conversion', 'seo', 'sales', 'abandonment']
+-
+    title: 'Open Source Web Performance Dashboard'
+    author: ['Peter Hedenskog']
+    category: 'Performance'
+    url: http://www.peterhedenskog.com/blog/2015/04/open-source-performance-dashboard/
+    tags: ['performance', 'tools', 'analytics', 'stats']

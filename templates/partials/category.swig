@@ -32,6 +32,8 @@
     {% set description = "Third party components can harm you website's performance, learn how to tackle this issue." %}
 {% elseif category == 'Tips & Tricks' %}
     {% set description = 'Quick tips and tricks that will help you build faster websites.' %}
+{% elseif category == 'Tools' %}
+    {% set description = 'Learn how to use web performance analysis, monitoring and optimization tools.' %}
 {% elseif category == 'UX' %}
     {% set description = "Performance is impacts the experience of your site. Learn how to plan, design and code for a better user experience." %}
 {% elseif category == 'Web Components' %}

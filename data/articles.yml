@@ -717,6 +717,12 @@
 -
     title: 'Open Source Web Performance Dashboard'
     author: ['Peter Hedenskog']
-    category: 'Performance'
+    category: 'Tools'
     url: http://www.peterhedenskog.com/blog/2015/04/open-source-performance-dashboard/
     tags: ['performance', 'tools', 'analytics', 'stats']
+-
+    title: 'Why web performance and responsive web design matter'
+    author: ['Chris Ferdinandi']
+    category: 'Responsive Web Design'
+    url: http://gomakethings.com/why-web-performance-and-responsive-web-design-matter/
+    tags: ['performance', 'mobile', 'rwd']

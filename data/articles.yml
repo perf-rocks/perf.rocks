@@ -726,3 +726,9 @@
     category: 'Responsive Web Design'
     url: http://gomakethings.com/why-web-performance-and-responsive-web-design-matter/
     tags: ['performance', 'mobile', 'rwd']
+-
+    title: 'How To Talk About Performance Testing With CEOs And Business Managers'
+    author: ['Tim Hinds']
+    category: 'Business'
+    url: http://www.neotys.com/blog/how-to-talk-about-performance-testing-with-ceos-and-business-managers/
+    tags: ['seo', 'conversion', 'ux']

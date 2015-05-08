@@ -732,3 +732,9 @@
     category: 'Business'
     url: http://www.neotys.com/blog/how-to-talk-about-performance-testing-with-ceos-and-business-managers/
     tags: ['seo', 'conversion', 'ux']
+-
+    title: 'Useful SVGO[ptimization] Tools'
+    author: ['Sara Soueidan']
+    category: Images
+    url: http://sarasoueidan.com/blog/svgo-tools/
+    tags: ['svg', 'images', 'performance', 'optimization']

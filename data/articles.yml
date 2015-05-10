@@ -738,3 +738,9 @@
     category: Images
     url: http://sarasoueidan.com/blog/svgo-tools/
     tags: ['svg', 'images', 'performance', 'optimization']
+-
+    title: 'Rendering Performance'
+    author: ['Paul Lewis']
+    category: '60 FPS'
+    url: https://developers.google.com/web/fundamentals/performance/rendering/
+    tags: [rendering, performance, layout, paint]

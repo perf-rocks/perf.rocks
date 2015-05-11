@@ -538,12 +538,6 @@
     url: https://css-tricks.com/strategies-for-staying-on-top-of-web-performance/
     tags: ['budgeting', 'monitoring', 'learning']
 -
-    title: 'Strategies for Staying on Top of Web Performance'
-    author: ['Chris Coyier']
-    category: Principles and Fundamentals
-    url: https://css-tricks.com/strategies-for-staying-on-top-of-web-performance/
-    tags: ['budgeting', 'monitoring', 'learning']
--
     title: 'Performance Optimization is a Process Not an Event'
     author: ['Billy Hoffman']
     category: Principles and Fundamentals
@@ -738,3 +732,15 @@
     category: Images
     url: http://sarasoueidan.com/blog/svgo-tools/
     tags: ['svg', 'images', 'performance', 'optimization']
+-
+    title: 'Rendering Performance'
+    author: ['Paul Lewis']
+    category: '60 FPS'
+    url: https://developers.google.com/web/fundamentals/performance/rendering/
+    tags: ['rendering', 'performance', 'layout', 'paint']
+-
+    title: 'A beginner’s guide to understanding synthetic and real-user monitoring'
+    author: ['Tammy Everts']
+    category: 'Analysis'
+    url: http://www.soasta.com/the-performance-beacon/synthetic-real-user-measurement-monitoring-rum/
+    tags: ['monitoring', 'analysis']

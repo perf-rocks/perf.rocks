@@ -744,3 +744,9 @@
     category: 'Analysis'
     url: http://www.soasta.com/the-performance-beacon/synthetic-real-user-measurement-monitoring-rum/
     tags: ['monitoring', 'analysis']
+-
+    title: 'Measuring Performance'
+    author: ['Chris Ferdinandi']
+    category: 'Analysis'
+    url: http://gomakethings.com/measuring-performance/
+    tags: ['monitoring', 'analysis', 'load', 'tools']

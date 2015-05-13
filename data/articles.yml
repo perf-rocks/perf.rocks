@@ -756,3 +756,9 @@
     category: 'UX'
     url: http://searchsoa.techtarget.com/news/4500245242/Metrics-can-help-improve-website-user-experience
     tags: ['ux', 'perceived speed', 'budget']
+-
+    title: 'Is Mobile Friendly “Friendly” Enough?'
+    author: ['Matt Shull']
+    category: 'Responsive Web Design'
+    url: http://webperformance.io/mobile-friendly-data
+    tags: ['mobile', 'rwd', 'tools', 'devtools', 'chome', 'network']

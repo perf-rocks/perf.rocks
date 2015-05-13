@@ -768,3 +768,9 @@
     category: 'Images'
     url: http://www.stevesouders.com/blog/2015/05/12/hero-image-custom-metrics/
     tags: ['rendering', 'critical rendering path', 'images', 'hero']
+-
+    title: 'How to get important images to load early'
+    author: ['Alex Painter']
+    category: 'Images'
+    url: https://community.nccgroup-webperf.com/2015/05/how-to-get-important-images-to-load-early/
+    tags: ['rendering', 'critical rendering path', 'images', 'hero']

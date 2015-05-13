@@ -762,3 +762,9 @@
     category: 'Responsive Web Design'
     url: http://webperformance.io/mobile-friendly-data
     tags: ['mobile', 'rwd', 'tools', 'devtools', 'chome', 'network']
+-
+    title: 'Hero Image Custom Metrics'
+    author: ['Steve Souders']
+    category: 'Images'
+    url: http://www.stevesouders.com/blog/2015/05/12/hero-image-custom-metrics/
+    tags: ['rendering', 'critical rendering path', 'images', 'hero']

@@ -194,3 +194,7 @@
     title: 'High Performance in the Critical Path'
     author: ['Nicolas Bevacqua']
     slides_url: https://speakerdeck.com/bevacqua/high-performance-in-the-critical-path
+-
+    title: 'Creating a Culture of Performance'
+    author: ['Ian Carrico']
+    slides_url: https://iamcarrico.github.io/culture-of-performance/

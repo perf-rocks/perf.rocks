@@ -774,3 +774,9 @@
     category: 'Images'
     url: https://community.nccgroup-webperf.com/2015/05/how-to-get-important-images-to-load-early/
     tags: ['rendering', 'critical rendering path', 'images', 'hero']
+-
+    title: 'Choosing Performance'
+    author: ['Tim Kadlec']
+    category: 'Business'
+    url: http://timkadlec.com/2015/05/choosing-performance/
+    tags: ['facebook', 'instant', 'culture']

@@ -461,3 +461,9 @@
     website: https://github.com/trulia/webpagetest-charts-api
     categories: ['Metrics']
     tags: ['api', 'webpagetest', 'visualization', 'data']
+-
+    name: KeyCDN Speed Check
+    description: 'A free online speed check service including waterfall breakdown and website preview.'
+    website: https://tools.keycdn.com/speed
+    categories: ['Metrics']
+    tags: ['metrics', 'visualization', 'waterfall']

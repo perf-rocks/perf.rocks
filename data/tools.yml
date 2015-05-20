@@ -472,4 +472,5 @@
     description: 'Webapp to visualize various stats about your css. Rules, selectors, declarations, unique colors, unique font sizes and specificity.'
     website: http://cssstats.com/
     categories: ['Metrics']
+    related_author: ['Brent Jackson']
     tags: ['metrics', 'visualization', 'css']

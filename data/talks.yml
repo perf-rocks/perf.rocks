@@ -196,7 +196,7 @@
     slides_url: https://speakerdeck.com/bevacqua/high-performance-in-the-critical-path
 -
     title: 'Creating a Culture of Performance'
-    author: ['Ian Carrico']
+    author: ['Ian Carrico', 'Chris Ruppel']
     slides_url: https://iamcarrico.github.io/culture-of-performance/
 -
     title: 'Design+Performance'

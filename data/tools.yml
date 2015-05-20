@@ -467,3 +467,9 @@
     website: https://tools.keycdn.com/speed
     categories: ['Metrics']
     tags: ['metrics', 'visualization', 'waterfall']
+-
+    name: CSS Stats
+    description: 'Webapp to visualize various stats about your css. Rules, selectors, declarations, unique colors, unique font sizes and specificity.'
+    website: http://cssstats.com/
+    categories: ['Metrics']
+    tags: ['metrics', 'visualization', 'css']

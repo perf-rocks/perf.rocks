@@ -786,3 +786,9 @@
     category: 'Webfonts'
     url: http://bocoup.com/weblog/text-rendering/
     tags: ['ligatures', 'rendering', 'foft', 'text-rendering', 'optimizeSpeed', 'optimizeLegibility']
+-
+    title: 'The web is fast by default, let’s keep it fast'
+    author: ['Hidde de Vries']
+    category: 'Budgeting'
+    url: https://hiddedevries.nl/en/blog/2015-05-18-the-web-is-fast-by-default-lets-keep-it-fast
+    tags: ['slow', 'images', 'requests', 'load time', 'budget', 'metrics', 'ux']

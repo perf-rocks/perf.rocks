@@ -82,3 +82,7 @@
     title: 'Getting Designers to Care About Performance'
     author: ['Lara Hogan']
     url: 'https://www.youtube.com/watch?v=p0PivldssBg'
+-
+    title: 'Tracking Real World Web Performance'
+    author: ['Nik Molnar']
+    url: 'http://www.pluralsight.com/courses/web-performance-tracking'

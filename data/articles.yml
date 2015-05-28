@@ -792,3 +792,9 @@
     category: 'Budgeting'
     url: https://hiddedevries.nl/en/blog/2015-05-18-the-web-is-fast-by-default-lets-keep-it-fast
     tags: ['slow', 'images', 'requests', 'load time', 'budget', 'metrics', 'ux']
+-
+    title: 'Slow load times are killing publishers in mobile'
+    author: ['Ricardo Bilton']
+    category: 'Business'
+    url: http://digiday.com/publishers/publishers-big-weakness-slow-mobile-load-time/
+    tags: ['load', 'slow', 'publishing', 'media', 'facebook', 'content']

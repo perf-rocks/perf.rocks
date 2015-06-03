@@ -474,3 +474,10 @@
     categories: ['Metrics']
     related_author: ['Brent Jackson']
     tags: ['metrics', 'visualization', 'css']
+-
+    name: localFont
+    description: 'Implement localStorage web font caching in seconds. LocalFont is an online Vanilla JS tool that converts your font family files into a ready to use solution for localStorage web font caching.'
+    website: http://jaicab.com/localFont/
+    categories: ['Webfonts']
+    related_author: ['Jaime Caballero']
+    tags: ['webfonts', 'caching', 'localStorage']

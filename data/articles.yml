@@ -7,7 +7,7 @@
 -
     title: 'DevTools: Visually Re-engineering CSS For Faster Paint Times'
     author: ['Addy Osmani']
-    category: 'CSS'
+    category: 'DevTools'
     url: http://addyosmani.com/blog/devtools-visually-re-engineering-css-for-faster-paint-times/
     tags: ['rendering', 'tooling', 'paint', 'fps']
 -
@@ -663,7 +663,7 @@
 -
     title: 'DevTools Timeline: Now Providing the Full Story'
     author: ['Heather Mahan']
-    category: 'Case Studies'
+    category: 'Dev Tools'
     url: http://updates.html5rocks.com/2015/04/devtools-timeline-improvements
     tags: ['devtools', 'chrome', 'profiler', 'profiling', 'javascript', 'fps', 'paint']
 -
@@ -798,3 +798,15 @@
     category: 'Business'
     url: http://digiday.com/publishers/publishers-big-weakness-slow-mobile-load-time/
     tags: ['load', 'slow', 'publishing', 'media', 'facebook', 'content']
+-
+    title: 'Making a difference with performance'
+    author: ['Jaime Caballero']
+    category: 'Principles and Fundamentals'
+    url: http://jaicab.com/2015/05/18/making-a-difference-with-performance/
+    tags: ['load', 'css', 'js', 'progressive enhancement', 'speedindex']
+-
+    title: 'New Performance Tools in Firefox Developer Edition 40'
+    author: ['Dave Camp', 'Jason Weathersby']
+    category: 'Dev Tools'
+    url: https://hacks.mozilla.org/2015/06/new-performance-tools-in-firefox-developer-edition-40/
+    tags: ['profiler', 'dev tools', 'firefox', 'mozilla', 'flame chart', 'waterfall']

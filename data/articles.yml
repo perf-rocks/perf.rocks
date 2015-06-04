@@ -810,3 +810,9 @@
     category: 'Dev Tools'
     url: https://hacks.mozilla.org/2015/06/new-performance-tools-in-firefox-developer-edition-40/
     tags: ['profiler', 'dev tools', 'firefox', 'mozilla', 'flame chart', 'waterfall']
+-
+    title: 'Improved Compression Ratios Using Zopfli'
+    author: ['Dean Hume']
+    category: 'Delivery'
+    url: http://deanhume.com/Home/BlogPost/improved-compression-ratios-using-zopfli/9125
+    tags: ['zopfli', 'compression', 'requests', 'server', 'gzip']

@@ -816,3 +816,9 @@
     category: 'Delivery'
     url: http://deanhume.com/Home/BlogPost/improved-compression-ratios-using-zopfli/9125
     tags: ['zopfli', 'compression', 'requests', 'server', 'gzip']
+-
+    title: 'Need for Speed 2: Improving Front-End Performance'
+    author: ['Jonathan Suh']
+    category: 'Performance'
+    url: https://jonsuh.com/blog/need-for-speed-2/
+    tags: ['performance', 'optimization', 'compression']

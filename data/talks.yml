@@ -202,3 +202,7 @@
     title: 'Design+Performance'
     author: ['Steve Souders']
     talk_url: https://www.youtube.com/watch?v=A9rKO2rhYYM
+-
+    title: 'A Primer on Performance'
+    author: ['Una Kravetz']
+    slides_url: http://una.im/slides-bdconf/

@@ -481,3 +481,9 @@
     categories: ['Webfonts']
     related_author: ['Jaime Caballero']
     tags: ['webfonts', 'caching', 'localStorage']
+-
+    name: Surf-N-Perf
+    description: 'Micro-library for gathering web page performance data. Surf-N-Perf provides a simple to use API to gather User Timing and other important performance data in any browser.'
+    website: https://github.com/Comcast/Surf-N-Perf
+    categories: ['Metrics']
+    tags: ['javascript', 'optimization', 'analysis', 'measure', 'metrics']

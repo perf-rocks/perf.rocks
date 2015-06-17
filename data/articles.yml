@@ -822,3 +822,9 @@
     category: 'Case Studies'
     url: https://jonsuh.com/blog/need-for-speed-2/
     tags: ['performance', 'optimization', 'compression']
+-
+    title: 'Optimising Google Fonts for fast load times'
+    author: ['Dean Hume']
+    category: 'Webfonts'
+    url: http://deanhume.com/home/blogpost/optimising-google-fonts-for-fast-load-times/10125
+    tags: ['webfonts', 'google fonts']

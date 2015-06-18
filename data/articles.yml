@@ -828,3 +828,9 @@
     category: 'Webfonts'
     url: http://deanhume.com/home/blogpost/optimising-google-fonts-for-fast-load-times/10125
     tags: ['webfonts', 'google fonts']
+-
+    title: 'High Performance Images: Beautiful Shouldn’t Mean Slow'
+    author: ['Guy Podjarny']
+    category: 'Images'
+    url: https://medium.com/@guypod/high-performance-images-beautiful-shouldn-t-mean-slow-22ffc4e31663
+    tags: ['images', 'optimization', 'compression', 'loading', 'operations']

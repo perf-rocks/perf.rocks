@@ -834,3 +834,9 @@
     category: 'Images'
     url: https://medium.com/@guypod/high-performance-images-beautiful-shouldn-t-mean-slow-22ffc4e31663
     tags: ['images', 'optimization', 'compression', 'loading', 'operations']
+-
+    title: 'Things I Learned Last Night at a Web Performance Meetup'
+    author: ['Chris Love']
+    category: 'Principles and Fundamentals'
+    url: 'http://love2dev.com/#!article/Things-I-Learned-Last-Night-at-a-Web-Performance-Meetup'
+    tags: ['images', 'fonts', 'js']

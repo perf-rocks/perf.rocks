@@ -845,4 +845,4 @@
     author: ['Chris Ruppel']
     category: '60 FPS'
     url: https://fourword.fourkitchens.com/article/fix-scrolling-performance-css-will-change-property
-    tags: ['fps', 'rendering', 'scrolling', 'paint']
+    tags: ['fps', 'rendering', 'scrolling', 'paint', 'devtools']

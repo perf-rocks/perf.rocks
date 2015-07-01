@@ -840,3 +840,9 @@
     category: 'Principles and Fundamentals'
     url: 'http://love2dev.com/#!article/Things-I-Learned-Last-Night-at-a-Web-Performance-Meetup'
     tags: ['images', 'fonts', 'js']
+-
+    title: 'Fix scrolling performance with CSS will-change property'
+    author: ['Chris Ruppel']
+    category: '60 FPS'
+    url: https://fourword.fourkitchens.com/article/fix-scrolling-performance-css-will-change-property
+    tags: ['fps', 'rendering', 'scrolling', 'paint']

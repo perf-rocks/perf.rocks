@@ -846,3 +846,9 @@
     category: '60 FPS'
     url: https://fourword.fourkitchens.com/article/fix-scrolling-performance-css-will-change-property
     tags: ['fps', 'rendering', 'scrolling', 'paint', 'devtools']
+-
+    title: 'Performant CSS Animations: Netflix Case Study'
+    author: ['Eli White']
+    category: 'Case Studies'
+    url: http://eng.wealthfront.com/2015/06/implementing-netflix-redesign.html
+    tags: ['animation', 'dom', 'css', 'performance']

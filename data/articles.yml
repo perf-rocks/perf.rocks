@@ -852,3 +852,9 @@
     category: 'Case Studies'
     url: http://eng.wealthfront.com/2015/06/implementing-netflix-redesign.html
     tags: ['animation', 'dom', 'css', 'performance']
+-
+    title: 'React + Performance = ?'
+    author: ['Paul Lewis']
+    category: 'JS'
+    url: https://aerotwist.com/blog/react-plus-performance-equals-what/
+    tags: ['javascript', 'performance', 'react', 'vanilla']

@@ -858,3 +858,9 @@
     category: 'JS'
     url: https://aerotwist.com/blog/react-plus-performance-equals-what/
     tags: ['javascript', 'performance', 'react', 'vanilla']
+-
+    title: 'Analysis of Reddit Mobile's rendering performance'
+    author: ['Paul Irish']
+    category: 'Analysis'
+    url: https://aerotwist.com/blog/react-plus-performance-equals-what/
+    tags: ['analysis', 'performance', 'rendering', 'metrics', 'measure']

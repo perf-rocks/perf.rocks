@@ -862,5 +862,5 @@
     title: 'Analysis of Reddit Mobile´s rendering performance'
     author: ['Paul Irish']
     category: 'Analysis'
-    url: https://aerotwist.com/blog/react-plus-performance-equals-what/
+    url: https://github.com/reddit/reddit-mobile/issues/247
     tags: ['analysis', 'performance', 'rendering', 'metrics', 'measure']

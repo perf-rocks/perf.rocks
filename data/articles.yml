@@ -864,3 +864,9 @@
     category: 'Analysis'
     url: https://github.com/reddit/reddit-mobile/issues/247
     tags: ['analysis', 'performance', 'rendering', 'metrics', 'measure']
+-
+    title: 'Performance: Showing Versus Telling'
+    author: ['Lara Hogan']
+    category: 'Business'
+    url: http://alistapart.com/article/performance-showing-versus-telling
+    tags: ['sharing', 'visualization', 'video', 'dashboard']

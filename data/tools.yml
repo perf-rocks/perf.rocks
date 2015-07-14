@@ -489,8 +489,7 @@
     tags: ['javascript', 'optimization', 'analysis', 'measure', 'metrics']
 -
     name: Six Speed
-    description: '
-Performance of ES6 features relative to the ES5 baseline operations per second.'
+    description: 'Performance of ES6 features relative to the ES5 baseline operations per second.'
     website: http://kpdecker.github.io/six-speed/
     categories: ['Metrics']
     tags: ['javascript', 'optimization', 'analysis', 'measure', 'metrics']

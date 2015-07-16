@@ -94,3 +94,11 @@
     title: 'A quick tip looking at Page Speed Insights and how it can improve your site´s performance'
     author: ['Addy Osmani']
     url: 'https://www.youtube.com/watch?v=bDUDuQy3R7Y'
+-
+    title: 'How CSS and JavaScript can affect page rendering'
+    author: ['Umar Hansa']
+    url: 'https://www.youtube.com/watch?v=XeMDXlJ051s'
+-
+    title: 'Supercharging page load (100 Days of Google Dev)'
+    author: ['Jake Archibald']
+    url: 'https://www.youtube.com/watch?v=d5_6yHixpsQ'

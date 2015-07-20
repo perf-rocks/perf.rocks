@@ -870,3 +870,9 @@
     category: 'Business'
     url: http://alistapart.com/article/performance-showing-versus-telling
     tags: ['sharing', 'visualization', 'video', 'dashboard']
+-
+    title: 'The SEO Expert´s Guide to Web Performance Using WebPageTest'
+    author: ['Mark Isham']
+    category: 'Business'
+    url: https://moz.com/blog/the-seo-experts-guide-to-web-performance-using-webpagetest
+    tags: ['seo', 'webpagetest']

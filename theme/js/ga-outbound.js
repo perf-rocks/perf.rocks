@@ -12,7 +12,11 @@ function _gaLt(event){
       if(link.indexOf(location.host) == -1 && !link.match(/^javascript\:/i)){ /* external link */
         /* HitCallback function to either open link in either same or new window */
         var hitBack = function(link, target){
-          target ? window.open(link, target) : window.location.href = link;
+          if (event.metaKey || event.ctrlKey) {
+            window.open(link, '_blank');
+          } else {
+            target ? window.open(link, target) : window.location.href = link;
+          }
         };
         /* Is target set and not _(self|parent|top)? */
         var target = (el.target && !el.target.match(/^_(self|parent|top)$/i)) ? el.target : false;

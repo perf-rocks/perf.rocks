@@ -493,3 +493,10 @@
     website: http://kpdecker.github.io/six-speed/
     categories: ['Metrics']
     tags: ['javascript', 'optimization', 'analysis', 'measure', 'metrics']
+-
+    name: perfschool
+    description: 'Find your way through the performance optimization maze in this NodeSchool workshopper'
+    website: https://github.com/bevacqua/perfschool
+    categories: ['Learning']
+    related_author: ['Nicolas Bevacqua']
+    tags: ['learning', 'command line', 'nodeSchool']

@@ -876,3 +876,9 @@
     category: 'Business'
     url: https://moz.com/blog/the-seo-experts-guide-to-web-performance-using-webpagetest
     tags: ['seo', 'webpagetest']
+-
+    title: 'Guidelines for the Human Perception of Speed'
+    author: ['Matt West']
+    category: 'UX'
+    url: http://mattwest.io/guidelines-for-the-human-perception-of-speed/
+    tags: ['perception', 'ux', 'guidelines']

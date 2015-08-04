@@ -882,3 +882,8 @@
     category: 'UX'
     url: http://mattwest.io/guidelines-for-the-human-perception-of-speed/
     tags: ['perception', 'ux', 'guidelines']
+-
+    title: 'PerfAudit: MaterialUp.com'
+    category: 'Case Studies'
+    url: http://perfaudit.com/case-study/materialup.com/
+    tags: ['Audit', 'profiling', 'networking', 'interaction', 'rendering']

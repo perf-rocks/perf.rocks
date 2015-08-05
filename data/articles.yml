@@ -893,3 +893,9 @@
     category: 'CSS'
     url: http://fourword.fourkitchens.com/article/use-gulp-and-uncss-slim-down-your-css-framework
     tags: ['performance', 'optimization', 'css', 'bootstrap', 'foundation', 'gulp']
+-
+    title: 'Mobile page bloat: The average page served to mobile is 3X bigger than it was four years ago'
+    author: ['Tammy Everts']
+    category: 'Analysis'
+    url: 'http://www.soasta.com/blog/mobile-web-performance-page-bloat-july-2015/'
+    tags: ['stats', 'mobile']

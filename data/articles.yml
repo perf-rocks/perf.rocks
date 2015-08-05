@@ -817,12 +817,6 @@
     url: http://deanhume.com/Home/BlogPost/improved-compression-ratios-using-zopfli/9125
     tags: ['zopfli', 'compression', 'requests', 'server', 'gzip']
 -
-    title: 'Need for Speed 2: Improving Front-End Performance'
-    author: ['Jonathan Suh']
-    category: 'Case Studies'
-    url: https://jonsuh.com/blog/need-for-speed-2/
-    tags: ['performance', 'optimization', 'compression']
--
     title: 'Optimising Google Fonts for fast load times'
     author: ['Dean Hume']
     category: 'Webfonts'

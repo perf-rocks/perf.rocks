@@ -892,4 +892,4 @@
     author: ['Chris Ruppel']
     category: 'CSS'
     url: http://fourword.fourkitchens.com/article/use-gulp-and-uncss-slim-down-your-css-framework
-    tags: ['performance', 'optimization', 'css', 'interaction', 'rendering']
+    tags: ['performance', 'optimization', 'css', 'bootstrap', 'foundation', 'gulp']

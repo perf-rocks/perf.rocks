@@ -496,14 +496,21 @@
 -
     name: perfschool
     description: 'Find your way through the performance optimization maze in this NodeSchool workshopper'
-    website: https://github.com/bevacqua/perfschool
+    node: https://github.com/bevacqua/perfschool
     categories: ['Learning']
     related_author: ['Nicolas Bevacqua']
     tags: ['learning', 'command line', 'nodeSchool']
 -
     name: Grunt YSlow
     description: 'A Grunt Task to Measure and Grade Web Page Performance'
-    website: http://andyshora.com/grunt-yslow.html 
+    grunt: http://andyshora.com/grunt-yslow.html
     categories: ['Performance metrics']
     related_author: ['Andy Shora']
     tags: ['metrics', 'analysis']
+-
+    name: analyze-css
+    description: 'CSS selectors complexity and performance analyzer'
+    website: https://github.com/macbre/analyze-css
+    grunt: https://github.com/DeuxHuitHuit/grunt-analyze-css
+    categories: ['CSS Optimization']
+    tags: ['metrics', 'analysis', 'css', 'selectors']

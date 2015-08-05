@@ -106,3 +106,7 @@
     title: 'Performance Auditing'
     author: ['Addy Osmani']
     url: 'https://www.youtube.com/watch?v=yeNUytByylk'
+-
+    title: 'Pageload Perf Audits with DevTools Filmstrip in Chrome'
+    author: ['Paul Irish']
+    url: 'https://www.youtube.com/watch?v=tCfF6HI0JKs'

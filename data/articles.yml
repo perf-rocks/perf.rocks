@@ -899,3 +899,9 @@
     category: 'Tips & Tricks'
     url: 'http://ponyfoo.com/articles/fixing-web-performance'
     tags: ['case study', 'stack', 'tcp', 'requests', 'gzip', 'caching', 'cdn', 'http2', 'spdy', 'css', 'inlining', 'fonts', 'images']
+-
+    title: 'Measuring Performance in a Service Worker'
+    author: ['Paul Kinlan']
+    category: 'JS'
+    url: 'https://developers.google.com/web/updates/2015/07/measuring-performance-in-a-service-worker'
+    tags: ['service workers', 'js', 'measurement', 'navigation timming api']

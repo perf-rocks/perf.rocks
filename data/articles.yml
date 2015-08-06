@@ -893,3 +893,9 @@
     category: 'Analysis'
     url: 'http://www.soasta.com/blog/mobile-web-performance-page-bloat-july-2015/'
     tags: ['stats', 'mobile']
+-
+    title: 'Fixing Performance in the Web Stack'
+    author: ['Nicolas Bevacqua']
+    category: 'Tips & Tricks'
+    url: 'http://ponyfoo.com/articles/fixing-web-performance'
+    tags: ['case study', 'stack', 'tcp', 'requests', 'gzip', 'caching', 'cdn', 'http2', 'spdy', 'css', 'inlining', 'fonts', 'images']

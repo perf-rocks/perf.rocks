@@ -516,7 +516,7 @@
     tags: ['metrics', 'analysis', 'css', 'selectors']
 -
     name: cssnano
-    description: 'A modular minifier, built on top of the PostCSS ecosystem. t is able to do more than simple whitespace transforms - including advanced optimisations such as custom identifier reduction, z-index rebasing, and adjacent selector merging.'
+    description: 'A modular minifier, built on top of PostCSS. Does more than simple whitespace transforms: custom identifier reduction, z-index rebasing, adjacent selector merging and more.'
     website: https://github.com/ben-eb/cssnano
     categories: ['CSS Optimization']
     related_author: ['Ben Briggs']

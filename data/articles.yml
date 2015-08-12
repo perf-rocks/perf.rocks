@@ -911,3 +911,9 @@
     category: 'Images'
     url: 'https://code.facebook.com/posts/991252547593574/the-technology-behind-preview-photos/'
     tags: ['facebook', 'thumbnails', 'perceived speed', 'perceived performance', 'ux']
+-
+    title: 'Let´s talk about Web Performance'
+    author: ['Nicolas Bevacqua']
+    category: 'Analysis'
+    url: 'http://ponyfoo.com/articles/talk-about-web-performance'
+    tags: ['analysis', 'measurement', 'tools', 'devtools', 'pagespeed insights', 'webpagetest', 'budgeting', 'automation']

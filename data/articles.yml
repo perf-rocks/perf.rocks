@@ -905,3 +905,9 @@
     category: 'JS'
     url: 'https://developers.google.com/web/updates/2015/07/measuring-performance-in-a-service-worker'
     tags: ['service workers', 'js', 'measurement', 'navigation timming api']
+-
+    title: 'The technology behind preview photos'
+    author: ['Brian Cabral','Edward Kandrot']
+    category: 'Images'
+    url: 'https://code.facebook.com/posts/991252547593574/the-technology-behind-preview-photos/'
+    tags: ['facebook', 'thumbnails', 'perceived speed', 'perceived performance', 'ux']

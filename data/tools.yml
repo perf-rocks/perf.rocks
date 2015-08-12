@@ -517,7 +517,11 @@
 -
     name: cssnano
     description: 'A modular minifier, built on top of PostCSS. Does more than simple whitespace transforms: custom identifier reduction, z-index rebasing, adjacent selector merging and more.'
-    website: https://github.com/ben-eb/cssnano
+    website: http://cssnano.co
+    node: https://github.com/ben-eb/cssnano
+    grunt: https://github.com/sindresorhus/grunt-cssnano
+    gulp: https://github.com/ben-eb/gulp-cssnano
+    broccoli: https://github.com/sindresorhus/broccoli-cssnano
     categories: ['CSS Optimization']
     related_author: ['Ben Briggs']
     tags: ['minifier', 'postcss', 'css', 'transforms']

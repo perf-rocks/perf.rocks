@@ -917,3 +917,9 @@
     category: 'Analysis'
     url: 'http://ponyfoo.com/articles/talk-about-web-performance'
     tags: ['analysis', 'measurement', 'tools', 'devtools', 'pagespeed insights', 'webpagetest', 'budgeting', 'automation']
+-
+    title: 'Understanding Critical CSS'
+    author: ['Dean Hume']
+    category: 'Critical Rendering Path'
+    url: 'http://www.smashingmagazine.com/2015/08/understanding-critical-css/'
+    tags: ['critical rendering path', 'page load', 'rendering']

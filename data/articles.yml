@@ -923,3 +923,9 @@
     category: 'Critical Rendering Path'
     url: 'http://www.smashingmagazine.com/2015/08/understanding-critical-css/'
     tags: ['critical rendering path', 'page load', 'rendering']
+-
+    title: 'The Difference Between Minification and Gzipping'
+    author: ['Chris Coyier']
+    category: 'Delivery'
+    url: 'https://css-tricks.com/the-difference-between-minification-and-gzipping/'
+    tags: ['css', 'minification', 'gzip']

@@ -935,3 +935,9 @@
     category: 'CSS'
     url: 'http://fourword.fourkitchens.com/article/use-gulp-automate-your-critical-path-css'
     tags: ['css', 'critical css', 'critical rendering path', 'gulp']
+-
+    title: 'A Gzip Primer for Front-End Development'
+    author: ['Doug Avery']
+    category: 'Delivery'
+    url: 'https://viget.com/extend/gzip-primer'
+    tags: ['gzip', 'assets', 'html', 'css', 'svg']

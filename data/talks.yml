@@ -223,3 +223,8 @@
     title: 'JS Performance Deep Dive'
     author: ['Apoorv Saxena']
     talk_url: 'https://www.youtube.com/watch?v=1S_sKdY9fQY'
+-
+    title: 'Designing for Performance'
+    author: ['Lara Hogan']
+    talk_url: 'https://www.youtube.com/watch?v=EPDZJbTLOQI'
+    slides_url: 'https://speakerdeck.com/lara/designing-for-performance'

@@ -947,3 +947,9 @@
     category: 'Case Studies'
     url: 'http://product.voxmedia.com/2015/8/13/9143805/performance-update-2-electric-boogaloo'
     tags: ['vox', 'case study', 'webp', 'images', 'webfonts', 'delivery', 'cdn', 'ads']
+-
+    title: 'Eliminating Roundtrips with Preconnect'
+    author: ['Ilya Grigorik']
+    category: 'Delivery'
+    url: 'https://www.igvita.com/2015/08/17/eliminating-roundtrips-with-preconnect/'
+    tags: ['preconnect', 'requests', 'js', 'headers', 'assets']

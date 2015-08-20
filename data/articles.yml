@@ -953,3 +953,9 @@
     category: 'Delivery'
     url: 'https://www.igvita.com/2015/08/17/eliminating-roundtrips-with-preconnect/'
     tags: ['preconnect', 'requests', 'js', 'headers', 'assets']
+-
+    title: 'Measuring Frontend Performance, the Missing Ingredient'
+    author: ['Rafał Lindemann']
+    category: '60 FPS'
+    url: 'https://lab.getbase.com/measuring-frontend-performance-the-missing-ingredient/'
+    tags: ['frames', 'fps', 'js']

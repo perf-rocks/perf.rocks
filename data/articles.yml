@@ -941,3 +941,9 @@
     category: 'Delivery'
     url: 'https://viget.com/extend/gzip-primer'
     tags: ['gzip', 'assets', 'html', 'css', 'svg']
+-
+    title: 'Performance update #2: Electric Boogaloo'
+    author: ['Dan Chilton']
+    category: 'Case Studies'
+    url: 'http://product.voxmedia.com/2015/8/13/9143805/performance-update-2-electric-boogaloo'
+    tags: ['vox', 'case study', 'webp', 'images', 'webfonts', 'delivery', 'cdn', 'ads']

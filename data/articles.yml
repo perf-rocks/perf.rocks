@@ -108,7 +108,7 @@
     tags: ['ux']
 -
     title: 'Performance Matters'
-    category: 'Principles and Fundamentals'
+    category: 'Principles & Fundamentals'
     url: http://alistapart.com/column/performance-matters
     tags: ['ux']
 -
@@ -126,7 +126,7 @@
 -
     title: 'Fast Enough'
     author: ['Tim Kadlec']
-    category: 'Principles and Fundamentals'
+    category: 'Principles & Fundamentals'
     url: http://timkadlec.com/2014/01/fast-enough/
     tags: ['metrics', 'ux']
 -
@@ -150,13 +150,13 @@
 -
     title: 'A Beginner’s Guide to Website Speed Optimization'
     author: ['Mark Gavalda']
-    category: 'Principles and Fundamentals'
+    category: 'Principles & Fundamentals'
     url: https://kinsta.com/learn/page-speed/
     tags: ['principles', 'tools']
 -
     title: 'BrowserDiet'
     author: ['Zeno Rocha']
-    category: 'Principles and Fundamentals'
+    category: 'Principles & Fundamentals'
     url: http://browserdiet.com/en/
     tags: ['principles', 'guide', 'tools']
 -
@@ -186,13 +186,13 @@
 -
     title: 'Why does website speed matter?'
     author: ['Chris Ferdinandi']
-    category: 'Principles and Fundamentals'
+    category: 'Principles & Fundamentals'
     url: http://gomakethings.com/why-does-website-speed-matter/
     tags: ['principles']
 -
     title: 'How to build a high performance website'
     author: ['Chris Ferdinandi']
-    category: 'Principles and Fundamentals'
+    category: 'Principles & Fundamentals'
     url: http://gomakethings.com/how-to-build-a-high-performance-website/
     tags: ['principles']
 -
@@ -222,7 +222,7 @@
 -
     title: 'Planning for Performance'
     author: ['Scott Jehl']
-    category: 'Principles and Fundamentals'
+    category: 'Principles & Fundamentals'
     url: 'http://alistapart.com/article/planning-for-performance'
     tags: ['principles', 'planning', 'design']
 -
@@ -426,7 +426,7 @@
 -
     title: 'Looking at Web Performance From Different Angles'
     author: ['Alex Podelko']
-    category: 'Principles and Fundamentals'
+    category: 'Principles & Fundamentals'
     url: http://www1.practicalperformanceanalyst.com/2015/01/10/looking-at-web-performance-from-different-angles/
     tags: ['ux']
 -
@@ -438,7 +438,7 @@
 -
     title: 'The 15 Commandments of Front-End Performance'
     author: ['Alex Sexton']
-    category: 'Principles and Fundamentals'
+    category: 'Principles & Fundamentals'
     url: https://alexsexton.com/blog/2015/02/the-15-commandments-of-front-end-performance/
     tags: ['principles']
 -
@@ -534,13 +534,13 @@
 -
     title: 'Strategies for Staying on Top of Web Performance'
     author: ['Chris Coyier']
-    category: 'Principles and Fundamentals'
+    category: 'Principles & Fundamentals'
     url: https://css-tricks.com/strategies-for-staying-on-top-of-web-performance/
     tags: ['budgeting', 'monitoring', 'learning']
 -
     title: 'Performance Optimization is a Process Not an Event'
     author: ['Billy Hoffman']
-    category: 'Principles and Fundamentals'
+    category: 'Principles & Fundamentals'
     url: http://zoompf.com/blog/2015/03/performance-optimization-is-a-process-not-an-event
     tags: ['general', 'design', 'process', 'learning']
 -
@@ -562,7 +562,7 @@
 -
     title: 'The Complete Guide to Reducing Page Weight'
     author: ['Craig Buckler']
-    category: 'Principles and Fundamentals'
+    category: 'Principles & Fundamentals'
     url: http://www.sitepoint.com/complete-guide-reducing-page-weight/
     tags: ['guide', 'compression', 'cdn', 'css', 'js', 'images', 'third party', 'fonts', 'sprites', 'tools']
 -
@@ -609,7 +609,7 @@
 -
     title: 'High performance HTML'
     author: ['Sam Dutton']
-    category: 'Principles and Fundamentals'
+    category: 'Principles & Fundamentals'
     url: https://samdutton.wordpress.com/2015/04/02/high-performance-html/
     tags: ['performance', 'html']
 -
@@ -645,7 +645,7 @@
 -
     title: '5 Can’t Miss Web Performance Optimization Basics'
     author: ['Andreas Grabner']
-    category: 'Principles and Fundamentals'
+    category: 'Principles & Fundamentals'
     url: http://apmblog.dynatrace.com/2015/04/15/5-cant-miss-web-performance-optimization-basics/
     tags: ['techniques', 'metrics', 'caching', 'server']
 -
@@ -663,7 +663,7 @@
 -
     title: 'DevTools Timeline: Now Providing the Full Story'
     author: ['Heather Mahan']
-    category: 'Dev Tools'
+    category: 'DevTools'
     url: http://updates.html5rocks.com/2015/04/devtools-timeline-improvements
     tags: ['devtools', 'chrome', 'profiler', 'profiling', 'javascript', 'fps', 'paint']
 -
@@ -705,7 +705,7 @@
 -
     title: 'Wicked Fast Websites'
     author: ['Chris Ferdinandi']
-    category: 'Principles and Fundamentals'
+    category: 'Principles & Fundamentals'
     url: http://gomakethings.com/wicked-fast-websites/
     tags: ['guide', 'course', 'css', 'js', 'images', 'fonts','tools']
 -
@@ -747,7 +747,7 @@
 -
     title: 'Need for Speed – How to Improve your Website Performance'
     author: ['Vaclovas Vicius']
-    category: 'Principles and Fundamentals'
+    category: 'Principles & Fundamentals'
     url: https://www.devbridge.com/articles/need-for-speed-how-to-improve-your-website-performance/
     tags: ['css', 'kiss', 'customization']
 -
@@ -801,15 +801,15 @@
 -
     title: 'Making a difference with performance'
     author: ['Jaime Caballero']
-    category: 'Principles and Fundamentals'
+    category: 'Principles & Fundamentals'
     url: http://jaicab.com/2015/05/18/making-a-difference-with-performance/
     tags: ['load', 'css', 'js', 'progressive enhancement', 'speedindex']
 -
     title: 'New Performance Tools in Firefox Developer Edition 40'
     author: ['Dave Camp', 'Jason Weathersby']
-    category: 'Dev Tools'
+    category: 'DevTools'
     url: https://hacks.mozilla.org/2015/06/new-performance-tools-in-firefox-developer-edition-40/
-    tags: ['profiler', 'dev tools', 'firefox', 'mozilla', 'flame chart', 'waterfall']
+    tags: ['profiler', 'devtools', 'firefox', 'mozilla', 'flame chart', 'waterfall']
 -
     title: 'Improved Compression Ratios Using Zopfli'
     author: ['Dean Hume']
@@ -831,7 +831,7 @@
 -
     title: 'Things I Learned Last Night at a Web Performance Meetup'
     author: ['Chris Love']
-    category: 'Principles and Fundamentals'
+    category: 'Principles & Fundamentals'
     url: 'http://love2dev.com/#!article/Things-I-Learned-Last-Night-at-a-Web-Performance-Meetup'
     tags: ['images', 'fonts', 'js']
 -

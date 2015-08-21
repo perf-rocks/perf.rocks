@@ -2,111 +2,139 @@
     title: 'WebP at YouTube'
     author: ['Mikhail Sychev']
     url: https://www.youtube.com/watch?v=8vJSCmIMIjI
+    category: 'Images'
 -
     title: 'Faster Loading Images with WebP'
     author: ['Husain Bengali']
     url: https://www.youtube.com/watch?v=rqXMwLbYEE4
+    category: 'Images'
 -
     title: 'Web Performance Testing at YouTube'
     author: ['Rick Viscomi']
     url: https://www.youtube.com/watch?v=k9dtjsLi9Lw
+    category: 'Analysis & Monitoring'
 -
     title: 'Chrome Office Hours: Performance'
     author: ['Paul Irish', 'Paul Lewis']
     url: https://www.youtube.com/watch?v=z0_jD8nO5Zw
+    category: 'Tools'
 -
     title: 'Ask the Experts: Web Performance - Critical Rendering Path'
     author: ['Ilya Grigorik', 'Cameron Pittman']
     url: https://www.youtube.com/watch?v=8UIyXKflsFA
+    category: 'Critical Rendering Path'
 -
     title: 'The Treehouse Show | Episode 120: Web Performance, Material UI, SQL Charts'
     author: ['Nick Pettit', 'Jason Seifer']
     url: https://www.youtube.com/watch?v=rsX7ATEwA5I
+    category: 'News'
 -
     title: 'Web Performance Test'
     author: ['Jeff Gilden']
     url: https://www.youtube.com/watch?v=oMHhXCzJUDc
+    category: 'Tools'
 -
     title: 'Monitor Your Webserver and Website Performance with Pingdom.com'
     author: ['Eli the Computer Guy']
     url: https://www.youtube.com/watch?v=iHj4CHJPhIA
+    category: 'Analysis & Monitoring'
 -
     title: 'Quick fixes in mobile website performance'
     author: ['Maile Ohye']
     url: https://www.youtube.com/watch?v=gy_m44X3I84
+    category: 'Mobile'
 -
     title: 'Site Performance For Webmasters'
     author: ['Maile Ohye']
     url: https://www.youtube.com/watch?v=OpMfx_Zie2g
+    category: 'Principles & Fundamentals'
 -
     title: 'High Performance Javascript'
     author: ['Trevor Norris']
     url: https://www.youtube.com/watch?v=jsiqvXi3qSA
+    category: 'Javascript'
 -
     title: 'Perf Audit - libramatic'
     author: ['Paul Irish']
     url: https://www.youtube.com/watch?v=kRSiWLBuUdo
+    category: 'Case Studies'
 -
     title: 'Designing for Performance: Can We Have it All?'
     author: ['Lara Hogan', 'Scott Jehl', 'Yesenia Perez-Cruz', 'Mat Marquis']
     url: https://www.youtube.com/watch?v=_BNH1ixbw7E
+    category: 'Design'
 -
     title: 'Browser Rendering Optimization: Building 60 FPS Web Apps'
     author: ['Paul Lewis']
     url: https://www.udacity.com/course/ud860
+    category: '60 FPS'
 -
     title: 'Performance Budget with Tim Kadlec'
     author: ['Tim Kadlec']
     url: 'https://www.youtube.com/watch?&v=yqejmZrtmNg'
+    category: 'Budgeting'
 -
     title: 'Getting Org Leaders To Care About Performance with Lara Hogan'
     author: ['Lara Hogan']
     url: 'https://www.youtube.com/watch?v=PBazdtWNDvQ'
+    category: 'Business'
 -
     title: 'Optimizing For Mobile Web Latency with Lyza Gardner'
     author: ['Lyza Gardner']
     url: 'https://www.youtube.com/watch?v=dwyXjttqpW4'
+    category: 'Tools'
 -
     title: 'How Users Perceive the Speed of The Web'
     author: ['Paul Irish']
     url: 'https://youtu.be/2ksXo2_Lfl0'
+    category: 'UX'
 -
     title: 'Putting your Images on a Diet'
     author: ['Guy Podjarny']
     url: 'https://www.youtube.com/watch?v=k4Xkpawt1EU'
+    category: 'Images'
 -
     title: 'Third Party Performance'
     author: ['Guy Podjarny']
     url: 'https://www.youtube.com/watch?&v=I5uhZcJ30SA'
+    category: 'Third Party'
 -
     title: 'Getting Designers to Care About Performance'
     author: ['Lara Hogan']
     url: 'https://www.youtube.com/watch?v=p0PivldssBg'
+    category: 'Design'
 -
     title: 'Tracking Real World Web Performance'
     author: ['Nik Molnar']
     url: 'http://www.pluralsight.com/courses/web-performance-tracking'
+    category: 'Analysis & Monitoring'
 -
     title: 'Fixing the JSConf.eu website´s scroll perf in ~9m'
     author: ['Paul Lewis']
     url: 'https://www.youtube.com/watch?v=QU1JAW5LRKU'
+    category: 'Case Studies'
 -
     title: 'A quick tip looking at Page Speed Insights and how it can improve your site´s performance'
     author: ['Addy Osmani']
     url: 'https://www.youtube.com/watch?v=bDUDuQy3R7Y'
+    category: 'Tools'
 -
     title: 'How CSS and JavaScript can affect page rendering'
     author: ['Umar Hansa']
     url: 'https://www.youtube.com/watch?v=XeMDXlJ051s'
+    category: 'Principles & Fundamentals'
 -
     title: 'Supercharging page load (100 Days of Google Dev)'
     author: ['Jake Archibald']
     url: 'https://www.youtube.com/watch?v=d5_6yHixpsQ'
+    category: 'Principles & Fundamentals'
 -
     title: 'Performance Auditing'
     author: ['Addy Osmani']
     url: 'https://www.youtube.com/watch?v=yeNUytByylk'
+    category: 'Analysis & Monitoring'
 -
     title: 'Pageload Perf Audits with DevTools Filmstrip in Chrome'
     author: ['Paul Irish']
     url: 'https://www.youtube.com/watch?v=tCfF6HI0JKs'
+    category: 'Tools'

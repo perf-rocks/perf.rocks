@@ -22,21 +22,21 @@
     grunt: https://github.com/gruntjs/grunt-contrib-clean
     gulp: https://github.com/radmen/gulp-clean-css
     broccoli: https://github.com/shinnn/broccoli-clean-css
-    category: 'CSS Minification'
+    category: 'CSS Optimization'
     related: ['csso']
     tags: ['css', 'minification']
 -
     name: PageSpeed Insights
     description: 'Make your web pages fast on all devices.'
     website: https://developers.google.com/speed/pagespeed/insights/
-    category: 'Analysis'
+    category: 'Analysis & Monitoring'
     related: ['psi']
     tags: ['analysis']
 -
     name: Pingdom Website Speed Test
     description: 'Enter a URL to test the load time of that page, analyze it and find bottlenecks.'
     website: http://tools.pingdom.com/fpt/
-    category: 'Analysis'
+    category: 'Analysis & Monitoring'
     related: ['PageSpeedInsights', 'Webpage Test']
     tags: ['analysis']
 -
@@ -44,14 +44,14 @@
     description: 'PageSpeed Insights With Reporting. Run mobile and desktop performance tests for your deployed site using Google PageSpeed Insights with tidy reporting for your build process.'
     website: https://github.com/addyosmani/psi
     grunt: https://github.com/jrcryer/grunt-pagespeed
-    category: 'Analysis'
+    category: 'Analysis & Monitoring'
     related: ['PageSpeed Insights']
     tags: ['analysis']
 -
     name: CSS Triggers
     description: 'A game of layout, paint, and composite.'
     website: http://csstriggers.com/
-    category: 'Analysis'
+    category: 'Analysis & Monitoring'
     tags: ['css', 'selectors']
 -
     name: Combine media-queries
@@ -286,7 +286,7 @@
     name: RWDPerf
     description: 'Performance testing tool for Responsive web designs.'
     node: https://github.com/lafikl/RWDPerf
-    category: 'RWD'
+    category: 'Analysis & Monitoring'
     tags: ['rwd', 'metrics', 'images']
 -
     name: SpeedCurve

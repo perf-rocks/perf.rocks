@@ -515,3 +515,7 @@
     name: 'Rafał Lindemann'
     twitter: 'staminapl'
     bio: "Guy obsessed with smart, reusable code, good design, new shiny stuff and smooth user experience. Likes to go from concept, through development to the final ux touches - no matter what the target audience is, a client or a fellow developer."
+-
+    name: 'Remy Sharp'
+    twitter: 'rem'
+    bio: "All about CSS sizing units."

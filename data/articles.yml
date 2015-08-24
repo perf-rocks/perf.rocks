@@ -959,3 +959,9 @@
     category: '60 FPS'
     url: 'https://lab.getbase.com/measuring-frontend-performance-the-missing-ingredient/'
     tags: ['frames', 'fps', 'js']
+-
+    title: 'Optimising a canvas animation'
+    author: ['Remy Sharp']
+    category: '60 FPS'
+    url: 'https://remysharp.com/2015/07/13/optimising-a-canvas-animation'
+    tags: ['animation', 'canvas', 'js', 'fps']

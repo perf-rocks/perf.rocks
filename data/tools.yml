@@ -525,3 +525,9 @@
     category: 'CSS Optimization'
     related_author: ['Ben Briggs']
     tags: ['minifier', 'postcss', 'css', 'transforms']
+-
+    name: Website Grader
+    description: 'How strong is your website?'
+    website: https://website.grader.com/
+    category: 'Analysis & Monitoring'
+    tags: ['analysis', 'measure', 'metrics']

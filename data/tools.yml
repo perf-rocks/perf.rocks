@@ -531,3 +531,9 @@
     website: https://website.grader.com/
     category: 'Analysis & Monitoring'
     tags: ['analysis', 'measure', 'metrics']
+-
+    name: ZorroSVG
+    description: 'The transparency of PNGs for the file size of JPEGs'
+    website: http://quasimondo.com/ZorroSVG/
+    category: 'Image Optimization'
+    tags: ['jpeg', 'svg', 'alpha']

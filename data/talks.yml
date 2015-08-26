@@ -280,3 +280,9 @@
     talk_url: 'https://www.youtube.com/watch?v=EPDZJbTLOQI'
     slides_url: 'https://speakerdeck.com/lara/designing-for-performance'
     category: 'Design'
+-
+    title: 'The JPEG is dead! Long live the JPEG!'
+    author: ['Tobias Baldauf']
+    talk_url: 'https://www.youtube.com/watch?v=i2YEV__jxzA'
+    slides_url: 'https://speakerdeck.com/tbaldauf/froscon-2015-the-jpeg-is-dead-long-live-the-jpeg'
+    category: 'Images'

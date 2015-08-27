@@ -965,3 +965,10 @@
     category: '60 FPS'
     url: 'https://remysharp.com/2015/07/13/optimising-a-canvas-animation'
     tags: ['animation', 'canvas', 'js', 'fps']
+-
+    title: 'Using requestIdleCallback'
+    summary: 'Schedule your Javascript execution with requestIdleCallback to prevent your web app to become unresponsive and improve your user experience.'
+    author: ['Paul Lewis']
+    category: 'JS'
+    url: 'https://developers.google.com/web/updates/2015/08/27/using-requestidlecallback'
+    tags: ['requestIdleCallback', 'js', 'fps']

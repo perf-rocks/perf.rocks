@@ -286,3 +286,9 @@
     talk_url: 'https://www.youtube.com/watch?v=i2YEV__jxzA'
     slides_url: 'https://speakerdeck.com/tbaldauf/froscon-2015-the-jpeg-is-dead-long-live-the-jpeg'
     category: 'Images'
+-
+    title: 'Performance beyond Page Load'
+    author: ['Apoorv Saxena']
+    talk_url: 'https://www.youtube.com/watch?v=OUvqmsB5cwQ'
+    slides_url: 'http://www.slideshare.net/ApoorvSaxena/performance-beyond-page-load-jquery-conference'
+    category: 'Tools'

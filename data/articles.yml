@@ -972,3 +972,10 @@
     category: 'JS'
     url: 'https://developers.google.com/web/updates/2015/08/27/using-requestidlecallback'
     tags: ['requestIdleCallback', 'js', 'fps']
+-
+    title: 'Prefetching, preloading, prebrowsing'
+    summary: 'Pre-fetching is a way of hinting to the browser about resources that are definitely going to or might be used in the future.'
+    author: ['Robin Rendle']
+    category: 'Prefetching'
+    url: 'https://css-tricks.com/prefetching-preloading-prebrowsing/'
+    tags: ['prefetching', 'preloading', 'prebrosing', 'resources']

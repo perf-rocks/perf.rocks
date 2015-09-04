@@ -7,5 +7,7 @@
         <li class="main-nav__item"><a href="/videos/" title="Screencasts and video tutorials on web performance">Videos</a></li>
         <li class="main-nav__item"><a href="/books/" title="Books on web performance">Books</a></li>
     </ul>
-    <a class="logo unlink" href="/" title="Perf Rocks: front-end performance optimization resources"><img src="{{ site.img }}/perf-rocks-logo.svg" alt="Perf.Rocks"></a>
+    <a class="logo unlink" href="/" title="Perf Rocks: front-end performance optimization resources">
+        <img src="{{ site.img }}/perf-rocks-logo.svg" alt="Perf.Rocks" width="221" height="43">
+    </a>
 </div>

@@ -526,3 +526,7 @@
     name: 'Robin Rendle'
     twitter: 'robinrendle'
     bio: 'Freelance web designer, developer and a technical writer person at CSS-Tricks.'
+-
+    name: 'Peter Bengtsson'
+    twitter: 'peterbe'
+    bio: 'Python, Javascript, Go developer from Sweden living in California and working for Mozilla.'

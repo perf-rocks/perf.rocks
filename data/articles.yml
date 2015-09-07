@@ -979,3 +979,9 @@
     category: 'Prefetching'
     url: 'https://css-tricks.com/prefetching-preloading-prebrowsing/'
     tags: ['prefetching', 'preloading', 'prebrosing', 'resources']
+-
+    title: 'Measuring JavaScript Functions’ Performance'
+    author: ['Peter Bengtsson']
+    category: 'JS'
+    url: 'http://www.sitepoint.com/measuring-javascript-functions-performance/'
+    tags: ['performance', 'js', 'measuring']

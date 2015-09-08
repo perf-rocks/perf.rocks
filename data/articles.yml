@@ -985,3 +985,9 @@
     category: 'JS'
     url: 'http://www.sitepoint.com/measuring-javascript-functions-performance/'
     tags: ['performance', 'js', 'measuring']
+-
+    title: 'The “Psychological” Speed of Mobile Interfaces'
+    author: ['Oz Lubling']
+    category: 'UX'
+    url: 'https://medium.com/ui-collection/the-psychological-speed-of-mobile-interfaces-df25276295dd'
+    tags: ['ux', 'perceived speed', 'interaction']

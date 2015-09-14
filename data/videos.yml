@@ -143,3 +143,8 @@
     author: ['Tony Casparro']
     url: 'http://redsunsoft.com/2015/08/chasing-60fps-using-react-to-rebuild-netflix-com/'
     category: '60 FPS'
+-
+    title: 'Reviewing CSS Animation Performance'
+    author: ['Tim Evko']
+    url: 'http://www.sitepoint.com/watch-reviewing-css-animation-performance/'
+    category: '60 FPS'

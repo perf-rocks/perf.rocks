@@ -991,3 +991,9 @@
     category: 'UX'
     url: 'https://medium.com/ui-collection/the-psychological-speed-of-mobile-interfaces-df25276295dd'
     tags: ['ux', 'perceived speed', 'interaction']
+-
+    title: 'The Performance of Houdini Paint'
+    author: ['Ian Kilpatrick']
+    category: 'CSS'
+    url: 'http://bfgeek.com/houdini/2015/09/14/the-performance-of-houdini-paint/'
+    tags: ['css', 'canvas', 'layout', 'thrashing', 'effects']

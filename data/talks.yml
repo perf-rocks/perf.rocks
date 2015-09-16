@@ -297,3 +297,9 @@
     author: ['Patrick Hamann']
     slides_url: 'https://speakerdeck.com/patrickhamann/embracing-the-network-coldfront-september-2015'
     category: 'Tools'
+-
+    title: 'Best viewed with'
+    author: ['Adam Onishi']
+    talk_url: 'https://vimeo.com/139278498'
+    slides_url: 'https://speakerdeck.com/onishiweb/best-viewed-with-dot-dot-dot-sotb5'
+    category: 'Principles & Fundamentals'

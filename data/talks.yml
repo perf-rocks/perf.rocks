@@ -303,3 +303,8 @@
     talk_url: 'https://vimeo.com/139278498'
     slides_url: 'https://speakerdeck.com/onishiweb/best-viewed-with-dot-dot-dot-sotb5'
     category: 'Principles & Fundamentals'
+-
+    title: 'Reaching Everyone, Fast'
+    author: ['Tim Kadlec']
+    slides_url: 'https://speakerdeck.com/tkadlec/reaching-everyone-fast-at-from-the-front-2015'
+    category: 'Principles & Fundamentals'

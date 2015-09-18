@@ -997,3 +997,9 @@
     category: 'CSS'
     url: 'http://bfgeek.com/houdini/2015/09/14/the-performance-of-houdini-paint/'
     tags: ['css', 'canvas', 'layout', 'thrashing', 'effects']
+-
+    title: 'Quick Trick: Using Template to Delay Loading of Images'
+    author: ['Christian Heilmann']
+    category: 'Images'
+    url: 'https://www.christianheilmann.com/2015/09/08/quick-trick-using-template-to-delay-loading-of-images/'
+    tags: ['images', 'webcomponents', 'template', 'lazy loading']

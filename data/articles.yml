@@ -1003,3 +1003,9 @@
     category: 'Images'
     url: 'https://www.christianheilmann.com/2015/09/08/quick-trick-using-template-to-delay-loading-of-images/'
     tags: ['images', 'webcomponents', 'template', 'lazy loading']
+-
+    title: 'What forces layout / reflow'
+    author: ['Paul Irish']
+    category: '60 FPS'
+    url: 'https://gist.github.com/paulirish/5d52fb081b3570c81e3a'
+    tags: ['layout', 'rendering', 'reflow', 'css', 'js']

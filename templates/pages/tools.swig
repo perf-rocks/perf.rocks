@@ -1,13 +1,13 @@
 ---
 layout: default.swig
 title: Tools
-description: 'Performance analysis, optimization and monitoring tools including Grunt, Gulp and Brocoli plugins.'
+description: 'Performance analysis, optimization and monitoring tools including Grunt, Gulp and Broccoli plugins.'
 base_url: "../"
 section: tools
 slug: index
 ---
 
-{% include 'templates/partials/intro.swig' with {title: title, subtitle: 'Analysis, optimization and monitoring tools including Grunt, Gulp and Brocoli plugins.'} %}
+{% include 'templates/partials/intro.swig' with {title: title, subtitle: 'Analysis, optimization and monitoring tools including Grunt, Gulp and Broccoli plugins.'} %}
 
 {% set article_categories = articles|get_categories %}
 {% set current_page = basename|'.html' %}

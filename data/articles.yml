@@ -1009,3 +1009,9 @@
     category: '60 FPS'
     url: 'https://gist.github.com/paulirish/5d52fb081b3570c81e3a'
     tags: ['layout', 'rendering', 'reflow', 'css', 'js']
+-
+    title: 'Why Performance Matters: The Perception Of Time'
+    author: ['Denys Mishunov']
+    category: 'UX'
+    url: 'http://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/'
+    tags: ['ux', 'perceived speed', 'budget', 'psychology']

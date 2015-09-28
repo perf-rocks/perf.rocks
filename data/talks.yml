@@ -308,3 +308,8 @@
     author: ['Tim Kadlec']
     slides_url: 'https://speakerdeck.com/tkadlec/reaching-everyone-fast-at-from-the-front-2015'
     category: 'Principles & Fundamentals'
+-
+    title: 'Real World Performance Budgets'
+    author: ['Brian Graves']
+    slides_url: 'https://speakerdeck.com/briangraves/real-world-performance-budgets'
+    category: 'Budgeting'

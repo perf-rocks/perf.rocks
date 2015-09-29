@@ -1015,3 +1015,9 @@
     category: 'UX'
     url: 'http://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/'
     tags: ['ux', 'perceived speed', 'budget', 'psychology']
+-
+    title: 'We spent a week making Trello boards load extremely fast. Here’s how we did it.'
+    author: ['Bobby Grace']
+    category: 'Case Studies'
+    url: 'http://blog.fogcreek.com/we-spent-a-week-making-trello-boards-load-extremely-fast-heres-how-we-did-it/'
+    tags: ['optimization', 'layout', 'thrashing', 'progressive', 'rendering']

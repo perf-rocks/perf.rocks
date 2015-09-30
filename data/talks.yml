@@ -313,3 +313,8 @@
     author: ['Brian Graves']
     slides_url: 'https://speakerdeck.com/briangraves/real-world-performance-budgets'
     category: 'Budgeting'
+-
+    title: 'What´s new in Chrome DevTools?'
+    author: ['Addy Osmani']
+    slides_url: 'https://speakerdeck.com/addyosmani/whats-new-in-chrome-devtools'
+    category: 'Tools'

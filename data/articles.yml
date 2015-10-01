@@ -1021,3 +1021,9 @@
     category: 'Case Studies'
     url: 'http://blog.fogcreek.com/we-spent-a-week-making-trello-boards-load-extremely-fast-heres-how-we-did-it/'
     tags: ['optimization', 'layout', 'thrashing', 'progressive', 'rendering']
+-
+    title: 'The State of JavaScript on Android in 2015 is… poor'
+    author: ['Jeff Atwood']
+    category: 'JS'
+    url: 'https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889'
+    tags: ['javascript', 'android', 'chrome', 'mobile']

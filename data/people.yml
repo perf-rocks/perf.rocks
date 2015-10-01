@@ -558,3 +558,7 @@
     name: 'Bobby Grace'
     twitter: 'bobbygrace'
     bio: '*looks up* coworker at @trello'
+-
+    name: 'Jeff Atwood'
+    twitter: 'codinghorror'
+    bio: 'Indoor enthusiast. Co-founder of http://stackexchange.com  and http://www.discourse.org . Disclaimer: I have no idea what I´m talking about´.'

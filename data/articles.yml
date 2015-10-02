@@ -1027,3 +1027,9 @@
     category: 'JS'
     url: 'https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889'
     tags: ['javascript', 'android', 'chrome', 'mobile']
+-
+    title: 'Introducing RAIL: A User-Centric Model For Performance'
+    author: ['Paul Irish', 'Paul Lewis']
+    category: 'Principles & Fundamentals'
+    url: 'http://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/'
+    tags: ['RAIL', 'google', 'ux', 'goals', 'methodology']

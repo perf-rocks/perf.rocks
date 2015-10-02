@@ -45,7 +45,10 @@
 <footer class="site-footer | wrapper | pt pb">
   <div class="site-footer__author">
     <div class="avatar">
-      <img class="avatar__image" src="{{ site.img }}/{{ site.author.name|slug }}.jpg" width="32" height="32" alt="{{ site.author.name }}">
+        <picture>
+            <source srcset="{{ site.img }}/{{ site.author.name|slug }}-small.webp" type="image/webp">
+            <img class="avatar__image" src="{{ site.img }}/{{ site.author.name|slug }}-small.jpg" width="32" alt="{{ site.author.name }}">
+            </picture>
     </div>
     <span class="milli | weak-text-color | pl--tiny">Made by <a href="{{ site.author.url }}" title="Learn more about the author">{{ site.author.name }}</a></span>
   </div>

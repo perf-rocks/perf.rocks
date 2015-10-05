@@ -318,3 +318,8 @@
     author: ['Addy Osmani']
     slides_url: 'https://speakerdeck.com/addyosmani/whats-new-in-chrome-devtools'
     category: 'Tools'
+-
+    title: 'Web Fonts Performance'
+    author: ['Bram Stein']
+    slides_url: 'https://speakerdeck.com/bramstein/web-fonts-performance'
+    category: 'Webfonts'

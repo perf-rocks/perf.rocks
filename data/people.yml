@@ -562,3 +562,7 @@
     name: 'Jeff Atwood'
     twitter: 'codinghorror'
     bio: 'Indoor enthusiast. Co-founder of http://stackexchange.com  and http://www.discourse.org . Disclaimer: I have no idea what I´m talking about´.'
+-
+    name: 'Bram Stein'
+    twitter: 'bram_stein'
+    bio: 'Tweets on web typography and front-end development. Works at Typekit'

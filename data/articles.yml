@@ -1033,3 +1033,9 @@
     category: 'Principles & Fundamentals'
     url: 'http://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/'
     tags: ['RAIL', 'google', 'ux', 'goals', 'methodology']
+-
+    title: 'Inlining Critical CSS for Dynamic Web Apps'
+    author: ['Nicolas Bevacqua']
+    category: 'Critical Rendering Path'
+    url: 'http://ponyfoo.com/articles/inlining-critical-css'
+    tags: ['critical rendering path', 'css', 'page load', 'rendering']

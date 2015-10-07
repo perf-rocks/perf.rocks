@@ -1039,3 +1039,9 @@
     category: 'Critical Rendering Path'
     url: 'http://ponyfoo.com/articles/inlining-critical-css'
     tags: ['critical rendering path', 'css', 'page load', 'rendering']
+-
+    title: 'Accelerated Mobile Pages: A new approach to web performance'
+    author: ['Malte Ubl']
+    category: 'Mobile'
+    url: 'https://www.ampproject.org/how-it-works/'
+    tags: ['amp', 'google', 'format', 'publishing', 'resources']

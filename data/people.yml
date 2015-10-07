@@ -566,3 +566,7 @@
     name: 'Bram Stein'
     twitter: 'bram_stein'
     bio: 'Tweets on web typography and front-end development. Works at Typekit'
+-
+    name: 'Malte Ubl'
+    twitter: 'cramforce'
+    bio: 'Tech lead of the AMP Project. https://www.ampproject.org/how-it-works/  I make www internet web pages for Google. Curator of @JSConfEU'

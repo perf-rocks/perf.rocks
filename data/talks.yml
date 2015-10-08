@@ -317,6 +317,7 @@
     title: 'What´s new in Chrome DevTools?'
     author: ['Addy Osmani']
     slides_url: 'https://speakerdeck.com/addyosmani/whats-new-in-chrome-devtools'
+    talk_url: 'https://www.youtube.com/watch?v=XpGa6IzmmQg'
     category: 'Tools'
 -
     title: 'Web Fonts Performance'

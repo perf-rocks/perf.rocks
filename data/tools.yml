@@ -537,3 +537,9 @@
     website: http://quasimondo.com/ZorroSVG/
     category: 'Image Optimization'
     tags: ['jpeg', 'svg', 'alpha']
+-
+    name: CSS usage
+    description: 'The percentages of Chrome page loads (across all channels and platforms) that use the corresponding CSS property'
+    website: https://www.chromestatus.com/metrics/css/
+    category: 'CSS Analysis'
+    tags: ['metrics', 'analysis', 'css']

@@ -1051,3 +1051,9 @@
     category: 'Webfonts'
     url: 'https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization#optimizing-loading-and-rendering'
     tags: ['webfonts', 'optimization']
+-
+    title: 'Using Web Fonts the Best Way (in 2015)'
+    author: ['Anselm Hannemann']
+    category: 'Webfonts'
+    url: 'https://helloanselm.com/2015/using-webfonts-in-2015/'
+    tags: ['webfonts', 'optimization']

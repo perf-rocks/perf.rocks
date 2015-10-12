@@ -1045,3 +1045,9 @@
     category: 'Mobile'
     url: 'https://www.ampproject.org/how-it-works/'
     tags: ['amp', 'google', 'format', 'publishing', 'resources']
+-
+    title: 'Webfont optimization'
+    author: ['Ilya Grigorik']
+    category: 'Webfonts'
+    url: 'https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization#optimizing-loading-and-rendering'
+    tags: ['webfonts', 'optimization']

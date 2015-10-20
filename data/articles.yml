@@ -1057,3 +1057,9 @@
     category: 'Webfonts'
     url: 'https://helloanselm.com/2015/using-webfonts-in-2015/'
     tags: ['webfonts', 'optimization']
+-
+    title: 'The offline cookbook'
+    author: ['Jake Archibald']
+    category: 'Network'
+    url: 'https://jakearchibald.com/2014/offline-cookbook/'
+    tags: ['AppCache', 'offline', 'cache', 'ServiceWorker']

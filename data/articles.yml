@@ -1063,3 +1063,9 @@
     category: 'Network'
     url: 'https://jakearchibald.com/2014/offline-cookbook/'
     tags: ['AppCache', 'offline', 'cache', 'ServiceWorker']
+-
+    title: 'The viability of JS frameworks on mobile'
+    author: ['Henrik Joreteg']
+    category: 'Performance'
+    url: 'https://joreteg.com/blog/viability-of-js-frameworks-on-mobile'
+    tags: ['mobile', 'performance', 'frameworks', 'js']

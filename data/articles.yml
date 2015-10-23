@@ -1069,3 +1069,9 @@
     category: 'JS'
     url: 'https://joreteg.com/blog/viability-of-js-frameworks-on-mobile'
     tags: ['mobile', 'performance', 'frameworks', 'js']
+-
+    title: 'Web Performance Today'
+    author: ['Jeffrey Zeldman']
+    category: 'Principles & Fundamentals'
+    url: 'http://www.zeldman.com/2015/10/21/web-performance-today/'
+    tags: ['performance', 'standards']

@@ -1077,7 +1077,13 @@
     tags: ['performance', 'standards']
 -
     title: 'Lazy Loading Images on the Web'
-    author: ['Brian Rinaldi  ']
+    author: ['Brian Rinaldi']
     category: 'Images'
     url: 'http://developer.telerik.com/featured/lazy-loading-images-on-the-web/'
     tags: ['images', 'lazy loading', 'page weight']
+-
+    title: 'On Hurk-Jerk: Mixed emotions on progressive critical path rendering'
+    author: ['Dave Rupert']
+    category: 'Critical Rendering Path'
+    url: 'http://daverupert.com/2015/10/on-hurk-jerk/'
+    tags: ['critical rendering path', 'page load', 'rendering', 'progressive loading', 'progressive rendering']

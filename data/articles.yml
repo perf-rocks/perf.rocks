@@ -1075,3 +1075,9 @@
     category: 'Principles & Fundamentals'
     url: 'http://www.zeldman.com/2015/10/21/web-performance-today/'
     tags: ['performance', 'standards']
+-
+    title: 'Lazy Loading Images on the Web'
+    author: ['Brian Rinaldi  ']
+    category: 'Images'
+    url: 'http://developer.telerik.com/featured/lazy-loading-images-on-the-web/'
+    tags: ['images', 'lazy loading', 'page weight']

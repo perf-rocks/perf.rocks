@@ -324,3 +324,8 @@
     author: ['Bram Stein']
     slides_url: 'https://speakerdeck.com/bramstein/web-fonts-performance'
     category: 'Webfonts'
+-
+    title: 'Getting The Most Out of Webpagetest'
+    author: ['Patrick Meenan']
+    talk_url: 'https://vimeo.com/132511383'
+    category: 'Tools'

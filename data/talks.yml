@@ -329,3 +329,8 @@
     author: ['Patrick Meenan']
     talk_url: 'https://vimeo.com/132511383'
     category: 'Tools'
+-
+    title: 'Extreme Web Performance for Mobile Devices'
+    author: ['Maximiliano Firtman']
+    slides_url: 'http://www.slideshare.net/firt/extreme-web-performance-for-mobile-devices-54478615'
+    category: 'Mobile'

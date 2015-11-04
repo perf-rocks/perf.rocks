@@ -543,3 +543,9 @@
     website: https://www.chromestatus.com/metrics/css/
     category: 'CSS Analysis'
     tags: ['metrics', 'analysis', 'css']
+-
+    name: Chrome DevTools Timeline
+    description: 'The Timeline provides a complete overview of where time is spent when loading and using your site'
+    website: https://developers.google.com/web/tools/chrome-devtools/profile/evaluate-performance/timeline-tool?hl=en
+    category: 'Analysis & Monitoring'
+    tags: ['analysis', 'measure', 'metrics']

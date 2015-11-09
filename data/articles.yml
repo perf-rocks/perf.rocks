@@ -1087,3 +1087,9 @@
     category: 'Critical Rendering Path'
     url: 'http://daverupert.com/2015/10/on-hurk-jerk/'
     tags: ['critical rendering path', 'page load', 'rendering', 'progressive loading', 'progressive rendering']
+-
+    title: 'Guide To Using WebP Images Today: A Case Study'
+    author: ['Adrian James', 'Matt Shull']
+    category: 'Images'
+    url: 'http://www.smashingmagazine.com/2015/10/webp-images-and-performance/'
+    tags: ['webp']

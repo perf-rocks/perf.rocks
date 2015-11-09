@@ -549,3 +549,11 @@
     website: https://developers.google.com/web/tools/chrome-devtools/profile/evaluate-performance/timeline-tool?hl=en
     category: 'Analysis & Monitoring'
     tags: ['analysis', 'measure', 'metrics']
+-
+    name: 'Big Rig'
+    description: 'Big Rig is an experimental, proof-of-concept system for generating and parsing Chrome''s trace files. It has a web app dashboard that will allow you to track performance statistics over time, as well as a CLI version for integrating with other parts of your build system.'
+    website: https://github.com/GoogleChrome/big-rig
+    node: https://github.com/GoogleChrome/node-big-rig
+    category: 'Analysis & Monitoring'
+    related_author: ['Paul Lewis']
+    tags: ['analysis', 'measure', 'metrics', 'dashboard']

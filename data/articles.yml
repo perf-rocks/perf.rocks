@@ -1093,3 +1093,9 @@
     category: 'Images'
     url: 'http://www.smashingmagazine.com/2015/10/webp-images-and-performance/'
     tags: ['webp']
+-
+    title: 'Big Rig'
+    author: ['Paul Lewis',]
+    category: 'Analysis'
+    url: 'https://aerotwist.com/blog/bigrig/'
+    tags: ['stats', 'analysis', 'tools']

@@ -1105,3 +1105,10 @@
     category: 'UX'
     url: 'http://www.smashingmagazine.com/2015/11/why-performance-matters-part-2-perception-management/'
     tags: ['ux', 'perceived speed', 'budget', 'psychology']
+-
+    title: 'The Cost of Frameworks'
+    author: ['Paul Lewis']
+    category: 'Analysis'
+    url: 'https://aerotwist.com/blog/the-cost-of-frameworks/'
+    tags: ['stats', 'analysis', 'frameworks']
+-

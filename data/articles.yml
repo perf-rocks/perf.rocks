@@ -1105,3 +1105,9 @@
     category: 'UX'
     url: 'http://www.smashingmagazine.com/2015/11/why-performance-matters-part-2-perception-management/'
     tags: ['ux', 'perceived speed', 'budget', 'psychology']
+-
+    title: 'the HTML & CSS Workmanship Manual'
+    author: ['Michael Fouquet']
+    category: 'HTML - CSS'
+    url: 'http://workmanship.io/'
+    tags: ['html', 'css', 'best practices']

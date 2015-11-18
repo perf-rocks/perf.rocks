@@ -1112,3 +1112,8 @@
     url: 'https://aerotwist.com/blog/the-cost-of-frameworks/'
     tags: ['stats', 'analysis', 'frameworks']
 -
+    title: 'Google+ goes completely responsive'
+    author: ['Paul Kinlan']
+    category: 'Case Studies'
+    url: 'https://developers.google.com/web/showcase/case-study/googleplus'
+    tags: ['google', 'budget', 'javascript', 'css', 'metrics', 'stats']

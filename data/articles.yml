@@ -1108,7 +1108,7 @@
 -
     title: 'The Cost of Frameworks'
     author: ['Paul Lewis']
-    category: 'Analysis'
+    category: 'JS'
     url: 'https://aerotwist.com/blog/the-cost-of-frameworks/'
     tags: ['stats', 'analysis', 'frameworks']
 -
@@ -1117,3 +1117,9 @@
     category: 'Case Studies'
     url: 'https://developers.google.com/web/showcase/case-study/googleplus'
     tags: ['google', 'budget', 'javascript', 'css', 'metrics', 'stats']
+-
+    title: 'JavaScript Frameworks and Mobile Performance'
+    author: ['Tom Dale']
+    category: 'JS'
+    url: 'http://tomdale.net/2015/11/javascript-frameworks-and-mobile-performance/'
+    tags: ['stats', 'analysis', 'frameworks']

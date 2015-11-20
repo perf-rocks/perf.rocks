@@ -1123,3 +1123,9 @@
     category: 'JS'
     url: 'http://tomdale.net/2015/11/javascript-frameworks-and-mobile-performance/'
     tags: ['stats', 'analysis', 'frameworks']
+-
+    title: 'The Cost of Frameworks (Response)'
+    author: ['Dave Ruppert']
+    category: 'JS'
+    url: 'http://daverupert.com/2015/11/framework-cost/'
+    tags: ['stats', 'analysis', 'frameworks']

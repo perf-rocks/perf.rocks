@@ -334,3 +334,8 @@
     author: ['Maximiliano Firtman']
     slides_url: 'http://www.slideshare.net/firt/extreme-web-performance-for-mobile-devices-54478615'
     category: 'Mobile'
+-
+    title: 'Performance Beyond the Page Load'
+    author: ['Ryan Seddon']
+    url: 'https://youtu.be/WAj1yjL7btA'
+    category: 'Performance'

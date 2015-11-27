@@ -1129,3 +1129,9 @@
     category: 'JS'
     url: 'http://daverupert.com/2015/11/framework-cost/'
     tags: ['stats', 'analysis', 'frameworks']
+-
+    title: 'How to animate ''box-shadow'' with silky smooth performance'
+    author: ['Tobias Ahlin']
+    category: '60 FPS'
+    url: 'http://tobiasahlin.com/blog/how-to-animate-box-shadow/'
+    tags: ['css', 'effect', 'animation', 'transition']

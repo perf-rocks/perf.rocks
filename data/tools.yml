@@ -551,3 +551,9 @@
     category: 'Analysis & Monitoring'
     related_author: ['Paul Lewis']
     tags: ['analysis', 'measure', 'metrics', 'dashboard']
+-
+    name: 'Louis'
+    description: 'Louis is a gulp task that is used to analyze the performance of a website against a performance budget.'
+    gulp: https://www.npmjs.com/package/gulp-louis
+    category: 'Budgeting'
+    tags: ['budget', 'analysis', 'metrics', 'phantomas']

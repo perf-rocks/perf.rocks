@@ -1135,3 +1135,9 @@
     category: '60 FPS'
     url: 'http://tobiasahlin.com/blog/how-to-animate-box-shadow/'
     tags: ['css', 'effect', 'animation', 'transition']
+-
+    title: 'Using the Battery Status API to Optimize Your Development'
+    author: ['Simon Codrington']
+    category: 'JS'
+    url: 'http://www.sitepoint.com/using-the-battery-status-api-to-optimize-your-development/'
+    tags: ['javascript', 'api', 'optimization']

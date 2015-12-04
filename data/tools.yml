@@ -557,3 +557,9 @@
     gulp: https://www.npmjs.com/package/gulp-louis
     category: 'Budgeting'
     tags: ['budget', 'analysis', 'metrics', 'phantomas']
+-
+    name: 'PageSpeed Module'
+    description: 'The PageSpeed modules are open-source server modules that optimize your site automatically.'
+    website: https://developers.google.com/speed/pagespeed/module/
+    category: 'Analysis & Monitoring'
+    tags: ['analysis', 'metrics', 'optimization']

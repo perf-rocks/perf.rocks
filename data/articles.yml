@@ -1147,3 +1147,9 @@
     category: 'Servers'
     url: 'http://www.slate.com/blogs/future_tense/2015/12/04/cloudflare_is_defaulting_all_of_its_users_to_http_2_today.html'
     tags: ['http/2', 'server', 'protocol', 'browsers']
+-
+    title: 'An Introduction to Hardware Acceleration with CSS Animations'
+    author: ['Lily Hay Newman']
+    category: 'CSS'
+    url: 'http://www.sitepoint.com/introduction-to-hardware-acceleration-css-animations/'
+    tags: ['css', 'animation', 'performance']

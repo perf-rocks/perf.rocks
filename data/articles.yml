@@ -1149,7 +1149,7 @@
     tags: ['http/2', 'server', 'protocol', 'browsers']
 -
     title: 'An Introduction to Hardware Acceleration with CSS Animations'
-    author: ['Lily Hay Newman']
+    author: ['Artem Tabalin']
     category: 'CSS'
     url: 'http://www.sitepoint.com/introduction-to-hardware-acceleration-css-animations/'
     tags: ['css', 'animation', 'performance']

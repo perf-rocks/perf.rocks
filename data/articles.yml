@@ -1153,3 +1153,9 @@
     category: 'CSS'
     url: 'http://www.sitepoint.com/introduction-to-hardware-acceleration-css-animations/'
     tags: ['css', 'animation', 'performance']
+-
+    title: 'Why AMP is fast'
+    author: ['Malte Ubl']
+    category: 'Mobile'
+    url: 'https://medium.com/@cramforce/why-amp-is-fast-7d2ff1f48597#.kculpmm01'
+    tags: ['amp', 'google', 'format', 'publishing', 'resources']

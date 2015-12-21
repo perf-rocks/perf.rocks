@@ -617,3 +617,11 @@
     name: 'Maciej Ceglowski'
     twitter: 'baconmeteor'
     bio: 'Veni, vidi, tweeti.'
+-
+    name: 'Yoav Weiss'
+    twitter: 'yoavweiss'
+    bio: 'Browser tinkerer. WebPerf freak. @respimg implementer. @wicg_ co-chair. Pushing for a faster Web at Akamai. Opinions are my own.'
+-
+    name: 'Nate Berkopec'
+    twitter: 'nateberkopec'
+    bio: 'I write about Ruby performance at http://nateberkopec.com'

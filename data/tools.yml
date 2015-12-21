@@ -563,3 +563,9 @@
     website: https://developers.google.com/speed/pagespeed/module/
     category: 'Analysis & Monitoring'
     tags: ['analysis', 'metrics', 'optimization']
+-
+    name: 'AntiModerate'
+    description: 'The progressive image loading library for great good! Reduce loading time of page to less than a second on slow connections by loading and rendering nicely blurred micro images on the page while loading full sized images in background which replace as they finish.'
+    website: https://github.com/whackashoe/antimoderate
+    category: 'Images'
+    tags: ['lazy', 'lazyloading', 'optimization']

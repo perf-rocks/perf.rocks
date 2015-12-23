@@ -1177,3 +1177,9 @@
     category: 'UX'
     url: 'http://www.smashingmagazine.com/2015/12/performance-matters-part-3-tolerance-management/'
     tags: ['ux', 'perceived speed', 'budget', 'psychology']
+-
+    title: 'How Medium does progressive image loading'
+    author: ['José Manuel Pérez']
+    category: 'Images'
+    url: 'https://jmperezperez.com/medium-image-progressive-loading-placeholder/'
+    tags: ['placeholder', 'lazyloading', 'progressive image loading']

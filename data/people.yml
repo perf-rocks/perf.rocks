@@ -625,3 +625,7 @@
     name: 'Nate Berkopec'
     twitter: 'nateberkopec'
     bio: 'I write about Ruby performance at http://nateberkopec.com'
+-
+    name: 'José Manuel Pérez'
+    twitter: 'jmperezperez'
+    bio: 'Web developer at @Spotify. Interested in HTML5, mobile web and web performance optimization.'

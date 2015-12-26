@@ -1183,3 +1183,9 @@
     category: 'Images'
     url: 'https://jmperezperez.com/medium-image-progressive-loading-placeholder/'
     tags: ['placeholder', 'lazyloading', 'progressive image loading']
+-
+    title: 'Delay'
+    author: ['Jeremy Keith']
+    category: 'UX'
+    url: 'https://medium.com/@adactio/delay-a9df9edceef3'
+    tags: ['delay', 'touch']

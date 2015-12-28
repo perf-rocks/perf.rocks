@@ -1189,3 +1189,9 @@
     category: 'UX'
     url: 'https://medium.com/@adactio/delay-a9df9edceef3'
     tags: ['delay', 'touch']
+-
+    title: '50+ Web Performance Terms: A Glossary for Understanding the Landscape'
+    author: ['Alex Pinto']
+    category: 'Principles & Fundamentals'
+    url: 'http://www.yottaa.com/company/blog/application-optimization/50-web-performance-terms-a-must-know-glossary/'
+    tags: ['terms', 'definition', 'glossary']

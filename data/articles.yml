@@ -1195,3 +1195,9 @@
     category: 'Principles & Fundamentals'
     url: 'http://www.yottaa.com/company/blog/application-optimization/50-web-performance-terms-a-must-know-glossary/'
     tags: ['terms', 'definition', 'glossary']
+-
+    title: 'Why aren’t your Images using Chroma-Subsampling?'
+    author: ['Colin Bendell']
+    category: 'Images'
+    url: 'http://calendar.perfplanet.com/2015/why-arent-your-images-using-chroma-subsampling/'
+    tags: ['color', 'alpha', 'subsampling', 'mobile', 'compression']

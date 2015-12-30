@@ -1201,3 +1201,9 @@
     category: 'Images'
     url: 'http://calendar.perfplanet.com/2015/why-arent-your-images-using-chroma-subsampling/'
     tags: ['color', 'alpha', 'subsampling', 'mobile', 'compression']
+-
+    title: 'Instant Web Application'
+    author: ['Gleb Bahmutov']
+    category: 'JS'
+    url: 'https://glebbahmutov.com/blog/instant-web-application/'
+    tags: ['javascript', 'serviceWorkers', 'hydration', 'rendering', 'loading']

@@ -1207,3 +1207,21 @@
     category: 'JS'
     url: 'https://glebbahmutov.com/blog/instant-web-application/'
     tags: ['javascript', 'serviceWorkers', 'hydration', 'rendering', 'loading']
+-
+    title: 'Developers: What you should know about web performance'
+    author: ['Christophe Limpalair']
+    category: 'Principles & Fundamentals'
+    url: 'https://medium.com/@christophelimpalair/developers-what-you-should-know-about-web-performance-550cef1040d8#.acu1yhpwa'
+    tags: ['general', 'devtools', 'progressive rendering', 'critical rendering path', 'measuring']
+-
+    title: 'The "Average Page" is a myth'
+    author: ['Ilya Grigorik']
+    category: 'Principles & Fundamentals'
+    url: 'https://www.igvita.com/2016/01/12/the-average-page-is-a-myth/'
+    tags: ['weight', 'stats', 'measure']
+-
+    title: 'Setting up HTTP/2'
+    author: ['Surma']
+    category: 'Principles & Fundamentals'
+    url: 'https://surma.link/things/h2setup/'
+    tags: ['guide', 'http2', 'tls', 'setup', 'server']

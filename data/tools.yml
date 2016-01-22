@@ -569,3 +569,9 @@
     website: https://github.com/whackashoe/antimoderate
     category: 'Images'
     tags: ['lazy', 'lazyloading', 'optimization']
+-
+    name: 'perfWars'
+    description: 'Website Performance Battles. Compare two URLs. Who will prevail?'
+    website: http://perfwars.com
+    category: 'Analysis & Monitoring'
+    tags: ['analysis', 'metrics', 'optimization', 'game']

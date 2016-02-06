@@ -1231,3 +1231,9 @@
     category: 'Budgeting'
     url: 'http://bradfrost.com/blog/post/performance-budget-builder/'
     tags: ['budget', 'budgeting', 'metrics']
+-
+    title: 'Understanding Brotli´s Potential'
+    author: ['Timothy Kadlec']
+    category: 'Delivery'
+    url: 'https://blogs.akamai.com/2016/02/understanding-brotlis-potential.html'
+    tags: ['gzip', 'compression']

@@ -1233,7 +1233,7 @@
     tags: ['budget', 'budgeting', 'metrics']
 -
     title: 'Understanding Brotli´s Potential'
-    author: ['Tim Kaedlec']
+    author: ['Tim Kadlec']
     category: 'Delivery'
     url: 'https://blogs.akamai.com/2016/02/understanding-brotlis-potential.html'
     tags: ['gzip', 'compression']

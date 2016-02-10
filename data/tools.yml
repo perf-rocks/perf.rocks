@@ -575,3 +575,9 @@
     website: http://perfwars.com
     category: 'Analysis & Monitoring'
     tags: ['analysis', 'metrics', 'optimization', 'game']
+-
+    name: 'HtmlSpeed'
+    description: 'Html-Speed is a reverse proxy written in Java. It is used for accelerating performance of websites by improving page load speed and reducing load on webservers. This is achieved by applying front-end optimizations to both static and dynamic content and by optimizing the caching of resources.'
+    website: https://github.com/TimelyPick/HtmlSpeed
+    category: 'Serverside optimization'
+    tags: ['assets', 'css', 'js', 'server', 'java']

@@ -1237,3 +1237,9 @@
     category: 'Delivery'
     url: 'https://blogs.akamai.com/2016/02/understanding-brotlis-potential.html'
     tags: ['gzip', 'compression']
+-
+    title: 'Website Speed Test, Dareboost tips for reliable results'
+    author: ['Damien Jubeau']
+    category: 'Tips & Tricks'
+    url: 'http://blog.dareboost.com/en/2016/02/website-speed-test-dareboost-tips/'
+    tags: ['bandwidth', 'viewport', 'testing', 'load time']

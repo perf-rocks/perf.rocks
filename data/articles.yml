@@ -1243,3 +1243,9 @@
     category: 'Tips & Tricks'
     url: 'http://blog.dareboost.com/en/2016/02/website-speed-test-dareboost-tips/'
     tags: ['bandwidth', 'viewport', 'testing', 'load time']
+-
+    title: 'Critical Metric: Critical Resources'
+    author: ['Steve Souders']
+    category: 'Tips & Tricks'
+    url: 'http://www.stevesouders.com/blog/2016/02/10/critical-metric-critical-resources/'
+    tags: ['render', 'speed index', 'resources', 'metrics']

@@ -173,3 +173,8 @@
     author: ['Harry Roberts']
     url: 'https://www.youtube.com/watch?v=2vFrZXWiwIc'
     category: 'Case Studies'
+-
+    title: 'Dirty Performance Secrets of HTML5'
+    author: ['Andreas Gal']
+    url: 'https://www.youtube.com/watch?v=t8x40JXUeWA'
+    category: 'Performance'

@@ -582,3 +582,9 @@
     category: 'Serverside optimization'
     tags: ['assets', 'css', 'js', 'server', 'java']
     via: ['galitzamler']
+-
+    name: 'TestMyCSS'
+    description: 'Optimize CSS delivery by checking for redundancy, validation errors, and following best practices.'
+    website: http://www.testmycss.com/
+    category: 'CSS Optimization'
+    tags: ['analysis', 'css', 'metrics', 'optimization']

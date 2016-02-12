@@ -40,6 +40,12 @@ base_url: "../"
             </a>
         </li>
         <li class="card-list__item">
+            <a class="unlink" href="/podcasts/" title="A list of podcasts and audio guides and tutorials on web performance optimization">
+                <h2 class="line-heading | mb">Podcasts</h2>
+                <p class="weak-text-color | m0">Conversations about web performance by leading developers.</p>
+            </a>
+        </li>
+        <li class="card-list__item">
             <a class="unlink" href="/books/" title="A list of web performance optimization books">
                 <h2 class="line-heading | mb">Books</h2>
                 <p class="weak-text-color | m0">Ebook and paperback books on performance written by the leading authors in the industry.</p>

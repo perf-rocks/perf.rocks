@@ -1249,3 +1249,9 @@
     category: 'Tips & Tricks'
     url: 'http://www.stevesouders.com/blog/2016/02/10/critical-metric-critical-resources/'
     tags: ['render', 'speed index', 'resources', 'metrics']
+-
+    title: 'Why BPG will replace GIFs and not only.'
+    author: ['Radu-S. Amarie']
+    category: 'Images'
+    url: 'http://eek.stfi.re/why-bpg-will-replace-gifs-and-not-only/?sf=oxajkx'
+    tags: ['image optimization', 'formats', 'gif', 'animation', 'video']

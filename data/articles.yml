@@ -1255,3 +1255,9 @@
     category: 'Images'
     url: 'http://eek.stfi.re/why-bpg-will-replace-gifs-and-not-only/?sf=oxajkx'
     tags: ['image optimization', 'formats', 'gif', 'animation', 'video']
+-
+    title: 'The Anatomy of a Frame'
+    author: ['Paul Lewis']
+    category: '60 FPS'
+    url: 'https://aerotwist.com/blog/the-anatomy-of-a-frame/'
+    tags: ['rendering', 'frame']

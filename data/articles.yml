@@ -1267,3 +1267,9 @@
     category: 'Mobile'
     url: 'https://timkadlec.com/2016/02/a-standardized-alternative-to-amp/'
     tags: ['amp', 'google', 'format', 'publishing', 'resources']
+-
+    title: 'Preload: What Is It Good For?'
+    author: ['Yoav Weiss']
+    category: 'Prefetching'
+    url: 'https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/'
+    tags: ['prefetch', 'preload', 'optimistic loading']

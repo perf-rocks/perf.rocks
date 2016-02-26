@@ -1261,3 +1261,9 @@
     category: '60 FPS'
     url: 'https://aerotwist.com/blog/the-anatomy-of-a-frame/'
     tags: ['rendering', 'frame']
+-
+    title: 'CPP: A Standardized Alternative to AMP'
+    author: ['Tim Kadlec']
+    category: 'Mobile'
+    url: 'https://timkadlec.com/2016/02/a-standardized-alternative-to-amp/'
+    tags: ['amp', 'google', 'format', 'publishing', 'resources']

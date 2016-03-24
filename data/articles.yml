@@ -1273,3 +1273,9 @@
     category: 'Prefetching'
     url: 'https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/'
     tags: ['prefetch', 'preload', 'optimistic loading']
+-
+    title: '18 Tips for Website Performance Optimization'
+    author: ['Brian Jackson']
+    category: 'Optimization'
+    url: 'https://www.keycdn.com/blog/website-performance-optimization/'
+    tags: ['performance', 'optimization']

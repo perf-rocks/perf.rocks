@@ -345,3 +345,9 @@
     author: ['Harry Roberts']
     slides_url: 'https://speakerdeck.com/csswizardry/facsst-css-and-performance'
     category: 'Principles & Fundamentals'
+-
+    title: 'HTTP/2 is Web Performance Candy'
+    author: ['Clay Smith']
+    url: 'https://www.youtube.com/watch?v=1W-UdX4Yk94'
+    slides_url: 'https://speakerdeck.com/smithclay/2-is-web-performance-candy'
+    category: 'Performance, http2'

@@ -173,3 +173,8 @@
     author: ['Harry Roberts']
     url: 'https://www.youtube.com/watch?v=2vFrZXWiwIc'
     category: 'Case Studies'
+-
+    title: 'High Speed UX: Measuring Performance'
+    author: ['Steve Souders']
+    url: 'https://player.oreilly.com/videos/9781491943588'
+    category: 'Principles & Fundamentals'

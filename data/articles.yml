@@ -1279,3 +1279,9 @@
     category: 'Optimization'
     url: 'https://www.keycdn.com/blog/website-performance-optimization/'
     tags: ['performance', 'optimization']
+-
+    title: 'Thoughts on Page Load Performance'
+    author: ['Michael Yong']
+    category: 'Principles & Fundamentals'
+    url: 'https://ymichael.com/2016/04/10/thoughts-page-load-performance.html'
+    tags: ['performance', 'page load', 'css', 'events', 'ttfb']

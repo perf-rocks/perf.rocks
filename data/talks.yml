@@ -356,3 +356,13 @@
     author: ['Clark Gredoña']
     talk_url: 'https://developers.facebook.com/videos/f8-2016/instagram-how-performance-improvements-can-drive-usage/'
     category: 'Business'
+  -
+    title: 'Yesterday's perf best-practices are today's HTTP/2 anti-patterns'
+    author: ['Ilya Grigorik']
+    talk_url: 'https://vimeo.com/162956685'
+    category: 'Performance'
+  -
+    title: 'What we talk about when we talk about web performance'
+    author: ['Patty Toland']
+    talk_url: 'https://vimeo.com/163510675'
+    category: 'Performance'

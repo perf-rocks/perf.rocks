@@ -723,3 +723,7 @@
 -
     name: 'Clark Gredoña'
     bio: 'Software Engineer at Instagram'
+-
+    name: 'Mathias Bynens'
+    twitter: 'mathias'
+    bio: 'Web standards fanatic. JavaScript, HTML, CSS, HTTP, performance, security, Bash, Unicode, OS X.'

@@ -370,4 +370,5 @@
     title: 'Front-End Performance: The Dark Side'
     author: ['Mathias Bynens']
     talk_url: 'https://dev.opera.com/blog/timing-attacks/'
+    slides_url: 'https://speakerdeck.com/mathiasbynens/front-end-performance-the-dark-side-at-fronteers-spring-conference-2016'
     category: 'Performance'

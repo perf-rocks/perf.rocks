@@ -366,3 +366,8 @@
     author: ['Patty Toland']
     talk_url: 'https://vimeo.com/163510675'
     category: 'Performance'
+-
+    title: 'Front-End Performance: The Dark Side'
+    author: ['Mathias Bynens']
+    talk_url: 'https://dev.opera.com/blog/timing-attacks/'
+    category: 'Performance'

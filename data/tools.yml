@@ -588,3 +588,9 @@
     website: http://www.testmycss.com/
     category: 'CSS Optimization'
     tags: ['analysis', 'css', 'metrics', 'optimization']
+-
+    name: 'PerfCascade'
+    description: 'SVG based HAR Waterfall Viewer'
+    website: http://micmro.github.io/PerfCascade/
+    category: 'CSS Optimization'
+    tags: ['HAR', 'viewer']

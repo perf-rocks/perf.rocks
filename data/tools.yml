@@ -594,3 +594,9 @@
     website: http://micmro.github.io/PerfCascade/
     category: 'CSS Optimization'
     tags: ['HAR', 'viewer']
+-
+    name: 'Browser Calories'
+    description: 'The easiest way to measure your performance budget.'
+    website: https://browserdiet.com/calories
+    category: 'Budgeting'
+    tags: ['budget', 'analysis', 'metrics']

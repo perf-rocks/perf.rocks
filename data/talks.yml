@@ -372,3 +372,8 @@
     talk_url: 'https://dev.opera.com/blog/timing-attacks/'
     slides_url: 'https://speakerdeck.com/mathiasbynens/front-end-performance-the-dark-side-at-fronteers-spring-conference-2016'
     category: 'Performance'
+-
+    title: 'High performance web user interfaces - Google I/O 2016'
+    author: ['Paul Lewis']
+    slides_url: 'https://www.youtube.com/watch?v=thNyy5eYfbc'
+    category: 'Performance'

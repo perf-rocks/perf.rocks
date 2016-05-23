@@ -1285,3 +1285,9 @@
     category: 'Principles & Fundamentals'
     url: 'https://ymichael.com/2016/04/10/thoughts-page-load-performance.html'
     tags: ['performance', 'page load', 'css', 'events', 'ttfb']
+-
+    title: 'Service Workers and PWAs: It’s About Reliable Performance, Not “Offline”'
+    author: ['Alex Russell']
+    category: 'JS'
+    url: 'http://infrequently.org/2016/05/service-workers-and-pwas-its-about-reliable-performance-not-offline/'
+    tags: ['service workers', 'js']

@@ -600,3 +600,9 @@
     website: https://browserdiet.com/calories
     category: 'Budgeting'
     tags: ['budget', 'analysis', 'metrics']
+-
+    name: 'Lighthouse'
+    description: 'Auditing and performance metrics for Progressive Web Apps.'
+    website: https://github.com/GoogleChrome/lighthouse
+    category: 'Analysis & Monitoring'
+    tags: ['budget', 'analysis', 'metrics', 'measure']

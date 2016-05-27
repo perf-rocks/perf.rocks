@@ -1291,3 +1291,9 @@
     category: 'JS'
     url: 'http://infrequently.org/2016/05/service-workers-and-pwas-its-about-reliable-performance-not-offline/'
     tags: ['service workers', 'js']
+-
+    title: 'Reducing JPG File size'
+    author: ['Colt McAnlis']
+    category: 'Images'
+    url: 'https://medium.com/@duhroach/reducing-jpg-file-size-e5b27df3257c#.ptee3u1nd'
+    tags: ['images', 'jpg']

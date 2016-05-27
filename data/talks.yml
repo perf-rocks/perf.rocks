@@ -377,3 +377,8 @@
     author: ['Paul Lewis']
     slides_url: 'https://www.youtube.com/watch?v=thNyy5eYfbc'
     category: 'Performance'
+-
+    title: 'Fast and resilient web apps: Tools and techniques - Google I/O 2016'
+    author: ['Ilya Grigorik']
+    slides_url: 'https://www.igvita.com/2016/05/20/building-fast-and-resilient-web-applications/'
+    category: 'Performance'

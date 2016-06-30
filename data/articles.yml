@@ -1297,3 +1297,9 @@
     category: 'Images'
     url: 'https://medium.com/@duhroach/reducing-jpg-file-size-e5b27df3257c#.ptee3u1nd'
     tags: ['images', 'jpg']
+-
+    title: 'Reducing the start render time on Chorus'
+    author: ['Ian Carrico']
+    category: 'Case Studies'
+    url: 'http://product.voxmedia.com/2016/6/16/11920356/reducing-the-start-render-time-on-chorus'
+    tags: ['case study', 'webpagetest']

@@ -1303,3 +1303,27 @@
     category: 'Case Studies'
     url: 'http://product.voxmedia.com/2016/6/16/11920356/reducing-the-start-render-time-on-chorus'
     tags: ['case study', 'webpagetest']
+-
+    title: 'Apple tests Google graphics format to speed up websites'
+    author: ['Stephen Shankland']
+    category: 'Images'
+    url: 'http://www.cnet.com/news/apple-ios-macos-tests-googles-webp-graphics-to-speed-up-web/'
+    tags: ['apple', 'tests', 'google', 'webp']
+-
+    title: 'Complexities of an infinite scroller'
+    author: ['Surma']
+    category: '60 FPS'
+    url: 'https://developers.google.com/web/updates/2016/07/infinite-scroller'
+    tags: ['scroll', 'js', 'render', 'infinite']
+-
+    title: 'Real–world HTTP/2: 400gb of images per day'
+    author: ['Michael Mifsud']
+    category: 'Case Studies'
+    url: 'https://99designs.com.au/tech-blog/blog/2016/07/14/real-world-http-2-400gb-of-images-per-day/'
+    tags: ['compression', 'images', 'traffic', 'http2']
+-
+    title: 'Lepton image compression: saving 22% losslessly from images at 15MB/s'
+    author: ['Daniel Reiter Horn']
+    category: 'Images'
+    url: 'https://blogs.dropbox.com/tech/2016/07/lepton-image-compression-saving-22-losslessly-from-images-at-15mbs/'
+    tags: ['compression', 'images', 'lepton']

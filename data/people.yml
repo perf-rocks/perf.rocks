@@ -734,3 +734,13 @@
 -
     name: 'Colt McAnlis'
     twitter: 'duhroach'
+-
+    name: 'Stephen Shankland'
+    twitter: 'stshank'
+    bio: 'Senior writer at CNET News. I cover browsers, Web programming, computing technology, photography, and more. In the Conehead clique in junior high. RT != +1.'
+-
+    name: 'Michael Mifsud'
+    twitter: 'xzyfer'
+    bio: 'Performance engineer @99designs. Team @CSSConfAU and @MelbCSS. LibSass and @nodesass lead.'
+-
+    name: 'Daniel Reiter Horn'

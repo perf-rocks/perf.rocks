@@ -1327,3 +1327,9 @@
     category: 'Images'
     url: 'https://blogs.dropbox.com/tech/2016/07/lepton-image-compression-saving-22-losslessly-from-images-at-15mbs/'
     tags: ['compression', 'images', 'lepton']
+-
+    title: 'High Performance SVGs'
+    author: ['Sarah Drasner']
+    category: 'Images'
+    url: 'https://css-tricks.com/high-performance-svgs/'
+    tags: ['svg', 'images', 'performance', 'optimization']

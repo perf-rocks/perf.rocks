@@ -178,3 +178,8 @@
     author: ['Steve Souders']
     url: 'https://player.oreilly.com/videos/9781491943588'
     category: 'Principles & Fundamentals'
+-
+    title: 'Key Moments In Web Page Loading'
+    author: ['Addy Osmani']
+    url: 'https://www.youtube.com/watch?v=wFwogd4CdwY'
+    category: 'Loading & Paint'

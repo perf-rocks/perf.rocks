@@ -728,7 +728,7 @@
     twitter: 'mathias'
     bio: 'Web standards fanatic. JavaScript, HTML, CSS, HTTP, performance, security, Bash, Unicode, OS X.'
 -
-    name: 'Alex Russel'
+    name: 'Alex Russell'
     twitter: 'slightlylate'
     bio: 'Bringing the web platform into the late-90''s, one spec at a time.'
 -
@@ -744,3 +744,7 @@
     bio: 'Performance engineer @99designs. Team @CSSConfAU and @MelbCSS. LibSass and @nodesass lead.'
 -
     name: 'Daniel Reiter Horn'
+-
+    name: 'Sarah Drasner'
+    twitter: 'sarah_edo'
+    bio: 'Award-winning speaker. Consultant. Staff writer @Real_CSS_Tricks. Formerly Manager, UX Design & Engineering @trulia (Zillow). http://codepen.io/sdras/'

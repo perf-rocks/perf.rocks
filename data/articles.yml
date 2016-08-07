@@ -1333,3 +1333,9 @@
     category: 'Images'
     url: 'https://css-tricks.com/high-performance-svgs/'
     tags: ['svg', 'images', 'performance', 'optimization']
+-
+    title: 'PNG optimisation'
+    author: ['Bjango']
+    category: 'Images'
+    url: 'https://bjango.com/articles/pngoptimisation/'
+    tags: ['png', 'images', 'compression', 'optimization']

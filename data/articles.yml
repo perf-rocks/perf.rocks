@@ -1339,3 +1339,9 @@
     category: 'Images'
     url: 'https://bjango.com/articles/pngoptimisation/'
     tags: ['png', 'images', 'compression', 'optimization']
+-
+    title: 'New super image format for the web — BPG'
+    author: ['Vladimir Jovanović']
+    category: 'Images'
+    url: 'https://medium.com/@vlasterx/new-super-image-format-for-the-web-bpg-966327a56ce8'
+    tags: ['bpg', 'images', 'compression', 'optimization']

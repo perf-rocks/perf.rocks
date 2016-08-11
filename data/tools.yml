@@ -612,3 +612,9 @@
     website: https://github.com/devbridge/Performance
     category: 'Analysis & Monitoring'
     tags: ['website', 'pagespeed', 'metrics', 'measure']
+-
+    name: 'BPG Image Encoder'
+    description: 'BPG (Better Portable Graphics) is a new image format.'
+    website: http://bellard.org/bpg/
+    category: 'Image Optimization'
+    tags: ['images', 'compression','bpg']

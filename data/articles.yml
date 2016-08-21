@@ -1345,3 +1345,15 @@
     category: 'Images'
     url: 'https://medium.com/@vlasterx/new-super-image-format-for-the-web-bpg-966327a56ce8'
     tags: ['bpg', 'images', 'compression', 'optimization']
+-
+    title: 'Smooth as Butter: Achieving 60 FPS Animations with CSS3'
+    author: ['José Rosário']
+    category: 'CSS'
+    url: 'https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108#.d6a8syp74'
+    tags: ['css', 'animation', '60fps']
+-
+    title: 'Another 10k Apart: Create a Website in 10 KB, Win Prizes!'
+    author: ['Jeffrey Zeldman']
+    category: 'Case Studies'
+    url: 'http://alistapart.com/article/another-10k-apart'
+    tags: ['pizes', 'contest']

@@ -1,25 +1,3 @@
-<div class="wrapper | mb--large">
-  <div class="card-list card-list--centered">
-    <div class="card-list__item card-list__item--sponsor">
-      <div class="sponsor-content">
-        <a class="sponsor-content__image | unlink" href="http://vintisis.com" title="Vintisis – High Quality Designer t-shirts sponsors Perf.Rocks.">
-          <img style="display: block;" src="{{ site.img }}/vintisis-sponsor.jpg" srcset="{{ site.img }}/vintisis-sponsor.jpg 300w, {{ site.img }}/vintisis-sponsor@2x.jpg 600w" alt="Vintisis - High Quality designer t-shirts sponsor" width="400">
-        </a>
-        <div class="sponsor-content__body">
-          <h2 class="epsilon | mb ">
-            <span class="face--500">Proudly sponsored <br>by </span>
-            Vintisis
-          </h2>
-          <p class="milli | m0">
-            There is design that tells stories.<br> High-quality cotton T-Shirts. Made in Barcelona.<br>
-            <a href="http://vintisis.com" class="btn | mt" href="http://vintisis.com" title="Visit Vintisis.com for High Quality Designer t-shirts.">Check them out!</a>
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
 <div class="container--brand-faded | text--center | pt--large pb--large">
 
     <form class="pb" action="//rocks.us10.list-manage.com/subscribe/post?u=36b89efda9a6d777df6716cf2&amp;id=2e9e826f2e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>

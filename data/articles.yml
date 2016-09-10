@@ -1345,8 +1345,6 @@
     category: 'Images'
     url: 'https://medium.com/@vlasterx/new-super-image-format-for-the-web-bpg-966327a56ce8'
     tags: ['bpg', 'images', 'compression', 'optimization']
-<<<<<<< HEAD
-=======
 -
     title: 'Smooth as Butter: Achieving 60 FPS Animations with CSS3'
     author: ['José Rosário']
@@ -1359,4 +1357,3 @@
     category: 'Case Studies'
     url: 'http://alistapart.com/article/another-10k-apart'
     tags: ['pizes', 'contest']
->>>>>>> 65c164bd12360458f5e76f7c0fd905a89a4aad2a

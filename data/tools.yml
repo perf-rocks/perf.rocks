@@ -618,3 +618,9 @@
     website: http://bellard.org/bpg/
     category: 'Image Optimization'
     tags: ['images', 'compression','bpg']
+-
+    name: 'Appmetrics.js'
+    description: 'Measures Performance and Reports to Google Analytics-'
+    website: https://github.com/ebidel/appmetrics.js
+    category: 'Analysis & Monitoring'
+    tags: ['website', 'pagespeed', 'metrics', 'measure']

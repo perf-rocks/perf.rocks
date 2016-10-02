@@ -624,3 +624,9 @@
     website: https://github.com/ebidel/appmetrics.js
     category: 'Analysis & Monitoring'
     tags: ['website', 'pagespeed', 'metrics', 'measure']
+-
+    name: 'optimize-js'
+    description: 'Optimize a JavaScript file for faster initial load by wrapping eagerly-invoked functions'
+    website: https://github.com/nolanlawson/optimize-js
+    category: 'Javascript Optimization'
+    tags: ['js', 'optimization', 'javascript']

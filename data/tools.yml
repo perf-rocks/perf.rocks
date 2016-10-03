@@ -630,3 +630,16 @@
     website: https://github.com/nolanlawson/optimize-js
     category: 'Javascript Optimization'
     tags: ['js', 'optimization', 'javascript']
+-
+    name: 'Web Performance Checklist'
+    description: 'A Web Performance checklist for web designers.'
+    website: http://jonyablonski.com/designers-wpo-checklist/
+    category: 'Budgeting'
+    related_author: ['Jon Yablonski']
+    tags: ['design', 'checklist']
+-
+    name: 'pageAccelerator'
+    description: 'A very light solution that uses Ajax and pushState to deliver a faster navigation experience inspired by turbolinks and pjax.'
+    website: https://github.com/Easyfood/pageAccelerator
+    category: 'Navigation'
+    tags: ['links', 'ajax', 'pushstate']

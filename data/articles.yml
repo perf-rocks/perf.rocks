@@ -1357,3 +1357,15 @@
     category: 'Case Studies'
     url: 'http://alistapart.com/article/another-10k-apart'
     tags: ['pizes', 'contest']
+-
+    title: 'Why our website is faster than yours'
+    author: ['Declan Rek']
+    category: 'Case Studies'
+    url: 'https://www.voorhoede.nl/en/blog/why-our-website-is-faster-than-yours/'
+    tags: ['design', 'static', 'images', 'svg', 'critical css', 'caching', 'cdn']
+-
+    title: 'Designers guide to web performance optimization'
+    author: ['Jon Yablonski']
+    category: 'Design'
+    url: 'http://jonyablonski.com/2016/designers-guide-to-web-performance-optimization/'
+    tags: ['design']

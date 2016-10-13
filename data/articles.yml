@@ -1357,3 +1357,9 @@
     category: 'Case Studies'
     url: 'http://alistapart.com/article/another-10k-apart'
     tags: ['pizes', 'contest']
+-
+    title: 'Web performance secrets from the BBC'
+    author: ['Oliver Lindberg']
+    category: 'Case Studies'
+    url: 'https://medium.com/net-magazine/web-performance-secrets-from-the-bbc-d4b01f869752'
+    tags: ['performance', 'cache']

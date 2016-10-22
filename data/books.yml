@@ -47,3 +47,9 @@
     description: "This book provides you with a technical foundation to implement animation in a way that’s both visually stunning and programmatically maintainable. Throughout, we consider the balance between enriching a page with motion design while avoiding unnecessary flourishes.  From animation performance to theory, we cover everything needed to become a professional web animator. Whether you're a novice or professional web developer, this book is for everyone."
     category: Animation
     url: http://www.peachpit.com/store/web-animation-using-javascript-develop-design-9780134096667
+-
+    title: 'The Art of Application Performance Testing'
+    author: ['Ian Molyneaux']
+    description: "Because performance is paramount today, this thoroughly updated guide shows you how to test mission-critical applications for scalability and performance before you deploy them—whether it’s to the cloud or a mobile device. You’ll learn the complete testing process lifecycle step-by-step, along with best practices to plan, coordinate, and conduct performance tests on your applications."
+    category: General
+    url: http://shop.oreilly.com/product/0636920033233.do

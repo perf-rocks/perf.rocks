@@ -1369,3 +1369,9 @@
     category: 'Design'
     url: 'http://jonyablonski.com/2016/designers-guide-to-web-performance-optimization/'
     tags: ['design']
+-
+    title: 'Web performance secrets from the BBC'
+    author: ['Oliver Lindberg']
+    category: 'Case Studies'
+    url: 'https://medium.com/net-magazine/web-performance-secrets-from-the-bbc-d4b01f869752'
+    tags: ['performance', 'cache']

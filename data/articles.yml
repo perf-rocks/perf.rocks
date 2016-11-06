@@ -1381,3 +1381,9 @@
     category: 'Webfonts'
     url: 'https://www.filamentgroup.com/lab/font-events.html'
     tags: ['webfonts']
+-
+    title: 'Improving Perceived Performance with Multiple Background Images'
+    author: ['Harry Roberts']
+    category: 'Images'
+    url: 'http://csswizardry.com/2016/10/improving-perceived-performance-with-multiple-background-images/'
+    tags: ['images', 'ux', 'perceived performance']

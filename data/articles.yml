@@ -1375,3 +1375,9 @@
     category: 'Case Studies'
     url: 'https://medium.com/net-magazine/web-performance-secrets-from-the-bbc-d4b01f869752'
     tags: ['performance', 'cache']
+-
+    title: 'How We Load Web Fonts Progressively'
+    author: ['Scott Jehl', 'Zach Leatherman']
+    category: 'Webfonts'
+    url: 'https://www.filamentgroup.com/lab/font-events.html'
+    tags: ['webfonts']

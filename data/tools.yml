@@ -643,3 +643,9 @@
     website: https://github.com/Easyfood/pageAccelerator
     category: 'Navigation'
     tags: ['links', 'ajax', 'pushstate']
+-
+    name: 'pwmetrics'
+    description: 'Progressive web metrics at your fingertipz'
+    website: https://github.com/paulirish/pwmetrics
+    category: 'Analysis & Monitoring'
+    tags: ['metrics', 'performance', 'lighthouse']

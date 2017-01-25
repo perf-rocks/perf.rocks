@@ -602,10 +602,11 @@
     tags: ['budget', 'analysis', 'metrics']
 -
     name: 'Lighthouse'
-    description: 'Auditing and performance metrics for Progressive Web Apps.'
-    website: https://github.com/GoogleChrome/lighthouse
+    description: 'Automated tool for improving the quality of your progressive web apps. Run as a Chrome Extension, from the CLI, or used programmatically as a Node module.'
+    node: https://github.com/GoogleChrome/lighthouse
+    website: https://developers.google.com/web/tools/lighthouse/
     category: 'Analysis & Monitoring'
-    tags: ['budget', 'analysis', 'metrics', 'measure']
+    tags: ['budget', 'checklist', 'analysis', 'metrics', 'measure', 'extension']
 -
     name: 'perf-tool'
     description: 'Generates a website with perfromance metrics of your website from PageSpeed Insights and dev-perf'

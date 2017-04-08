@@ -1387,3 +1387,9 @@
     category: 'Images'
     url: 'http://csswizardry.com/2016/10/improving-perceived-performance-with-multiple-background-images/'
     tags: ['images', 'ux', 'perceived performance']
+-
+    title: 'Zero to HTTP/2 with AWS and Hugo'
+    author: ['Josh Habdas']
+    category: 'Principles & Fundamentals'
+    url: 'https://habd.as/zero-to-http-2-aws-hugo/'
+    tags: ['http/2', 'https', 'amazon web services', 'hugo', 'ssl', 'hosting']

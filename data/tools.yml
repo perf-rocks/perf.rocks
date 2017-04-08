@@ -656,3 +656,9 @@
     website: https://github.com/paulirish/pwmetrics
     category: 'Analysis & Monitoring'
     tags: ['metrics', 'performance', 'lighthouse']
+-
+    name: 'Fetch Inject'
+    description: 'A fetching async loader and DOM injection sequencer for performance-minded webapps.'
+    website: https://github.com/jhabdas/fetch-inject
+    category: 'JavaScript Optimization'
+    tags: ['css', 'javascript', 'optimization']

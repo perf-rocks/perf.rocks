@@ -49,6 +49,11 @@
     slides_url: https://docs.google.com/presentation/d/1MtDBNTH1g7CZzhwlJ1raEJagA8qM3uoV7ta6i66bO2M/present?slide=id.p19
     category: 'Critical Rendering Path'
 -
+    title: Improve your web application using Progressive Web Metrics
+    author: ['Artem Denysov']
+    slides_url: https://docs.google.com/presentation/d/1D4foHkE0VQdhcA5_hiesl8JhEGeTDRrQR4gipfJ8z7Y/present
+    category: 'Performance'
+-
     title: RWD Bloat
     author: ['Dave Rupert']
     slides_url: https://speakerdeck.com/davatron5000/rwd-bloat

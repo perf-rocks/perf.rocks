@@ -662,3 +662,28 @@
     website: https://github.com/jhabdas/fetch-inject
     category: 'JavaScript Optimization'
     tags: ['css', 'javascript', 'optimization']
+-
+    name: 'Border Radius CSS'
+    description: 'CSS border radius generator for lazy people.'
+    website: http://border-radius.com/
+    category: 'CSS Optimization'
+    tags: ['css', 'design']
+-
+    name: 'Free Online HTML Formatter'
+    description: 'This free online HTML formatter and validator lets you chose your indentation level and also lets you export to file.'
+    website: http://www.freeformatter.com/html-formatter.html
+    category: 'HTML Optimization'
+    tags: ['html', 'optimization']
+-
+    name: 'Online JavaScript beautifier'
+    description: 'Beautify, unpack or deobfuscate JavaScript and HTML, also makes JSON/JSONP readable.'
+    website: http://jsbeautifier.org/
+    category: 'Javascript Optimization'
+    tags: ['js', 'optimization']
+-
+    name: 'JSCompress'
+    description: 'JSCompress.com is an online JavaScript compressor that allows you to compress and minify all of your JS files by up to 80% of their original size.'
+    website: https://jscompress.com/
+    category: 'Javascript Optimization'
+    tags: ['js', 'optimization']
+-

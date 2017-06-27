@@ -109,6 +109,12 @@
     category: 'CSS Analysis'
     tags: ['css', 'metrics', 'analysis']
 -
+    name: LoadView
+    description: 'LoadView is a load testing tool for websites, web apps and api's. Test anything rendered in a browser, such as web applications like Flash, AJAX, Silverlight, HTML5, PHP and Ruby On Rails'
+    website: https://www.loadview-testing.com/
+    category: 'Analysis & Monitoring'
+    tags: ['analysis','monitoring']
+-
     name: TMI (Too Many Images)
     description: 'Discover your image weight on the web. Find out the image weight in your pages, compare to the HTTPArchive average and discover what images you can optimize further.'
     node: https://github.com/addyosmani/tmi

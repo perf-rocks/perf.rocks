@@ -1393,3 +1393,9 @@
     category: 'Principles & Fundamentals'
     url: 'https://habd.as/zero-to-http-2-aws-hugo/'
     tags: ['http/2', 'https', 'amazon web services', 'hugo', 'ssl', 'hosting']
+-
+    title: 'Improving Web Performance to Mirror Engine Speed'
+    author: ['Jonas Badalic']
+    category: 'Case Studies'
+    url: 'https://habd.as/zero-to-http-2-aws-hugo/'
+    tags: ['performance', 'javascript', 'performance', 'images', 'http/2']

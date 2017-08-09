@@ -1398,4 +1398,10 @@
     author: ['Jonas Badalic']
     category: 'Case Studies'
     url: 'https://blog.algolia.com/improving-web-performance-to-mirror-engine-speed/'
-    tags: ['performance', 'javascript', 'performance', 'images', 'http/2']
+    tags: ['performance', 'javascript', 'images', 'http/2']
+-
+    title: 'The Critical Request'
+    author: ['Ben Schwarz']
+    category: 'Performance'
+    url: 'https://css-tricks.com/the-critical-request/'
+    tags: ['performance', 'browser', 'scripts', 'images', 'http/2']

@@ -1399,3 +1399,9 @@
     category: 'Case Studies'
     url: 'https://blog.algolia.com/improving-web-performance-to-mirror-engine-speed/'
     tags: ['performance', 'javascript', 'performance', 'images', 'http/2']
+-
+    title: 'Vue.js docs performance audit'
+    author: ['Artem Denysov']
+    category: 'Case Studies'
+    url: 'https://medium.com/@denar90/vue-js-docs-performance-audit-e89b11dfc43'
+    tags: ['performance', 'optimization', 'javascript', 'webfonts']

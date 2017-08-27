@@ -780,4 +780,17 @@
     bio: "I'm not just a software engineer. Writing elegant code is only one of the ways I enjoy solving problems."
 -
     name: 'Jeremy L. Wagner'
-    bio: "Developer. Author of Web Performance in Action. Creator of http://cindex.co . Come for the opinions, stay for the tech."
+    twitter: 'malchata'
+    bio: 'Developer. Author of Web Performance in Action. Creator of http://cindex.co . Come for the opinions, stay for the tech.'
+-
+    name: 'Emily Hayman'
+    twitter: 'eehayman'
+    bio: 'Web developer. Sass enthusiast. Pretty into puns.'
+-
+    name: 'Artem Denysov'
+    twitter: 'denar90_'
+    bio: 'Software engineer. Working on projects which make developers lives easier'
+-
+    name: 'Jonas Badalic'
+    twitter: 'jonasbadalic'
+    bio: 'Always building apps and improving perf. Currently front-end @Algolia. Advocating for making the web a faster and nicer place for everyone'

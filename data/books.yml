@@ -53,3 +53,9 @@
     description: "Because performance is paramount today, this thoroughly updated guide shows you how to test mission-critical applications for scalability and performance before you deploy them—whether it’s to the cloud or a mobile device. You’ll learn the complete testing process lifecycle step-by-step, along with best practices to plan, coordinate, and conduct performance tests on your applications."
     category: General
     url: http://shop.oreilly.com/product/0636920033233.do
+-
+    title: 'Web Performance in Action'
+    author: ['Jeremy L. Wagner']
+    description: "Web Performance in Action is your companion guide to making websites faster. You'll learn techniques that speed the delivery of your site's assets to the user, increase rendering speed, decrease the overall footprint of your site, as well as how to build a workflow that automates common optimization techniques."
+    category: General
+    url: https://www.manning.com/books/web-performance-in-action

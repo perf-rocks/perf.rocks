@@ -1411,3 +1411,9 @@
     category: 'Performance'
     url: 'https://css-tricks.com/the-critical-request/'
     tags: ['performance', 'browser', 'scripts', 'images', 'http/2']
+-
+    title: 'Performant Web Animations and Interactions: Achieving 60 FPS'
+    author: ['Emily Hayman']
+    category: 'Performance'
+    url: 'https://blog.algolia.com/performant-web-animations/'
+    tags: ['performance', '60fps', 'animation']

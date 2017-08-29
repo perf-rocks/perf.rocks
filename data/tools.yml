@@ -662,3 +662,9 @@
     website: https://github.com/jhabdas/fetch-inject
     category: 'JavaScript Optimization'
     tags: ['css', 'javascript', 'optimization']
+-
+    name: 'Lozad'
+    description: 'Advanced performant Lazy Loader using Intersection Observer API.'
+    website: https://github.com/ApoorvSaxena/lozad.js
+    category: 'JavaScript Optimization'
+    tags: [javascript', 'optimization']

@@ -1417,3 +1417,9 @@
     category: 'Performance'
     url: 'https://blog.algolia.com/performant-web-animations/'
     tags: ['performance', '60fps', 'animation']
+-
+    title: 'Performance metrics. What’s this all about?'
+    author: ['Artem Denysov']
+    category: 'Performance'
+    url: 'https://medium.com/@denar90/performance-metrics-whats-this-all-about-1128461ad6b'
+    tags: ['performance', 'metrics', 'optimization', 'javascript', 'webfonts', '60fps', 'animation']

@@ -668,3 +668,9 @@
     website: https://github.com/ApoorvSaxena/lozad.js
     category: 'JavaScript Optimization'
     tags: [javascript', 'optimization']
+-
+    name: 'Size Limit'
+    description: 'Size Limit is a tool to prevent JavaScript libraries bloat. With it, you know exactly for how many kilobytes your JS library increases the user bundle.'
+    website: https://github.com/ai/size-limit
+    category: 'JavaScript Optimization'
+    tags: [javascript', 'optimization']

@@ -1423,3 +1423,21 @@
     category: 'Performance'
     url: 'https://medium.com/@denar90/performance-metrics-whats-this-all-about-1128461ad6b'
     tags: ['performance', 'metrics', 'optimization', 'javascript', 'webfonts', '60fps', 'animation']
+-
+    title: 'Building the DOM faster: speculative parsing, async, defer and preload'
+    author: ['Milica Mihajlija']
+    category: 'Performance'
+    url: 'https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/'
+    tags: ['dom', 'defer', 'async', 'preload']
+-
+    title: 'Size Limit: Make the Web lighter'
+    author: ['Andy Barnov', 'Andrey Sitnik']
+    category: 'Javascript'
+    url: 'https://evilmartians.com/chronicles/size-limit-make-the-web-lighter'
+    tags: ['node', 'modules', 'javscript']
+-
+    title: 'eBay’s Font Loading Strategy'
+    author: ['Senthil Padmanabhan']
+    category: 'Webfonts'
+    url: 'http://www.ebaytechblog.com/2017/09/21/ebays-font-loading-strategy/'
+    tags: ['webfonts']

@@ -183,3 +183,8 @@
     author: ['Addy Osmani']
     url: 'https://www.youtube.com/watch?v=wFwogd4CdwY'
     category: 'Loading & Paint'
+-
+    title: 'Web performance in the real world: how to make fast websites'
+    author: ['Nolan Lawson']
+    url: 'https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES15'
+    category: 'Performance & Optimization'

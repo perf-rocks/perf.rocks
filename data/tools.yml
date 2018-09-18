@@ -674,3 +674,9 @@
     website: https://github.com/ai/size-limit
     category: 'JavaScript Optimization'
     tags: [javascript', 'optimization']
+-
+    name: Treo
+    description: 'Treo is Lighthouse as a Service. It provides regression testing, geographical regions, custom networks, and integrations with GitHub & Slack. Treo is a paid product with plans for solo-developers and teams.'
+    website: https://treo.sh/
+    category: 'Analysis & Monitoring'
+    tags: ['metrics', 'measure', 'analysis', 'monitor', 'lighthouse', 'performance']

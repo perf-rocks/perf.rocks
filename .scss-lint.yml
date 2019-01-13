@@ -1,9 +1,0 @@
-linters:
-  Indentation:
-    width: 4
-  PropertySortOrder:
-    enabled: false
-  Selector:
-    enabled: false
-  SelectorFormat:
-    convention: hyphenated_BEM

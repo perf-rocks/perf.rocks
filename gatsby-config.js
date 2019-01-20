@@ -17,13 +17,22 @@ module.exports = {
         tables: [
           {
             baseId: process.env.GATSBY_AIRTABLE_BASE_ID,
-            tableName: `Resources`,
-            tableView: `Published`,
-            tableLinks: [`Topic`]
+            tableName: `Tags`,
+            tableLinks: [`Resources`]
           },
           {
             baseId: process.env.GATSBY_AIRTABLE_BASE_ID,
-            tableName: `Tags`
+            tableName: `Types`,
+            tableLinks: [`Resources`]
+          },
+          {
+            baseId: process.env.GATSBY_AIRTABLE_BASE_ID,
+            tableName: `Resources`,
+            // @NOTE can't use the Published tableView, as Types and Tags
+            // contain references back to Resources that are not in the Published view
+            // and break gatsby-source-airtable.
+            // tableView: `Published`,
+            tableLinks: [`Tags`, `Type`]
           }
         ]
       }

@@ -16,10 +16,13 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
+    "babel-preset-gatsby": "^0.1.6",
     "dotenv": "^6.2.0",
     "gatsby": "^2.0.76",
+    "gatsby-plugin-linaria": "^1.0.2",
     "gatsby-source-airtable": "^2.0.3",
     "gatsby-source-filesystem": "^2.0.16",
+    "linaria": "^1.0.0-beta.13",
     "react": "^16.5.1",
     "react-dom": "^16.5.1"
   },

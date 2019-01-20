@@ -9,6 +9,7 @@ module.exports = {
     description: `Web performance matters. Find resources that help you build lightning fast websites.`
   },
   plugins: [
+    'gatsby-plugin-linaria',
     {
       resolve: `gatsby-source-airtable`,
       options: {

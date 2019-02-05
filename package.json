@@ -23,8 +23,8 @@
     "gatsby-source-airtable": "^2.0.3",
     "gatsby-source-filesystem": "^2.0.16",
     "linaria": "^1.0.0-beta.13",
-    "react": "^16.5.1",
-    "react-dom": "^16.5.1",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
     "slugify": "^1.3.4"
   },
   "repository": {

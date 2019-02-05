@@ -1,5 +1,5 @@
 import React from 'react';
-import { StaticQuery, Link } from 'gatsby';
+import { graphql, StaticQuery, Link } from 'gatsby';
 import slugify from 'slugify';
 
 const Navigation = () => (
@@ -49,7 +49,7 @@ const Navigation = () => (
           <nav>
             {groups.map((group, i) => {
               return (
-                <React.Fragment>
+                <React.Fragment key={i}>
                   <strong>{group.slice(3)}</strong>
                   <ul>
                     {tags

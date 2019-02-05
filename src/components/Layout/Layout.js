@@ -3,17 +3,15 @@ import Navigation from '../Navigation';
 import { styled } from 'linaria/react';
 import '../../styles/global.css';
 
-const Layout = ({ children }) => {
-  return (
-    <LayoutWrapper>
-      <LayoutSidebar>
-        <Navigation />
-      </LayoutSidebar>
+const Layout = ({ children }) => (
+  <LayoutWrapper>
+    <LayoutSidebar>
+      <Navigation />
+    </LayoutSidebar>
 
-      <LayoutMain>{children}</LayoutMain>
-    </LayoutWrapper>
-  );
-};
+    <LayoutMain>{children}</LayoutMain>
+  </LayoutWrapper>
+);
 
 const LayoutWrapper = styled.div`
   display: grid;

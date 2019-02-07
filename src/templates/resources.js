@@ -45,7 +45,8 @@ class Resources extends React.Component {
         ({ Type }) =>
           resourceTypeFilter === RESOURCE_TYPES.ALL ||
           resourceTypeFilter === Type[0].data.Name
-      );
+      )
+      .sort((a, b) => new Date(b.Date_Added) - new Date(a.Date_Added));
 
     return (
       <Layout>
@@ -61,6 +62,8 @@ class Resources extends React.Component {
               resources.map((resource, i) => (
                 <li key={i}>
                   <a href={resource.url}>{resource.Title}</a>
+                  <br />
+                  {resource.Date_Added}
                 </li>
               ))}
           </ul>
@@ -86,6 +89,7 @@ export const pageQuery = graphql`
               data {
                 Title
                 url
+                Date_Added
                 Type {
                   data {
                     Name

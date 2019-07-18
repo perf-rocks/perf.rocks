@@ -3,9 +3,9 @@
     url: 'http://www.theguardian.com/preference/platform/mobile?page=http%3A%2F%2Fwww.theguardian.com%2Fuk%3Fview%3Dmobile%23opt-in-message'
     tags: [news]
 -
-    title: Hack Cabin
-    url: 'https://hackcabin.com'
-    tags: [technology, freelancing, jamstack]
+    title: habd.as
+    url: 'https://habd.as'
+    tags: [security, finance, technology]
 -
    title: Smashing Magazine (Beta)
    url: 'https://next.smashingmagazine.com/'

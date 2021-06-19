@@ -53,8 +53,8 @@ keywords:         'performance, front-end, budgeting, monitoring, grunt, fast we
 
 url:              http://perf.rocks
 github:
-    repo:         https://github.com/danielguillan/perf.rocks
-    issues:       https://github.com/danielguillan/perf.rocks/issues
+    repo:         https://github.com/perf-rocks/perf.rocks
+    issues:       https://github.com/perf-rocks/perf.rocks/issues
 
 
 tool_types:

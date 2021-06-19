@@ -33,6 +33,13 @@
     related: ['psi']
     tags: ['analysis']
 -
+    name: Screpy AI-Based Analysis Tool
+    description: 'Screpy is a web analysis tool that can analyze all pages of your websites in one dashboard and monitor them with your team.'
+    website: https://screpy.com/
+    category: 'Analysis & Monitoring'
+    related: ['PageSpeedInsights']
+    tags: ['analysis']
+-
     name: Pingdom Website Speed Test
     description: 'Enter a URL to test the load time of that page, analyze it and find bottlenecks.'
     website: http://tools.pingdom.com/fpt/

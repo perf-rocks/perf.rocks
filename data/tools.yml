@@ -659,9 +659,9 @@
 -
     name: 'Fetch Inject'
     description: 'A fetching async loader and DOM injection sequencer for performance-minded webapps.'
-    website: https://github.com/jhabdas/fetch-inject
+    website: https://git.habd.as/jhabdas/fetch-inject
     category: 'JavaScript Optimization'
-    tags: ['css', 'javascript', 'optimization']
+    tags: ["fetch', 'css', 'javascript', 'dom']
 -
     name: 'Lozad'
     description: 'Advanced performant Lazy Loader using Intersection Observer API.'
